@@ -1,0 +1,4840 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: common\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-18 18:01+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: jianhui.zhu <jianhui.zhu@kunlun.com>\n"
+"Language-Team: 千军破 <jie.cong@kunlun-inc.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _o;_v\n"
+"X-Poedit-Basepath: S:\\sg2-server\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: service/MobilePayment.php:93
+msgid "e.iphone.goodsNotExist"
+msgstr "该商品不存在"
+
+#: service/MobilePayment.php:107
+msgid "e.iphone.paymentExist"
+msgstr "订单已存在"
+
+#: service/Bookmark.php:55
+msgid "e.bookmark.reachMaxNum[NUM_LIMIT]"
+msgstr "收藏夹已达到上限（[NUM_LIMIT]条）"
+
+#: service/Bookmark.php:60
+msgid "e.bookmark.cityNotExist"
+msgstr "该城市不存在"
+
+#: service/Bookmark.php:67
+msgid "e.bookmark.alreadyExist"
+msgstr "该城市已被收藏"
+
+#: service/Active.php:317
+msgid "e.active.rewardConfigUnvalid"
+msgstr "配置错误"
+
+#: service/Active.php:373
+#: service/Active.php:381
+msgid "e.active.paramError"
+msgstr "没有找到要领取的奖励"
+
+#: service/Active.php:388
+msgid "e.active.rewardAlreadyGot"
+msgstr "已经领取过该项奖励"
+
+#: service/Active.php:402
+#: service/Active.php:411
+msgid "e.active.activePointNotEnough"
+msgstr "活跃度不足，无法领取"
+
+#: service/Active.php:780
+#: service/Active.php:828
+#: service/Quest.php:1381
+#: service/Quest.php:1427
+msgid "e.equipment.dataError"
+msgstr "数据错误"
+
+#: service/Quest.php:213
+msgid "e.quest.cannotRewardNow"
+msgstr "现在不可领取"
+
+#: service/Quest.php:248
+msgid "e.quest.cannotRewardMulti"
+msgstr "不可重复领取"
+
+#: service/Quest.php:252
+msgid "e.quest.rewardTimesTooMuch"
+msgstr "领取次数太多了"
+
+#: service/Quest.php:265
+msgid "e.quest.rewardTimesTooMuchInThisPeriod"
+msgstr "本领取周期内领取次数太多了"
+
+#: service/Quest.php:291
+msgid "e.quest.notExist"
+msgstr "不存在或无效"
+
+#: service/Quest.php:296
+msgid "e.quest.cannotReward"
+msgstr "该活动不可领取"
+
+#: service/Quest.php:302
+#: service/Quest.php:596
+msgid "e.quest.notSatisfyTerms"
+msgstr "不符合领取条件"
+
+#: service/Quest.php:369
+msgid "e.quest.termsConfigUnvalid"
+msgstr "达成条件配置错误"
+
+#: service/Quest.php:1151
+msgid "e.quest.rewardsConfigUnvalid"
+msgstr "奖励配置错误"
+
+#: service/Updater.php:1357
+msgid "game.npcnation.name"
+msgstr "司马炎"
+
+#: service/Nation.php:356
+#: service/Nation.php:543
+#: service/Nation.php:607
+#: service/Nation.php:738
+#: service/Corps.php:505
+#: service/Corps.php:1079
+msgid "game.prestigeLevel[PRESTIGE_LEVEL]"
+msgstr "[PRESTIGE_LEVEL]级"
+
+#: service/Nation.php:412
+#: service/Nation.php:481
+msgid "e.nation.noSuchOfficialExist"
+msgstr "该官职不存在"
+
+#: service/Nation.php:419
+#: service/Nation.php:475
+#: service/Nation.php:1216
+#: service/Nation.php:2155
+#: service/Nation.php:3013
+#: service/Nation.php:3212
+msgid "e.nation.noPower"
+msgstr "你的权限不足"
+
+#: service/Nation.php:425
+#: service/Nation.php:2746
+#: service/Corps.php:1410
+msgid "e.user.notExist"
+msgstr "该玩家不存在"
+
+#: service/Nation.php:430
+#: service/Nation.php:581
+#: service/Nation.php:2753
+#: service/Corps.php:1420
+#: service/Rank.php:573
+#: service/Rank.php:584
+#: service/Rank.php:716
+#: service/Rank.php:724
+#: service/Rank.php:843
+#: service/Rank.php:851
+msgid "e.nation.noSuchUser"
+msgstr "该玩家不属于此势力"
+
+#: service/Nation.php:435
+msgid "e.nation.ministerCannotHaveOtherOfficial"
+msgstr "丞相不能担当其他职务"
+
+#: service/Nation.php:439
+msgid "e.nation.hasOtherOfficial"
+msgstr "已有官职"
+
+#: service/Nation.php:444
+msgid "e.nation.ministerCannotBeAppoint"
+msgstr "不能任命丞相职位"
+
+#: service/Nation.php:488
+msgid "e.nation.nobodyOnThePost"
+msgstr "该职位现在为空"
+
+#: service/Nation.php:494
+msgid "e.nation.ministerCannotBeDepose"
+msgstr "不能罢免丞相"
+
+#: service/Nation.php:784
+#: service/Nation.php:790
+msgid "e.nation.waitForTheNextVoting[MONTH][DAY][HOUR][MIN][APM]"
+msgstr "下一次选举预计将于[MONTH]月[DAY]日[HOUR]时开始"
+
+#: service/Nation.php:803
+msgid "e.nation.rankNotReach"
+msgstr "您的排行名次不满足条件"
+
+#: service/Nation.php:808
+msgid "e.nation.ministerHaveRecommended"
+msgstr "您之前已经毛遂自荐了"
+
+#: service/Nation.php:814
+msgid "e.nation.reasonIncludeFilterWord"
+msgstr "自荐理由中包含系统过滤词汇"
+
+#: service/Nation.php:843
+msgid "e.nation.noMinisterExist"
+msgstr "您弹劾的玩家不存在"
+
+#: service/Nation.php:848
+msgid "e.nation.ministerStatusNotAllowThisOperation"
+msgstr "当前不允许进行此操作"
+
+#: service/Nation.php:853
+msgid "e.nation.cannotImpeachIn3DaysBefore"
+msgstr "前3天不允许弹劾"
+
+#: service/Nation.php:858
+msgid "e.nation.cannotImpeachYourself"
+msgstr "不允许弹劾自己"
+
+#: service/Nation.php:865
+msgid "e.user.nobilityNotMatch"
+msgstr "爵位不够"
+
+#: service/Nation.php:875
+#: service/Nation.php:934
+msgid "e.nation.rankNotMatch"
+msgstr "您的排行名次不满足条件"
+
+#: service/Nation.php:912
+msgid "e.nation.candidateNotExist"
+msgstr "候选人不存在"
+
+#: service/Nation.php:919
+msgid "e.nation.needMorePoint"
+msgstr "需要发展分，军功分，贡献分，建设分有一项不为0"
+
+#: service/Nation.php:1112
+msgid "game.enterStatus[NATIONA][NATIONB][STATUS]"
+msgstr "[NATIONA]和[NATIONB]进入[STATUS]状态"
+
+#: service/Nation.php:1240
+msgid "e.nation.cannotCreateRelationWithSelf"
+msgstr "不能跟自己建立外交关系"
+
+#: service/Nation.php:1247
+msgid "e.nation.cannotCreateRelationWithNpc"
+msgstr "不能跟NPC势力建立外交关系"
+
+#: service/Nation.php:1253
+msgid "e.nation.notExist"
+msgstr "该势力不存在"
+
+#: service/Nation.php:1259
+msgid "e.nation.nationRelationTypeNotExist"
+msgstr "势力关系类型错误"
+
+#: service/Nation.php:1277
+msgid "e.nation.yourNationHasThisRelation[REL]"
+msgstr "您所在的势力已有处于【[REL]】关系的势力"
+
+#: service/Nation.php:1292
+msgid "e.nation.oppoNationHasThisRelation[REL]"
+msgstr "对方势力已有处于【[REL]】关系的势力"
+
+#: service/Nation.php:1310
+msgid "e.nation.nationRelationTypeNoChange"
+msgstr "已处于期望关系，无需变更"
+
+#: service/Nation.php:1315
+msgid "e.nation.nationRelationInCD"
+msgstr "请等待新的外交关系生效后再进行外交处理"
+
+#: service/Nation.php:1581
+msgid "e.nation.allNationTechMustFullLevel"
+msgstr "需要其他势力建筑全部满级后才可捐献"
+
+#: service/Nation.php:1649
+msgid "e.nation.techTypeNotExist"
+msgstr "势力科技类型错误"
+
+#: service/Nation.php:1658
+msgid "e.nation.nationTechTypeNotMeetConditions"
+msgstr "该势力建筑已经最高级或者不符合捐助条件"
+
+#: service/Nation.php:1671
+msgid "e.nation.techCoinReachMaxToday"
+msgstr "你今天能在该科技上捐献的银两已达上限"
+
+#: service/Nation.php:1745
+#: service/Nation.php:3417
+msgid "e.nation.taskTypeNotExist"
+msgstr "势力任务类型错误"
+
+#: service/Nation.php:1749
+msgid "e.nation.taskNeedCityName"
+msgstr "未指定城市名称"
+
+#: service/Nation.php:1755
+#: service/Nation.php:3218
+msgid "e.city.unvalid"
+msgstr "无效城市"
+
+#: service/Nation.php:1767
+msgid "e.nation.noPermissionToPublishTask"
+msgstr "您没有发布该势力任务的权限"
+
+#: service/Nation.php:1775
+msgid "e.nation.taskPublishCountIsOver."
+msgstr "势力任务发布次数已经用完了"
+
+#: service/Nation.php:1778
+msgid "e.nation.taskIsBeingEffected"
+msgstr "该任务已存在"
+
+#: service/Nation.php:1782
+msgid "e.nation.timeNotReached"
+msgstr "未到达任务发布时间"
+
+#: service/Nation.php:2049
+msgid "e.nation.operationTypeIsWrong"
+msgstr "操作类型错误"
+
+#: service/Nation.php:2062
+msgid "e.nation.applyDataNotExist"
+msgstr "对不起，该项谈判已不存在"
+
+#: service/Nation.php:2071
+msgid "e.nation.youHaveNoPower"
+msgstr "你的权限不足"
+
+#: service/Nation.php:2160
+msgid "e.nation.bulletinIncludeFilterWord"
+msgstr "公告中包含系统过滤词汇"
+
+#: service/Nation.php:2260
+#: service/Nation.php:2269
+msgid "Next voting: [MONTHA][DAYA][HOURA][MINA][APMA] - [MONTHB][DAYB][HOURB][MINB][APMB]"
+msgstr "新一轮选举将于[MONTHA]月[DAYA]日[HOURA]时至[MONTHB]月[DAYB]日[HOURB]时举行"
+
+#: service/Nation.php:2738
+msgid "e.nation.droitIsUnvalid"
+msgstr "权限无效"
+
+#: service/Nation.php:2757
+msgid "e.nation.droitNotMatch"
+msgstr "您的权限不足"
+
+#: service/Nation.php:2761
+msgid "e.nation.noNeedToChange"
+msgstr "无需修改"
+
+#: service/Nation.php:2768
+msgid "e.nation.cannotSetDroitOfSceMa"
+msgstr "司马权限不可修改"
+
+#: service/Nation.php:2777
+msgid "e.nation.zeroDroitIsTooMuch"
+msgstr "0级超额"
+
+#: service/Nation.php:3018
+msgid "e.nation.wildCitynoPowerSetStrategy"
+msgstr "城市野外不允许设置势力战略"
+
+#: service/Nation.php:3025
+msgid "e.nation.strategyNumReachMax[LIMIT]"
+msgstr "势力战略条目已达到[LIMIT]条上限"
+
+#: service/Nation.php:3036
+msgid "e.nation.cantEditMonarchOrder"
+msgstr "君主令不能被修改"
+
+#: service/Nation.php:3225
+msgid "e.nation.shortOfInfo"
+msgstr "势力伪令信息设置不完整，请重新输入"
+
+#: service/Nation.php:3229
+msgid "e.nation.errorRange"
+msgstr "势力伪令倍率范围设置错误"
+
+#: service/Nation.php:3233
+msgid "e.nation.errorStartTime"
+msgstr "势力伪令开始时间设置错误"
+
+#: service/Nation.php:3241
+msgid "e.nation.camofOrderNumReachCityMax[LIMIT]"
+msgstr "同一城市最多同时存在[LIMIT]条伪令"
+
+#: service/Nation.php:3249
+msgid "e.nation.sameStateCamofOrder"
+msgstr "同一城市不能同时存在2个同状态的伪令"
+
+#: service/Nation.php:3284
+msgid "e.nation.maxNumInExecuting"
+msgstr "当前设置时段已有3条伪令正在进行中"
+
+#: service/Nation.php:3291
+msgid "e.nation.camofOrderNumReachMax[LIMIT]"
+msgstr "势力伪令条目已超过[LIMIT]条的上限"
+
+#: service/Nation.php:3296
+msgid "e.nation.camofOrderCannotModify"
+msgstr "势力伪令已经执行或结束，无法修改"
+
+#: service/Nation.php:3305
+msgid "e.nation.camofOrderCannotDelete"
+msgstr "势力伪令正在执行中，无法删除"
+
+#: service/Nation.php:3314
+msgid "e.nation.camofOrderDatyHaveNumReachMax[LIMIT]"
+msgstr "伪令已达每日[LIMIT]条的上限，需要取消未开始的伪令后重新创建或修改"
+
+#: service/Nation.php:3423
+msgid "e.nation.taskNeedResourceError"
+msgstr "势力任务捐献资源量异常"
+
+#: service/Nation.php:3429
+msgid "e.manor.notExist"
+msgstr "该田庄不存在"
+
+#: service/Nation.php:3435
+msgid "e.city.nationUnmatch"
+msgstr "该城市不属于你的势力"
+
+#: service/Nation.php:3439
+msgid "e.city.warStatus"
+msgstr "城市正在战斗中"
+
+#: service/Nation.php:3444
+msgid "e.nation.taskNotExist"
+msgstr "势力任务不存在"
+
+#: service/Nation.php:3448
+msgid "e.nation.taskNotContribute"
+msgstr "当前任务已经满级不可捐献"
+
+#: service/Nation.php:3455
+msgid "e.nation.notReachConditionValue"
+msgstr "不满足用户捐献条件"
+
+#: service/Nation.php:3470
+msgid "e.nation.nationTaskContributeTooMuch"
+msgstr "超出个人捐献资源上限"
+
+#: service/Nation.php:3484
+msgid "e.manor.resourceNotEnough.wood"
+msgstr "没有足够的木材"
+
+#: service/Nation.php:3490
+msgid "e.manor.resourceNotEnough.stone"
+msgstr "没有足够的石头"
+
+#: service/Nation.php:3496
+msgid "e.manor.resourceNotEnough.iron"
+msgstr "没有足够的铁砂"
+
+#: service/Nation.php:3502
+msgid "e.manor.resourceNotEnough.crop"
+msgstr "没有足够的粮食"
+
+#: service/Nation.php:3508
+#: service/Corps.php:3055
+msgid "e.user.unenoughCoin"
+msgstr "您的银两不足"
+
+#: service/Nation.php:3513
+msgid "e.nation.resTypeError"
+msgstr "资源类型错误"
+
+#: service/Corps.php:176
+#: service/Corps.php:722
+#: service/Corps.php:1209
+#: service/Corps.php:1424
+msgid "e.corps.youHaveNotJoinedACorps"
+msgstr "您还没有加入军团"
+
+#: service/Corps.php:184
+#: service/Corps.php:447
+#: service/Corps.php:607
+#: service/Corps.php:1430
+#: service/Corps.php:1513
+msgid "e.corps.wrongCorpsid"
+msgstr "该军团不存在"
+
+#: service/Corps.php:337
+msgid "e.corps.nameLengthIsWrong"
+msgstr "军团名为4至16个字符"
+
+#: service/Corps.php:343
+#: service/Corps.php:1356
+msgid "e.corps.declarationLengthIsWrong"
+msgstr "军团简介文字过长"
+
+#: service/Corps.php:348
+msgid "e.corps.nameIncludeFilterWord"
+msgstr "军团名字中包含系统过滤词汇"
+
+#: service/Corps.php:353
+#: service/Corps.php:1361
+msgid "e.corps.declarationIncludeFilterWord"
+msgstr "军团宣言中包含系统过滤词汇"
+
+#: service/Corps.php:358
+msgid "e.corps.youMustJoinANationFirst"
+msgstr "你必须要先加入一个势力"
+
+#: service/Corps.php:363
+msgid "e.crops.youMustQuitFromCorpsFirst"
+msgstr "已经是某个军团的成员"
+
+#: service/Corps.php:368
+msgid "e.corps.needMoreDevelopment"
+msgstr "发展分不足"
+
+#: service/Corps.php:378
+msgid "e.corps.youHaveCreatedTooManyCorpsToday"
+msgstr "你今天已经创建了太多的军团，请明天再试"
+
+#: service/Corps.php:407
+msgid "e.corps.corpsNameIsDuplicate"
+msgstr "军团名重复"
+
+#: service/Corps.php:439
+msgid "e.corps.youHaveJoindACorps"
+msgstr "您已加入军团。请先退出现有军团，加入新的军团"
+
+#: service/Corps.php:452
+#: service/Corps.php:1517
+msgid "e.corps.yourNationIdIsDeferentFromCorpsId"
+msgstr "该军团与你不在同一势力"
+
+#: service/Corps.php:457
+#: service/Corps.php:612
+#: service/Corps.php:651
+#: service/Corps.php:1434
+msgid "e.corps.memberReachedMaxNum"
+msgstr "军团人数已达上限"
+
+#: service/Corps.php:476
+#: service/Corps.php:592
+#: service/Corps.php:640
+#: service/Corps.php:672
+#: service/Corps.php:692
+#: service/Corps.php:730
+#: service/Corps.php:788
+#: service/Corps.php:829
+#: service/Corps.php:866
+#: service/Corps.php:922
+#: service/Corps.php:975
+#: service/Corps.php:1137
+#: service/Corps.php:1350
+#: service/Corps.php:1452
+#: service/Corps.php:1608
+#: service/Corps.php:1613
+#: service/Corps.php:1653
+#: service/Corps.php:1658
+#: service/Corps.php:1757
+#: service/Corps.php:1762
+#: service/Corps.php:1794
+#: service/Corps.php:1799
+#: service/Corps.php:2096
+#: service/Corps.php:2943
+msgid "e.corps.noPower"
+msgstr "您的权限不足"
+
+#: service/Corps.php:543
+msgid "e.corps.youMustQuitFromCorpsFirst"
+msgstr "已经有军团了"
+
+#: service/Corps.php:599
+msgid "e.corps.cannotFindTheApplyInfo"
+msgstr "该外交申请不存在"
+
+#: service/Corps.php:620
+msgid "e.corps.wrongNation"
+msgstr "你不属于该军团所在的势力"
+
+#: service/Corps.php:835
+msgid "e.corps.noSuchSubMaster"
+msgstr "不存在该副军团长"
+
+#: service/Corps.php:871
+msgid "e.corps.cannotAppointYourself"
+msgstr "不能任命自己"
+
+#: service/Corps.php:879
+msgid "e.corps.theCorpsBelongsToIsWrong"
+msgstr "该玩家不属于此军团"
+
+#: service/Corps.php:885
+msgid "e.corps.hasBeenTheSubmaster"
+msgstr "该玩家已经是副军团长了"
+
+#: service/Corps.php:890
+msgid "e.corps.noSubMasterPost"
+msgstr "副团长职位满了"
+
+#: service/Corps.php:930
+#: service/Corps.php:1143
+msgid "e.corps.corpsIdIsWrong"
+msgstr "该玩家不属于此军团"
+
+#: service/Corps.php:934
+msgid "e.corps.cannotAbdicateYourself"
+msgstr "不能转让给自己"
+
+#: service/Corps.php:1041
+#: service/Corps.php:1064
+msgid "game.corps.member"
+msgstr "普通成员"
+
+#: service/Corps.php:1045
+msgid "game.corps.commander"
+msgstr "军团长"
+
+#: service/Corps.php:1049
+msgid "game.corps.deputyCommander"
+msgstr "副军团长"
+
+#: service/Corps.php:1056
+msgid "game.corps.nullOfOfficial"
+msgstr "无"
+
+#: service/Corps.php:1220
+msgid "e.corps.youAreOfficial"
+msgstr "您是军团的领导,不能自行退出"
+
+#: service/Corps.php:1414
+msgid "e.corps.cannotInviteSelf"
+msgstr "不能邀请自己"
+
+#: service/Corps.php:1439
+msgid "e.corps.hasBeingTheMemberOfThisCorps"
+msgstr "该玩家已加入本军团"
+
+#: service/Corps.php:1446
+msgid "e.corps.cannotInviteAMaster"
+msgstr "不能邀请其他军团的团长"
+
+#: service/Corps.php:1460
+msgid "e.corps.cannotInivteOneTwiceInOneDay"
+msgstr "同一天不能重复发送邀请"
+
+#: service/Corps.php:1483
+msgid "e.mail.notExist"
+msgstr "该邮件不存在"
+
+#: service/Corps.php:1487
+msgid "e.mail.thisMailIsNotBelongToYou"
+msgstr "这封邮件不属于你"
+
+#: service/Corps.php:1492
+msgid "e.mail.notACorpsInvitation"
+msgstr "这不是军团邀请邮件"
+
+#: service/Corps.php:1503
+msgid "e.mail.corpsInvitationUnvalid"
+msgstr "对不起，该邀请已无效"
+
+#: service/Corps.php:1523
+msgid "e.corps.hasBeingIn[NAME]Corps"
+msgstr "你已经加入了[NAME]军团"
+
+#: service/Corps.php:1528
+msgid "e.corps.MembersOf[NAME]CorpsReachedMaxNum"
+msgstr "[NAME]军团成员已满，无法加入"
+
+#: service/Corps.php:1533
+msgid "e.corps.masterCannotAcceptOtherInvition"
+msgstr "您是军团长，不能接受其他军团的邀请"
+
+#: service/Corps.php:1675
+msgid "e.corps.corpsCodeTypeError"
+msgstr "军团码类型错误"
+
+#: service/Corps.php:1679
+#: service/Corps.php:1692
+msgid "e.corps.corpsScaleOrManNeedHigher"
+msgstr "独立玩家人数不足，请接收更多的独立玩家"
+
+#: service/Corps.php:1700
+#: service/Corps.php:1711
+msgid "e.corps.corpsGoldCodeHasBeenReceived"
+msgstr "黄金军团码已经领取过了"
+
+#: service/Corps.php:1703
+msgid "e.corps.corpsCodeOnlyGetOnceOneDay"
+msgstr "一天只能领取一次，本日已经领取过了"
+
+#: service/Corps.php:1714
+msgid "e.corps.corpsCodeCountLimitOverflow"
+msgstr "军团码领取次数达到上限"
+
+#: service/Corps.php:1722
+msgid "e.corps.goldCodeHaveReceivedComplete"
+msgstr "黄金军团码已领取完毕"
+
+#: service/Corps.php:1737
+msgid "e.corps.corpsCodeReceivedError"
+msgstr "军团码领取失败"
+
+#: service/Corps.php:1979
+msgid "e.corps.cityNameIsEmpty"
+msgstr "城市名称不能为空"
+
+#: service/Corps.php:1985
+#: service/Corps.php:2255
+msgid "e.corps.paramNotValid"
+msgstr "任务参数错误"
+
+#: service/Corps.php:1993
+msgid "e.corps.targetCityNotExist"
+msgstr "对不起，该城市不存在。"
+
+#: service/Corps.php:2011
+msgid "e.corps.attackTargetCityWrong"
+msgstr "对不起，无法对本势力和本同盟的城市发布该任务。"
+
+#: service/Corps.php:2016
+msgid "e.corps.transportTargetCityWrong"
+msgstr "对不起，无法对本势力以外的城市发布该任务。"
+
+#: service/Corps.php:2024
+msgid "e.corps.dontHaveNearlyCity"
+msgstr "任务目标城市数据异常"
+
+#: service/Corps.php:2041
+msgid "e.corps.notNearlyCity"
+msgstr "奇兵突袭目标城市必须是本势力接壤城市"
+
+#: service/Corps.php:2110
+msgid "e.corps.taskTypeNotExist"
+msgstr "没有这个势力任务"
+
+#: service/Corps.php:2120
+msgid "e.corps.wrongTime"
+msgstr "执行时间必须在限定范围内。"
+
+#: service/Corps.php:2125
+msgid "e.corps.taskDescIsTooMuch"
+msgstr "任务标注过长。"
+
+#: service/Corps.php:2132
+msgid "e.corps.allowSoldierTypeError"
+msgstr "请至少选择一个兵种。"
+
+#: service/Corps.php:2155
+msgid "e.corps.noPermissionToPublishTask"
+msgstr "您没有发布该军团任务的权限"
+
+#: service/Corps.php:2163
+msgid "e.corps.taskIsBeingEffected"
+msgstr "任务正在执行中"
+
+#: service/Corps.php:2168
+msgid "e.corps.timeNotReached"
+msgstr "该任务不可发布"
+
+#: service/Corps.php:2173
+msgid "e.corps.powerNotEnough"
+msgstr "对不起，军团的战力值不足"
+
+#: service/Corps.php:2273
+#: service/Corps.php:2424
+#: service/Corps.php:2502
+msgid "e.corps.taskIsNotExist"
+msgstr "尚未发布该任务"
+
+#: service/Corps.php:2278
+#: service/Corps.php:2429
+#: service/Corps.php:2507
+msgid "e.corps.taskIsCanceled"
+msgstr "该任务已被其他人取消"
+
+#: service/Corps.php:2284
+#: service/Corps.php:2435
+#: service/Corps.php:2513
+#: service/Corps.php:2631
+msgid "e.corps.taskIsExcute"
+msgstr "战斗即将开始，正在统计参战部队，无法取消报名"
+
+#: service/Corps.php:2287
+#: service/Corps.php:2438
+#: service/Corps.php:2516
+#: service/Corps.php:2634
+msgid "e.corps.taskTwoIsExcute"
+msgstr "任务正在执行"
+
+#: service/Corps.php:2293
+msgid "e.corps.cancelTimeWrong"
+msgstr "临近执行时间，无法取消。"
+
+#: service/Corps.php:2318
+msgid "e.corps.noPermissionToCancelTask"
+msgstr "您没有取消军团任务的权限"
+
+#: service/Corps.php:2526
+#: service/Corps.php:2543
+msgid "e.army.notExist"
+msgstr "部队不存在"
+
+#: service/Corps.php:2547
+msgid "e.corps.notEnoughSoldier"
+msgstr "您的部队数量不符合要求"
+
+#: service/Corps.php:2551
+msgid "e.corps.notEnoughCrop"
+msgstr "您的部队粮草不符合要求"
+
+#: service/Corps.php:2555
+msgid "e.corps.notEnoughNobility"
+msgstr "您的权限等级不符合要求"
+
+#: service/Corps.php:2576
+msgid "e.corps.soldierNumOverTheLimit"
+msgstr "报名兵力超过上限"
+
+#: service/Corps.php:2581
+msgid "e.corps.notAllowedSoldierType"
+msgstr "您的部队兵种类型不符合要求"
+
+#: service/Corps.php:2586
+msgid "e.corps.notAllowedSoldierLevel"
+msgstr "您的部队兵种等级不符合要求"
+
+#: service/Corps.php:2779
+msgid "e.nation.neutral"
+msgstr "中立"
+
+#: service/Corps.php:2846
+#: service/Corps.php:2938
+#: service/Corps.php:3023
+msgid "e.corps.dontHaveCrops"
+msgstr "没有加入任何军团"
+
+#: service/Corps.php:2893
+#: service/Corps.php:2962
+msgid "e.corps.techLevelReachMax"
+msgstr "科技等级达到上限"
+
+#: service/Corps.php:2897
+#: service/Corps.php:2972
+msgid "e.corps.unenoughRes"
+msgstr "军资不足"
+
+#: service/Corps.php:2950
+msgid "e.corps.techIdIsWrong"
+msgstr "军团科技类型错误"
+
+#: service/Corps.php:2967
+msgid "e.corps.atLeastUseOneRes"
+msgstr "需要至少分配1点军资"
+
+#: service/Corps.php:3034
+msgid "e.corps.undefindedBuyType"
+msgstr "兑换参数不正确"
+
+#: service/Corps.php:3047
+msgid "e.corps.overFlowUserLimit"
+msgstr "每日捐献军资总值不能超过个人发展分的10%（爵位达到王以上不受此限制）"
+
+#: service/Corps.php:3176
+#: service/Corps.php:3188
+msgid "e.corps.userNotInCorps"
+msgstr "你尚未加入军团"
+
+#: service/Corps.php:3181
+msgid "e.corps.supplyNotEnough"
+msgstr "战略物资不足"
+
+#: service/Corps.php:3196
+msgid "e.corps.maxMemberLevel"
+msgstr "已到顶级，不能捐献"
+
+#: service/Friend.php:198
+#: service/Friend.php:385
+msgid "e.friend.friendIsNotFind"
+msgstr "没有发现该玩家"
+
+#: service/Friend.php:376
+msgid "e.friend.typeIsWrong"
+msgstr "好友类型错误"
+
+#: service/Friend.php:393
+msgid "e.friend.friendIsMyself"
+msgstr "不能加自己为好友"
+
+#: service/Friend.php:395
+msgid "e.friend.blackListIsMyself"
+msgstr "不能加自己为黑名单"
+
+#: service/Friend.php:406
+msgid "e.friend.friendAlreadyExist"
+msgstr "该好友已在名单里"
+
+#: service/Friend.php:410
+msgid "e.friend.blackListAlreadyExist"
+msgstr "该用户已在黑名单里"
+
+#: service/Friend.php:417
+msgid "e.friend.friendBeyondLimit"
+msgstr "好友数量已达上限"
+
+#: service/Friend.php:478
+#: service/Friend.php:680
+msgid "e_friend_stranger"
+msgstr "不是好友"
+
+#: service/Friend.php:486
+msgid "e_friend_developShort"
+msgstr "发展分不足，还不能进行该操作"
+
+#: service/Friend.php:493
+msgid "e_friend_peopleFull"
+msgstr "民心已满"
+
+#: service/Friend.php:503
+msgid "e_friend_nochance"
+msgstr "今日提升次数已满"
+
+#: service/Friend.php:509
+msgid "e_friend_upgrated"
+msgstr "今日已经提升过民心"
+
+#: service/Friend.php:640
+msgid "e_friend_alreadyActived"
+msgstr "今天已经激活过了"
+
+#: service/Friend.php:688
+msgid "e_friend_tooManyShares"
+msgstr "分享次数太多了"
+
+#: service/Friend.php:694
+msgid "e_friend_alreadyShared"
+msgstr "已经分享过该好友的碎片了"
+
+#: service/Friend.php:705
+msgid "e_friend_unactived"
+msgstr "好友没有激活"
+
+#: service/Friend.php:718
+msgid "e_friend_noRemain"
+msgstr "好友没有剩余分享次数了"
+
+#: service/Rank.php:319
+#: service/Rank.php:428
+#: service/Rank.php:559
+#: service/Rank.php:702
+#: service/Rank.php:829
+#: service/Rank.php:956
+#: service/Rank.php:1039
+msgid "e.rank.rankTypeIsWrong"
+msgstr "排行类型错误"
+
+#: service/Rank.php:334
+msgid "e.rank.NationIsNotFind"
+msgstr "没有找到该势力"
+
+#: service/Rank.php:345
+#: service/Rank.php:461
+#: service/Rank.php:595
+#: service/Rank.php:732
+#: service/Rank.php:859
+msgid "e.rank.rankIsNotExist"
+msgstr "没有此排名"
+
+#: service/Rank.php:443
+msgid "e.rank.corpsIsNotFind"
+msgstr "未找到该军团"
+
+#: service/Rank.php:451
+msgid "e.rank.corpsInOtherNation"
+msgstr "该军团属于其他势力"
+
+#: service/Rank.php:570
+#: service/Rank.php:713
+#: service/Rank.php:840
+msgid "e.rank.userIsNotFind"
+msgstr "没有找到该玩家"
+
+#: service/Money.php:584
+msgid "e.money.consumeGoldNumError"
+msgstr "消费金额错误"
+
+#: service/Money.php:608
+#: service/Money.php:793
+#: service/Money.php:824
+msgid "game.unknowError"
+msgstr "未知错误"
+
+#: service/Money.php:873
+msgid "e.money.userAccountIsStop"
+msgstr "玩家帐号被禁止登录"
+
+#: service/Money.php:878
+msgid "e.money.userAccountIsProtectedNotConsume"
+msgstr "玩家帐号被保护,禁止消费"
+
+#: service/Money.php:983
+msgid "e.money.giftNotEnough"
+msgstr "您的礼金不足"
+
+#: service/Money.php:993
+msgid "e.money.bahtNotEnough"
+msgstr "铢币不足"
+
+#: service/Money.php:998
+msgid "e.money.goldNotEnough"
+msgstr "您的元宝不足"
+
+#: service/Money.php:1110
+msgid "e.item.unenoughNum"
+msgstr "道具数量不足"
+
+#: service/Money.php:1236
+msgid "e.manor.noPlotPrice"
+msgstr "地块价格信息错误，暂时无法开启"
+
+#: service/Money.php:1369
+#: service/Money.php:1397
+msgid "e.money.unsetPrice"
+msgstr "未设置价格"
+
+#: service/Mail.php:232
+msgid "e.mail.needMoreDevelop"
+msgstr "需要发展分至少达到10才能发送邮件。"
+
+#: service/Mail.php:237
+msgid "e.mail.emptyReceiverIsNotAllowed"
+msgstr "请填入收件人"
+
+#: service/Mail.php:272
+msgid "e.mail.receiversNotFound[NAME]"
+msgstr "收件人[NAME]不存在"
+
+#: service/Mail.php:299
+msgid "e.mail.noPower"
+msgstr "你没有权限进行此操作"
+
+#: service/Mail.php:579
+msgid "e.mail.senderCannotFetch"
+msgstr "发件人不可收取"
+
+#: service/Mail.php:584
+msgid "e.mail.attachmentsHaveBeenFetched"
+msgstr "已经收取过了"
+
+#: service/Mail.php:590
+msgid "e.mail.noAttachmentExist"
+msgstr "此邮件不存在任何附件"
+
+#: service/Mail.php:631
+msgid "e.mail.noMailSelected"
+msgstr "没有选中任何邮件"
+
+#: service/Mail.php:661
+msgid "e.mail.thisMailIsNotYours"
+msgstr "这封邮件不属于你"
+
+#: service/House.php:135
+msgid "e.house.richMaxLevel"
+msgstr "您的建筑已达到最高等级"
+
+#: service/House.php:151
+#: service/House.php:244
+#: service/House.php:449
+msgid "e.manor.resourceNotEnough"
+msgstr "资源不足"
+
+#: service/House.php:158
+#: service/House.php:416
+#: service/House.php:594
+#: service/House.php:756
+#: service/House.php:962
+msgid "e.house.queueNumReachMax"
+msgstr "您的建筑任务已达到上限"
+
+#: service/House.php:190
+#: service/House.php:710
+#: service/House.php:915
+#: service/House.php:1117
+#: service/House.php:1202
+msgid "e.house.statusAbnormal"
+msgstr "建筑正在进行其他任务"
+
+#: service/House.php:246
+msgid "e.manor.resourceNotEnoughCanUseLuban"
+msgstr "仅可使用鲁班传人对该建筑进行升级"
+
+#: service/House.php:303
+#: service/House.php:1228
+msgid "e.soldier.recruitHouseRequire[NAME][LEVEL]"
+msgstr "[NAME]Lv[LEVEL]"
+
+#: service/House.php:315
+#: service/House.php:1241
+msgid "e.soldier.recruitTechRequire[NAME][LEVEL]"
+msgstr "[NAME]Lv[LEVEL]"
+
+#: service/House.php:420
+#: service/House.php:575
+msgid "e.house.houseNumReachMax"
+msgstr "该建筑在本田庄所能建造的数量已达上限"
+
+#: service/House.php:436
+#: service/House.php:585
+msgid "e.house.requireUnmatch"
+msgstr "建筑前提不满足"
+
+#: service/House.php:531
+msgid "e.manor.unopenedSalePlots"
+msgstr "该地块尚未开启"
+
+#: service/House.php:543
+msgid "e.house.positionLocked"
+msgstr "该位置已有建筑"
+
+#: service/House.php:570
+msgid "e.house.canNotbuild"
+msgstr "该建筑无法建造"
+
+#: service/House.php:737
+#: service/House.php:943
+msgid "e.house.reachMaxLevel"
+msgstr "您的建筑已达到最高等级"
+
+#: service/House.php:982
+msgid "e.manor.resourceNotEnough.luBan"
+msgstr "田庄资源不够,不能使用鲁班传人"
+
+#: service/House.php:1122
+msgid "e.house.canNotDegrade"
+msgstr "该建筑无法被拆除"
+
+#: service/House.php:1182
+msgid "e.house.speedUpDataIsEmpty"
+msgstr "不存在的加速模式"
+
+#: service/House.php:1184
+msgid "e.house.hack"
+msgstr "hack..."
+
+#: service/House.php:1208
+msgid "e.house.recruitNumLimit[LIMIT]"
+msgstr "每次招募士兵数量超出[LIMIT]上限"
+
+#: service/House.php:1223
+#: service/Manor.php:461
+msgid "e.house.canNotRecruitSoldierType"
+msgstr "该建筑无法招募此类兵种"
+
+#: service/House.php:1456
+#: service/House.php:1562
+msgid "e.house.upgradeQueueNotExist"
+msgstr "升级队列不存在"
+
+#: service/House.php:1652
+msgid "e.house.emptyHouseQueueList"
+msgstr "该田庄没有建筑任务"
+
+#: service/House.php:1750
+#: service/House.php:1858
+msgid "e.house.emptySoldierQueueList"
+msgstr "该田庄没有招募任务"
+
+#: service/House.php:1773
+msgid "e.recruitQueue.intervalReachLowerLimit[SECOND]"
+msgstr "士兵招募已完成，不需要加速"
+
+#: service/Equipment.php:144
+#: service/Equipment.php:227
+#: service/Equipment.php:429
+#: service/Equipment.php:475
+#: service/Equipment.php:625
+#: service/Equipment.php:741
+#: service/Equipment.php:875
+#: service/Equipment.php:1591
+#: service/Equipment.php:1698
+#: service/Equipment.php:1856
+#: service/Equipment.php:1917
+#: service/Equipment.php:2130
+#: service/Equipment.php:2161
+#: service/Equipment.php:2222
+#: service/Equipment.php:2311
+#: service/Equipment.php:2358
+msgid "e.equipment.notExist"
+msgstr "装备不存在"
+
+#: service/Equipment.php:239
+msgid "e.equipment.dismantlingNumReachTheLimit"
+msgstr "每日拆解装备次数已达今日上限"
+
+#: service/Equipment.php:258
+msgid "e.equipment.dismantlingValueDataErr"
+msgstr "拆解价值数据错误"
+
+#: service/Equipment.php:269
+#: service/Equipment.php:372
+#: service/Equipment.php:376
+msgid "e.equipment.dismantlingDataErr"
+msgstr "装备拆解数据错误"
+
+#: service/Equipment.php:419
+#: service/Equipment.php:467
+#: service/Army.php:242
+#: service/Army.php:816
+#: service/Army.php:3683
+#: service/Army.php:4216
+#: service/Army.php:4255
+msgid "e.hero.notExist"
+msgstr "该武将不存在"
+
+#: service/Equipment.php:434
+msgid "e.equipment.heroLevelNotEnough"
+msgstr "武将等级不足"
+
+#: service/Equipment.php:487
+msgid "e.equipment.soldierLimitChangedAndUnenough"
+msgstr "装备影响武将带兵数超出上限，请先减少部队数量"
+
+#: service/Equipment.php:629
+#: service/Equipment.php:745
+#: service/Equipment.php:879
+#: service/Equipment.php:1703
+#: service/Equipment.php:1921
+#: service/Equipment.php:2134
+#: service/Equipment.php:2165
+#: service/Equipment.php:2226
+#: service/Equipment.php:2315
+#: service/Equipment.php:2362
+msgid "e.equipment.unloadEquipmentFirst"
+msgstr "请先卸下此装备"
+
+#: service/Equipment.php:633
+msgid "e.equipment.cannotStrengthen"
+msgstr "该装备不可强化"
+
+#: service/Equipment.php:644
+msgid "e.equipment.reachMaxStrength"
+msgstr "已强化到最高级"
+
+#: service/Equipment.php:655
+msgid "e.equipment.strengthenMaxLevel[LEVEL]"
+msgstr "该道具仅可强化到装备的前[LEVEL]级"
+
+#: service/Equipment.php:665
+msgid "e.equipment.strengthenItemNotEnough"
+msgstr "强化道具不足"
+
+#: service/Equipment.php:676
+msgid "e.equipment.upgradeRateItemNotEnough"
+msgstr "增加强化成功率的道具不足"
+
+#: service/Equipment.php:714
+msgid "e.equipment.strengthenFailed[DEGRADE]"
+msgstr "强化失败，强化等级降低[DEGRADE]级"
+
+#: service/Equipment.php:717
+msgid "e.equipment.strengthenFailed"
+msgstr "装备强化失败"
+
+#: service/Equipment.php:868
+msgid "e.equipment.reffectIsClosedNow"
+msgstr "装备洗炼功能尚未开放"
+
+#: service/Equipment.php:883
+msgid "e.equipment.reffectUnvalidForWhite"
+msgstr "白色装备不允许使用洗炼功能"
+
+#: service/Equipment.php:947
+#: service/Equipment.php:1023
+#: service/Equipment.php:1253
+#: service/Equipment.php:1586
+msgid "e.ctrl.paramNotValid"
+msgstr "游戏参数错误"
+
+#: service/Equipment.php:1017
+#: service/Equipment.php:1059
+#: service/Equipment.php:1270
+#: service/Equipment.php:1308
+#: service/Equipment.php:1787
+msgid "e.equipment.undefinedRefreshType"
+msgstr "刷新类型错误"
+
+#: service/Equipment.php:1039
+msgid "e.equipment.refreshNumReachLimit"
+msgstr "超出每日刷新次数限制"
+
+#: service/Equipment.php:1315
+msgid "e.equipment.inCDTime"
+msgstr "CD中..."
+
+#: service/Equipment.php:1600
+msgid "e.equipment.bagEquipmentOverLimit"
+msgstr "包裹里的装备数量达到上限，不能获得该装备"
+
+#: service/Equipment.php:1710
+#: service/Equipment.php:1757
+msgid "e.equipment.chooseAEquipmentPlease"
+msgstr "请至少选择一件装备"
+
+#: service/Equipment.php:1801
+msgid "e.equipment.moneyIsWrong"
+msgstr "金额输入错误"
+
+#: service/Equipment.php:1806
+msgid "e.equipment.dontHaveCDTime"
+msgstr "CD时间已经结束"
+
+#: service/Equipment.php:1819
+msgid "e.equipment.priceIsChange"
+msgstr "所需元宝数已改变，只需消费[GOLD]元宝即可清除CD时间"
+
+#: service/Equipment.php:1939
+#: service/Equipment.php:1949
+msgid "e.equipment.reachMaxUpGradeLevel"
+msgstr "该装备已经达到最高等级，无法再次升级"
+
+#: service/Equipment.php:1963
+msgid "e.equipment.upGradeItemNotEnough"
+msgstr " 升级道具不足"
+
+#: service/Equipment.php:1973
+msgid "e.equipment.upgradeLuckyItemNotEnough"
+msgstr "升级幸运符道具不足"
+
+#: service/Equipment.php:2039
+msgid "e.equipment.upGradeFailed[DEGRADE]"
+msgstr "装备升级失败"
+
+#: service/Equipment.php:2234
+msgid "e.equipment.cannotSuccinct"
+msgstr "该装备不允许洗炼"
+
+#: service/Equipment.php:2238
+msgid "e.equipment.plaseSelectSuccinctProps"
+msgstr "请选择要洗炼的属性"
+
+#: service/Equipment.php:2248
+msgid "e.equipment.succinctItemNotEnough"
+msgstr "洗炼道具不足"
+
+#: service/Equipment.php:2289
+msgid "e.equipment.succinctFailed[BACKNUM]"
+msgstr "洗炼失败，装备没有发生任何改变，但是返还了[BACKNUM]个道具[ITEMNAME]"
+
+#: service/Equipment.php:2292
+msgid "e.equipment.succinctFailed"
+msgstr "洗炼失败，装备没有发生任何改变"
+
+#: service/Equipment.php:2370
+msgid "e.equipment.cannotQuench"
+msgstr "该装备不允许淬炼"
+
+#: service/Equipment.php:2379
+msgid "e.equipment.quenchItemNotEnough"
+msgstr " 淬炼道具不足"
+
+#: service/Equipment.php:2411
+msgid "e.equipment.quenchSuccess[COLOR]"
+msgstr "淬炼成功，装备现在颜色为[COLOR]，装备增加了一个属性，装备大大增强了"
+
+#: service/Equipment.php:2435
+msgid "e.equipment.quenchFailed[BACKNUM]"
+msgstr "淬炼失败，装备没有发生任何改变，获得了[BACKNUM]个道具[ITEMNAME]"
+
+#: service/Equipment.php:2439
+msgid "e.equipment.quenchFailed"
+msgstr "淬炼失败，装备没有发生任何改变"
+
+#: service/Task.php:123
+#: service/Task.php:383
+#: service/Task.php:451
+msgid "e.task.dailyTaskDontOpen"
+msgstr "每日任务功能尚未开启"
+
+#: service/Task.php:208
+#: service/Task.php:287
+#: service/Task.php:391
+#: service/Task.php:459
+msgid "e.task.notExist"
+msgstr "该任务不存在"
+
+#: service/Task.php:292
+msgid "e.task.unfinish"
+msgstr "任务尚未完成"
+
+#: service/Task.php:301
+#: service/Task.php:412
+msgid "e.task.dailyTaskReachTheLimit"
+msgstr "每日完成任务个数已达今日上限"
+
+#: service/Task.php:328
+#: service/Task.php:404
+#: service/Task.php:472
+msgid "e.task.dailyTaskIsAlreadyGet"
+msgstr "您已经领取过该任务了"
+
+#: service/Task.php:399
+#: service/Task.php:467
+msgid "e.task.hack"
+msgstr "task hack..."
+
+#: service/Task.php:418
+msgid "e.task.dailyTaskCanGetOnlyOne"
+msgstr "每次只能同时领取一个每日任务"
+
+#: service/SingleWar.php:51
+msgid "e.singleWar.warNotExistOrDateLimit"
+msgstr "单挑战斗不存在或已经过期"
+
+#: service/SingleWar.php:805
+msgid "e.singleWar.heroIsNull"
+msgstr "没有武将"
+
+#: service/SingleWar.php:1030
+msgid "e.singleWar.heroInitError"
+msgstr "武将初始化失败"
+
+#: service/SingleWar.php:1034
+msgid "e.singleWar.heroIsSameUser"
+msgstr "自己武将不能单挑自己"
+
+#: service/Manor.php:188
+#: service/Manor.php:785
+msgid "e.manor.userTechManorMaxLimitRichMax"
+msgstr "您所能拥有的田庄已经达到上限，如果想创建新田庄，需要放弃一处已有田庄才能创建"
+
+#: service/Manor.php:190
+#: service/Manor.php:788
+msgid "e.manor.userManorLimitRichMax"
+msgstr "您所能拥有的田庄数量达到上限，请提高良田阡陌的等级以增加可拥有田庄数量上限"
+
+#: service/Manor.php:201
+#: service/Manor.php:759
+#: service/Manor.php:1533
+msgid "e.manor.beCleaningTheCity"
+msgstr "战场清理中。。。请稍后"
+
+#: service/Manor.php:206
+#: service/Manor.php:767
+#: service/Manor.php:1538
+msgid "e.manor.cannotCreateManorInTollgate"
+msgstr "关隘无法创建田庄"
+
+#: service/Manor.php:225
+#: service/Manor.php:774
+msgid "e.manor.cityManorNumLimitRichMax"
+msgstr "城市已无空闲田庄可以创建，请更换有空余田庄的城市进行创建"
+
+#: service/Manor.php:227
+#: service/Manor.php:794
+msgid "e.manor.createManorDroitInvalid"
+msgstr "您的权限等级不足以在本城开设田庄"
+
+#: service/Manor.php:232
+msgid "e.manor.createManorCantInCapital"
+msgstr "不能在国都中使用推恩令创建田庄"
+
+#: service/Manor.php:254
+msgid "e.manor.cityBeOccured"
+msgstr "该城市被占领，无法创建田庄"
+
+#: service/Manor.php:438
+msgid "e.manor.todayHaveReach"
+msgstr "每个城市，玩家每天只能征募1次"
+
+#: service/Manor.php:719
+#: service/Manor.php:1501
+msgid "e.manor.alreadyExist"
+msgstr "田庄已存在"
+
+#: service/Manor.php:763
+msgid "e.manor.cannotCreateManorInWildCity"
+msgstr "野外城市不允许创建田庄"
+
+#: service/Manor.php:803
+#: service/Manor.php:1637
+#: service/User.php:2113
+#: service/User.php:2208
+#: service/User.php:2342
+#: service/User.php:2885
+#: service/QuestCrontab.php:2608
+msgid "game.manor.defaultName[CITYNAME]"
+msgstr "[CITYNAME]的田庄"
+
+#: service/Manor.php:872
+msgid "e.manor.plotsAlreadyOpened"
+msgstr "地块已是开启状态，无法重复开启"
+
+#: service/Manor.php:1270
+msgid "e.manor.nameLengthNotValid"
+msgstr "田庄名不符合长度限制"
+
+#: service/Manor.php:1275
+msgid "e.manor.nameIncludeFilterWord"
+msgstr "名字中包含系统过滤词汇"
+
+#: service/Manor.php:1313
+msgid "e.manor.cannotDropMainManor"
+msgstr "首都田庄不可放弃"
+
+#: service/Manor.php:1326
+msgid "e.manor.cannotDropAfterCreate24hours"
+msgstr "田庄创建24小时内不可放弃"
+
+#: service/Manor.php:1546
+msgid "e.manor.rebuildManorDroitInvalid"
+msgstr "您的权限或者爵位等级不够，无法在当前城市中进行重建。"
+
+#: service/Manor.php:1557
+msgid "e.manor.richCityMaxManorLimit"
+msgstr "当前城市中的田庄数量已满，无法进行重建！"
+
+#: service/Manor.php:1564
+msgid "e.manor.richUserMaxManorLimit"
+msgstr "您当前所能拥有的田庄数量已经达到上限，无法进行重建！"
+
+#: service/Manor.php:1573
+#: service/Manor.php:1744
+msgid "e.manor.noneOccupyOrDropManor"
+msgstr "该田庄未被占领或者主动放弃"
+
+#: service/Manor.php:1622
+msgid "e.manor.lackOfPermissionForRebuild"
+msgstr "您当前的可重建次数为0，无法完成此次重建。"
+
+#: service/Manor.php:1790
+msgid "e.manor.manorOfCityNotExist"
+msgstr "此城没有您的田庄"
+
+#: service/Army.php:247
+#: service/Army.php:821
+#: service/Army.php:3688
+msgid "e.hero.deadStatus"
+msgstr "武将已重伤"
+
+#: service/Army.php:252
+msgid "e.hero.inWareHouse"
+msgstr "武将在仓库中"
+
+#: service/Army.php:332
+#: service/Army.php:901
+#: service/Army.php:906
+#: service/Army.php:1122
+#: service/Army.php:2227
+#: service/Army.php:4451
+msgid "e.army.statusAbnormal"
+msgstr "部队正在执行其他任务"
+
+#: service/Army.php:426
+msgid "game.undefinedUserName"
+msgstr "NPC部队"
+
+#: service/Army.php:463
+#: service/Army.php:1320
+#: service/Army.php:1808
+msgid "e.army.notInCity"
+msgstr "该部队不在城内"
+
+#: service/Army.php:470
+#: service/Army.php:1340
+#: service/Army.php:1788
+#: service/Army.php:1790
+msgid "e.army.targetArmyNotExist"
+msgstr "补给目标不存在"
+
+#: service/Army.php:478
+#: service/Army.php:1335
+#: service/Army.php:1816
+msgid "e.army.cannotSupply72hoursBefore"
+msgstr "新建用户72小时内不得使用补给功能"
+
+#: service/Army.php:485
+#: service/Army.php:1347
+#: service/Army.php:1823
+msgid "e.army.targetArmyNotInCity"
+msgstr "补给目标不在本城"
+
+#: service/Army.php:491
+#: service/Army.php:1368
+msgid "e.army.developLessThenSupplyTargetUser"
+msgstr "发展分低于被补给用户"
+
+#: service/Army.php:560
+#: service/Army.php:2035
+msgid "e.city.wildCityNotDepart"
+msgstr "野外战场不允许出征"
+
+#: service/Army.php:579
+#: service/Army.php:4293
+#: service/WarAI.php:1042
+msgid "e.city.notExist"
+msgstr "该城市不存在"
+
+#: service/Army.php:711
+msgid "e.army.movePermissionDenied"
+msgstr "没有权限移动该部队"
+
+#: service/Army.php:719
+#: service/Army.php:726
+#: service/Army.php:730
+#: service/Army.php:737
+msgid "e.battlefield.cannotMoveTo"
+msgstr "无法移动到该点"
+
+#: service/Army.php:801
+#: service/Army.php:2072
+#: service/Army.php:3668
+msgid "e.army.strategyNotValid"
+msgstr "部队战略参数错误"
+
+#: service/Army.php:826
+#: service/Army.php:3693
+msgid "e.hero.statusAbnormal"
+msgstr "武将状态异常"
+
+#: service/Army.php:832
+msgid "e.hero.arrayNotHold"
+msgstr "武将未掌握此阵型"
+
+#: service/Army.php:858
+msgid "e.army.notValidSoldierNum"
+msgstr "您输入的士兵数量错误"
+
+#: service/Army.php:863
+#: service/Army.php:1384
+#: service/Army.php:1388
+msgid "e.hero.soldierLimitOverflow"
+msgstr "超出带兵上限"
+
+#: service/Army.php:922
+msgid "e.army.notEnoughSoldier"
+msgstr "您的部队中没有足够的士兵"
+
+#: service/Army.php:962
+msgid "e.army.capacityNotEnough"
+msgstr "携带资源超出运载量"
+
+#: service/Army.php:1306
+msgid "e.army.supplyResourceNotValid"
+msgstr "请输入正确的资源补给数量"
+
+#: service/Army.php:1352
+msgid "e.army.supplyOthersMustCrop"
+msgstr "给他人部队补给时，只能补给粮食"
+
+#: service/Army.php:1361
+#: service/Army.php:1803
+msgid "e.army.canNotSupplyOtherNations"
+msgstr "不能给其他非同盟势力进行补给"
+
+#: service/Army.php:1374
+msgid "e.army.differentPlayersCannotSupplyTroops"
+msgstr "不同玩家之间不能供给兵"
+
+#: service/Army.php:1378
+msgid "e.army.differentSoldierCannotSupplyTroops"
+msgstr "两种不同兵种之间不能供给"
+
+#: service/Army.php:1477
+#: service/Army.php:1542
+msgid "e.army.supplyTargetOverflowCapacity"
+msgstr "补给目标资源超出资源上限"
+
+#: service/Army.php:1535
+#: service/Army.php:1760
+#: service/Army.php:1763
+msgid "e.hero.cropLimit"
+msgstr "交换方粮食的数量不足"
+
+#: service/Army.php:1569
+#: service/Army.php:1649
+msgid "e.hero.soldierExchangeLimitOverflow"
+msgstr "交换方兵的数量超过被交换方带兵上限"
+
+#: service/Army.php:1633
+#: service/Army.php:1635
+msgid "e.army.notEnough"
+msgstr "交换方士兵的数量不足"
+
+#: service/Army.php:1645
+msgid "e.hero.soldierBeExchangedLimitOverflow"
+msgstr "被交换方兵的数量超过交换方带兵上限"
+
+#: service/Army.php:1733
+#: service/Army.php:1736
+msgid "e.hero.woodLimit"
+msgstr "双方木材的数量不正确"
+
+#: service/Army.php:1742
+#: service/Army.php:1745
+msgid "e.hero.stoneLimit"
+msgstr "双方石料的数量不正确"
+
+#: service/Army.php:1751
+#: service/Army.php:1754
+msgid "e.hero.ironLimit"
+msgstr "双方铁砂的数量不正确"
+
+#: service/Army.php:2104
+#: service/Army.php:2232
+msgid "e.army.targetNotValid"
+msgstr "无法到达目标"
+
+#: service/Army.php:2114
+#: service/Army.php:4301
+#: service/Army.php:4418
+msgid "e.army.targetIsCoexistRelation"
+msgstr "该势力与本势力为互不侵犯关系，无法出兵"
+
+#: service/Army.php:2120
+#: service/Army.php:4307
+#: service/Army.php:4424
+msgid "e.army.targetIsLeagueRelationByConverting"
+msgstr "该势力虽然是攻守同盟，但是即将转化为其他关系，无法出兵"
+
+#: service/Army.php:2135
+msgid "e.army.notMatchParmToAttackSuperCity[TIME]"
+msgstr "攻下一座7级城或者开服超过[TIME]天，否则不能攻击该州城"
+
+#: service/Army.php:2174
+#: service/Army.php:4315
+msgid "e.army.targetIsCapitalButNotLastCity"
+msgstr "目标是敌方首都，但不是最后一个城市"
+
+#: service/Army.php:2180
+msgid "e.army.newComerCannotDepartToCityOfOtherNations"
+msgstr "新用户4小时内不能调兵到其他势力城市"
+
+#: service/Army.php:2191
+msgid "e.army.zeroDroitCannotDepartToCityOfOtherNations"
+msgstr "0级权限不能调兵到其他势力城市"
+
+#: service/Army.php:2222
+msgid "e.army.userUnmatch"
+msgstr "您无权操作该部队"
+
+#: service/Army.php:2243
+msgid "e.army.departNumReachMin[CITYNAME][LIMIT]"
+msgstr "部队兵力小于[CITYNAME]城市的出兵量下限。(下限值：[LIMIT])"
+
+#: service/Army.php:2250
+msgid "e.army.departNumReachMax[CITYNAME][LIMIT]"
+msgstr "[CITYNAME]城市已达到出兵量上限。(当前上限：[LIMIT])"
+
+#: service/Army.php:2281
+msgid "e.army.unenoughPowerToDispatch"
+msgstr "体力不足，无法出征"
+
+#: service/Army.php:2286
+msgid "e.army.unenoughCropToDispatch"
+msgstr "粮食不足，无法出征"
+
+#: service/Army.php:2390
+msgid "e.army.dispatchExactTimeNotValid"
+msgstr "您输入的数据有误"
+
+#: service/Army.php:2544
+msgid "e.army.noDroitToRepatriate"
+msgstr "您没有遣返该城部队的权限"
+
+#: service/Army.php:3576
+msgid "game.attackAlert.numLess1000"
+msgstr "不足1千"
+
+#: service/Army.php:3581
+msgid "game.attackAlert.numLess10000[N]"
+msgstr "[N]千人以上"
+
+#: service/Army.php:3586
+#: service/Army.php:3591
+msgid "game.attackAlert.numTenThousand[N]"
+msgstr "[N]万人以上"
+
+#: service/Army.php:3595
+msgid "game.attackAlert.numTenThousand"
+msgstr "千万以上"
+
+#: service/Army.php:4224
+msgid "e.army.notInDispatch"
+msgstr "部队不在出征状态中"
+
+#: service/Army.php:4230
+#: service/Army.php:4269
+msgid "e.army.dispatchQueueNotExist"
+msgstr "出征队列不存在"
+
+#: service/Army.php:4263
+#: service/Army.php:4284
+msgid "e.army.arrived"
+msgstr "大军已安营扎寨，不可召回"
+
+#: service/Army.php:4276
+msgid "e.army.exceedRecallTime"
+msgstr "部队出发时间超过10分钟，请将军收回成命"
+
+#: service/Army.php:4280
+msgid "e.army.cannotRecall"
+msgstr "大军即将到达目的地，不可召回"
+
+#: service/Army.php:4340
+msgid "e.hero.recallItemNotEnought"
+msgstr "将军需要特殊道具才能召回部队"
+
+#: service/Army.php:4371
+msgid "e.system.functionClose"
+msgstr "该功能已关闭"
+
+#: service/Army.php:4447
+msgid "e.army.ambushPermissionDenied"
+msgstr "没有权限对该部队进行伏击操作"
+
+#: service/Army.php:4456
+msgid "e.army.ambushNumReachMin[LIMIT]"
+msgstr "部队数量不足[LIMIT]无法进行埋伏"
+
+#: service/Army.php:4463
+msgid "e.army.ambushCityNotMatch"
+msgstr "主城与野外战场不一致。"
+
+#: service/User.php:921
+msgid "e.user.levyCDing"
+msgstr "征税CD时间正在冷却，无法征收"
+
+#: service/User.php:927
+msgid "e.user.levyCountReachMax"
+msgstr "本日征收次数已达到上限"
+
+#: service/User.php:1062
+msgid "e.user.levyCDAlreadyReached"
+msgstr "征税CD时间已结束，无需加速"
+
+#: service/User.php:1099
+msgid "e.user.restartInitFirst"
+msgstr "您尚未完成迁服流程，请先初始化角色！"
+
+#: service/User.php:1479
+msgid "game.corps.nullOfName"
+msgstr "无"
+
+#: service/User.php:1543
+msgid "game.user.nullOfOfficial"
+msgstr "无"
+
+#: service/User.php:1614
+msgid "game.user.restartTips[DEV][START_DAY][SVR_NUM][UNITE_DAY]"
+msgstr "统一之后，发展分[DEV]万以上的玩家可以向开服超过[START_DAY]天，势力数量大于[SVR_NUM]的服务器迁移，统一之后[UNITE_DAY]天，剩余的未迁移的发展分大于[DEV]万以上的玩家将集体迁入官方指定服务器。"
+
+#: service/User.php:1628
+msgid "game.user.interServiceBattleBattleTips[DEVELOP][MARTIAL]"
+msgstr "报名参加春节争霸活动的玩家需满足个人发展分大于[DEVELOP]，并且个人军功分大于[MARTIAL]。完成报名后，玩家在当前服务器中的一切都不会受到影响，同时玩家可以在活动进行期间在活动服务器中进行游戏。进入活动服务器的玩家，保留部分角色信息，武将信息，田庄信息。"
+
+#: service/User.php:1696
+msgid "e.user.describeOverflow"
+msgstr "描述信息超出了限制长度"
+
+#: service/User.php:1841
+msgid "e.system.closeRegister"
+msgstr "服务器已关闭注册"
+
+#: service/User.php:1855
+msgid "e.user.activeCodeInvalid"
+msgstr "激活码无效，请重新输入"
+
+#: service/User.php:1861
+#: service/User.php:3619
+msgid "e.user.nameNotInput"
+msgstr "角色名不能为空"
+
+#: service/User.php:1869
+#: service/User.php:3627
+msgid "e.user.nameLengthInvalid"
+msgstr "角色名不符合长度限制"
+
+#: service/User.php:1874
+#: service/User.php:3632
+msgid "e.user.nameIncludeFilterWord"
+msgstr "名字中包含系统过滤词汇"
+
+#: service/User.php:1880
+#: service/User.php:2530
+#: service/User.php:3638
+#: service/User.php:3665
+msgid "e.user.nameAlreadyExist"
+msgstr "角色名称已存在"
+
+#: service/User.php:1894
+msgid "e.user.alreadyExist"
+msgstr "您已经创建过角色"
+
+#: service/User.php:1903
+#: service/User.php:3648
+msgid "e.user.roleNameIsRetention"
+msgstr "角色名称暂时保留"
+
+#: service/User.php:1915
+#: service/User.php:3655
+msgid "e.user.cannotUseHistoryName"
+msgstr "不能使用史实武将名称"
+
+#: service/User.php:1945
+#: service/User.php:1951
+#: service/User.php:1964
+msgid "e.user.thisStateIsClosed"
+msgstr "该州尚未开放，无法选择"
+
+#: service/User.php:2002
+#: service/User.php:2179
+msgid "e.nation.capitalError"
+msgstr "无法选择该势力"
+
+#: service/User.php:2032
+msgid "e.restart.recommendNationChanged"
+msgstr "推荐势力发生变化，请重新选择势力"
+
+#: service/User.php:2130
+#: service/User.php:2226
+msgid "e.hero.emperorNotExist"
+msgstr "君主武将呢？"
+
+#: service/User.php:2699
+msgid "e.user.closeQuisle"
+msgstr "当前服务器已关闭叛国"
+
+#: service/User.php:2713
+msgid "e.user.ministerCannotQuisle"
+msgstr "丞相无法背叛势力"
+
+#: service/User.php:2730
+msgid "e.user.cannotQuisleWithManyManors"
+msgstr "还有非首都田庄未被放弃"
+
+#: service/User.php:2737
+msgid "e.user.cannotQuisleWithAnyArmy"
+msgstr "请解散所有部队"
+
+#: service/User.php:2749
+msgid "e.user.reachMaxQuisleTimes"
+msgstr "没有剩余背叛势力次数，无法背叛"
+
+#: service/User.php:2821
+msgid "e.user.NationIsNotFind"
+msgstr "该势力不存在"
+
+#: service/User.php:2825
+msgid "e.user.thisNationIsDead"
+msgstr "无法加入已灭亡的势力"
+
+#: service/User.php:2833
+msgid "e.user.cannotSelectThisNation"
+msgstr "您不能选择当前的势力"
+
+#: service/User.php:3084
+msgid "e.tech.needOtherTechLevel"
+msgstr "任意一系攻防科技10级"
+
+#: service/User.php:3087
+msgid "e.tech.needAllTechToLevel10"
+msgstr "所有兵种攻防科技10级"
+
+#: service/User.php:3093
+msgid "e.tech.alreadyExist"
+msgstr "该科技已研发"
+
+#: service/User.php:3154
+#: service/User.php:3241
+msgid "e.user.techLevelReachMax"
+msgstr "科技等级达到上限"
+
+#: service/User.php:3188
+msgid "e.user.techLevelOneReachMax"
+msgstr "一项兵种攻防科技均到20级"
+
+#: service/User.php:3231
+msgid "e.user.techIdIsWrong"
+msgstr "科技类型错误"
+
+#: service/User.php:3446
+msgid "e.user.techFinallySoldierHaved"
+msgstr "已经研究了终极兵种"
+
+#: service/User.php:3456
+#: service/User.php:3484
+msgid "e.user.techRequireUnmatch"
+msgstr "未满足研发条件"
+
+#: service/User.php:3614
+msgid "e.user.notAllowRename"
+msgstr "不允许改名"
+
+#: service/User.php:3716
+msgid "e.user.alreadyGetSalary"
+msgstr "今日已领取过俸禄"
+
+#: service/User.php:4303
+msgid "e.user.unenoughBattleScore"
+msgstr " 战功分数量不足"
+
+#: service/User.php:4349
+msgid "e.user.setDefaultRoleError"
+msgstr "设置默认角色失败"
+
+#: service/User.php:4385
+msgid "e.user.over120string"
+msgstr "宣言文字不得超过120个汉字"
+
+#: service/User.php:4512
+msgid "e.user.unenoughLossScore"
+msgstr "战损分数量不足"
+
+#: service/War.php:2464
+msgid "e.war.unenoughMoveStep"
+msgstr "您无法移动到该位置"
+
+#: service/War.php:5247
+msgid "game.warReport.nationLoss[NATIONNAME][LOSS]"
+msgstr "[104#[NATIONNAME]军#]伤亡总数：[LOSS]"
+
+#: service/War.php:5341
+msgid "game.warReport.heroExp"
+msgstr "[104#[NAME]#] 获得经验 [EXP]"
+
+#: service/War.php:5400
+msgid "game.warReport.monarchOrderHeroExp"
+msgstr "君主令之下的武将们奋勇作战，共领悟了额外[EXP]点经验"
+
+#: service/War.php:5491
+msgid "game.warReport.heroRank1[NATION][USER_ID][USER][HERO_ID][HERO][KILL]"
+msgstr "[NATION]势力[4#【<a href='event:player-[USER_ID]'>[USER]</a>】#]麾下武将[104#【<a href='event:hero-[HERO_ID]'>[HERO]</a>】#]勇冠三军，阵斩[KILL]人"
+
+#: service/War.php:5514
+msgid "game.warReport.heroRank2[NATION][USER_ID][USER][HERO_ID][HERO][KILL]"
+msgstr "[NATION]势力[4#【<a href='event:player-[USER_ID]'>[USER]</a>】#]麾下武将[104#【<a href='event:hero-[HERO_ID]'>[HERO]</a>】#]勇猛无比，阵斩[KILL]人"
+
+#: service/War.php:5530
+msgid "game.warReport.heroRank3[NATION][USER_ID][USER][HERO_ID][HERO][KILL]"
+msgstr "[NATION]势力[4#【<a href='event:player-[USER_ID]'>[USER]</a>】#]麾下武将[104#【<a href='event:hero-[HERO_ID]'>[HERO]</a>】#]英勇善战，阵斩[KILL]人"
+
+#: service/War.php:5587
+msgid "game.warreport.singlewar.attacker.win"
+msgstr "第[ROUNDNUM]回合：<br>您的武将[ATTACKER]挑战敌方武将[DEFENDER]获胜，您杀死了[SOLDIERNAME]*[SOLDIERNUM], 获得了必杀值*[WINPOWER],获得了战功分*[BATTLESCORE],获得了经验值*[EXP] [3#<b><u><a href='event:pk-[ID]-【[ATTACKER]】VS【[DEFENDER]】'>发布</a></u></b> #]（结果保存两天）"
+
+#: service/War.php:5589
+msgid "game.warreport.singlewar.defender.lose"
+msgstr "第[ROUNDNUM]回合：<br>敌方武将[ATTACKER]挑战您的武将[DEFENDER]获胜，您损失了[SOLDIERNAME]*[SOLDIERNUM], 失去了必杀值*[LOSEPOWER] [3#<b><u><a href='event:pk-[ID]-【[ATTACKER]】VS【[DEFENDER]】'>发布</a></u></b> #]（结果保存两天）"
+
+#: service/War.php:5592
+msgid "game.warreport.singlewar.attacker.lose"
+msgstr "第[ROUNDNUM]回合：<br>您的武将[ATTACKER]挑战敌方武将[DEFENDER]失败，您损失了[SOLDIERNAME]*[SOLDIERNUM], 失去了必杀值*[LOSEPOWER] [3#<b><u><a href='event:pk-[ID]-【[ATTACKER]】VS【[DEFENDER]】'>发布</a></u></b> #]（结果保存两天）"
+
+#: service/War.php:5594
+msgid "game.warreport.singlewar.defender.win"
+msgstr "第[ROUNDNUM]回合：<br>敌方武将[ATTACKER]挑战您的武将[DEFENDER]失败，您杀死了[SOLDIERNAME]*[SOLDIERNUM], 获得了必杀值*[WINPOWER],获得了战功分*[BATTLESCORE],获得了经验值*[EXP] [3#<b><u><a href='event:pk-[ID]-【[ATTACKER]】VS【[DEFENDER]】'>发布</a></u></b> #]（结果保存两天）"
+
+#: service/War.php:5602
+msgid "game.warReport.title.less1000[CITY]"
+msgstr "[3#[CITY]骚扰战#]"
+
+#: service/War.php:5606
+msgid "game.warReport.title.less10000[CITY]"
+msgstr "[3#[CITY]摩擦战#]"
+
+#: service/War.php:5610
+msgid "game.warReport.title.less100000[CITY]"
+msgstr "[3#[CITY]战斗#]"
+
+#: service/War.php:5614
+msgid "game.warReport.title.less500000[CITY]"
+msgstr "[3#[CITY]战役#]"
+
+#: service/War.php:5618
+msgid "game.warReport.title.default[CITY]"
+msgstr "[3#[CITY]战争#]"
+
+#: service/War.php:5626
+msgid "game.warReport.warId[WAR_ID]"
+msgstr "战役ID：[WAR_ID]"
+
+#: service/War.php:5637
+#: service/War.php:5638
+msgid "Y-m-d H:i:s"
+msgstr "Y年m月d日 H:i:s"
+
+#: service/War.php:5636
+msgid "game.warReport.commonBody[START_TIME][END_TIME][CITY][NATIONLOSS]"
+msgstr "[3#时间：#][START_TIME] 至 [END_TIME]<br>[3#地点：#][CITY]<br>[NATIONLOSS]<br>"
+
+#: service/War.php:5686
+msgid "game.warReport.rewards.coin[COIN]"
+msgstr "[3#银两#] [COIN]"
+
+#: service/War.php:5724
+msgid "game.warReport.rewards.battleScore[BATTLESCORE]"
+msgstr "[3#战功分#] [BATTLESCORE]"
+
+#: service/War.php:5745
+msgid "game.warReport.rewards.lossScore[LOSSSCORE]"
+msgstr "[3#战损分#] [LOSSSCORE]"
+
+#: service/War.php:5820
+#: service/War.php:5837
+msgid "game.warReport.noKill"
+msgstr "[0#没有杀敌#]"
+
+#: service/War.php:5823
+#: service/War.php:5834
+msgid "game.warReport.noLoss"
+msgstr "[0#没有损伤#]"
+
+#: service/War.php:5826
+msgid "game.warReport.noHeroExp"
+msgstr "[0#未获得经验#]"
+
+#: service/War.php:5829
+msgid "game.warReport.noRewards"
+msgstr "[0#未获得奖励#]"
+
+#: service/War.php:5841
+msgid "game.warReport.noSingleWar"
+msgstr "[0#没有进行单挑#]"
+
+#: service/War.php:5818
+msgid "game.warReport.userBody"
+msgstr "[3#您的战果：#]<br>[4#消灭兵力：#]<br>[KILL]<br>[4#击毁建筑：#][DAMAGEHOUSE]点<br>[0#损失兵力：#]<br>[LOSS]<br>[4#参战将领：#]<br>[HEROEXP]<br>[4#获得物品：#]<br>[REWARDS]<br>[MONARCHORDERHEROEXP]<br>单挑战报：<br>[SINGLEWAR]<br>"
+
+#: service/War.php:6636
+msgid "e.hero.armyNotExist"
+msgstr "部队不存在"
+
+#: service/War.php:6665
+msgid "e.hero.notEnoughPower"
+msgstr "武将体力不足"
+
+#: service/War.php:6670
+msgid "e.hero.notEnoughCrop"
+msgstr "部队粮食不足"
+
+#: service/School.php:145
+msgid "e.school.schoolNameAlreadyExist"
+msgstr "学堂名字已存在，换一个更好听的名字吧。"
+
+#: service/School.php:148
+msgid "e.school.nameOver8words"
+msgstr "学堂名字不能超过8个字符，要言简意赅"
+
+#: service/School.php:151
+msgid "e.school.declarationOver50words"
+msgstr "学堂宣言不能超过50个字符，字符太多了，会增加服务器压力"
+
+#: service/School.php:155
+msgid "e.school.nameIncludeFilterWord"
+msgstr "学堂名字中包含系统过滤词汇"
+
+#: service/School.php:160
+msgid "e.school.declarationIncludeFilterWord"
+msgstr "学堂宣言中包含系统过滤词汇"
+
+#: service/School.php:167
+msgid "e.school.developShouldReach10000"
+msgstr "您的发展分不满10000，发展超过10000才有资格办学，否则办学会有很大的经济压力"
+
+#: service/School.php:170
+msgid "e.school.dontHaveANation"
+msgstr "无势力玩家不能创建学堂"
+
+#: service/School.php:178
+msgid "e.school.alreadyHaveSchool"
+msgstr "您已加入了一个学堂，不能再三心二意，想着别的学堂了。"
+
+#: service/School.php:263
+msgid "e.school.youHaveJoindSchool"
+msgstr "您已加入了一个学堂，不能再三心二意，想着别的学堂了。"
+
+#: service/School.php:271
+msgid "e.school.youJoinSchoolError"
+msgstr "你要加入的学堂不存在"
+
+#: service/School.php:276
+#: service/School.php:1718
+msgid "e.school.yourNationIsDeferentFromSchool"
+msgstr "你申请的学堂与您不在同一个势力"
+
+#: service/School.php:284
+msgid "e.school.dataIsError"
+msgstr "数据配置错误"
+
+#: service/School.php:288
+#: service/School.php:1579
+msgid "e.school.memberReachedMaxNum"
+msgstr "学堂已达到人数上限，学堂等级越高，人数上限越大"
+
+#: service/School.php:312
+#: service/School.php:447
+#: service/School.php:1027
+#: service/School.php:1440
+#: service/School.php:1499
+#: service/School.php:1708
+#: service/School.php:2235
+#: service/School.php:2277
+msgid "e.school.youHaveNotJoindSchool"
+msgstr "您尚未加入学堂"
+
+#: service/School.php:317
+#: service/School.php:452
+#: service/School.php:1445
+#: service/School.php:1504
+#: service/School.php:1570
+#: service/School.php:1713
+#: service/School.php:2240
+#: service/School.php:2282
+msgid "e.school.schoolError"
+msgstr "学堂不存在"
+
+#: service/School.php:473
+msgid "e.school.pleaseSelectDropSchool"
+msgstr "请选择解散操作"
+
+#: service/School.php:569
+msgid "e.school.userHaveQuitSchool"
+msgstr "该玩家已经退出了学堂"
+
+#: service/School.php:665
+#: service/School.php:801
+#: service/School.php:841
+#: service/School.php:1099
+#: service/School.php:1453
+#: service/School.php:1746
+#: service/School.php:1866
+#: service/School.php:2036
+msgid "e.school.heroNotYours"
+msgstr "不是你的武将"
+
+#: service/School.php:669
+#: service/School.php:805
+#: service/School.php:845
+#: service/School.php:1037
+#: service/School.php:1103
+msgid "e.school.heroNotInSchool"
+msgstr "武将不在学堂中"
+
+#: service/School.php:678
+#: service/School.php:897
+#: service/School.php:1123
+msgid "e.school.schoolNotExists"
+msgstr "学堂不存在"
+
+#: service/School.php:684
+#: service/School.php:1129
+msgid "e.school.teacherDownClass"
+msgstr "学生数量不足,学生至少6个时，才能进行学习，学校总贡献度越高，可接纳学生越多。"
+
+#: service/School.php:718
+msgid "e.school.userConsultNumLimit"
+msgstr "本角色的总学习次数已达上限，其中，贡献度越高，总学习次数上限越高。学习就可获得贡献度。"
+
+#: service/School.php:791
+msgid "e.school.cannotChallengeYourself"
+msgstr "不能挑战自己"
+
+#: service/School.php:827
+msgid "e.school.challengedNumLimit"
+msgstr "今日已到挑战次数上限，武功越高，武将本身每日比试次数上限越多。比试总次数受贡献度高低控制，贡献度越高，比试每日总次数上限越高。"
+
+#: service/School.php:833
+msgid "e.school.literaryLevelMustOverThree"
+msgstr "文采等级3级或者3级以上才能使用挑战功能，挑战对象也必须满足文采3级或者3级以上"
+
+#: service/School.php:851
+msgid "e.school.literaryLevelMustGetToThree"
+msgstr "文采没到3级，3级或者3级以上才能使用挑战功能，挑战对象也必须满足文采3级或者3级以上"
+
+#: service/School.php:1019
+msgid "e.school.cannotEjectYourself"
+msgstr "不能驱逐自己，只能驱逐别人，被驱逐三次就会被扫地出门，损失领悟力和贡献度。"
+
+#: service/School.php:1041
+msgid "e.school.cannotExjectSchoolMaster"
+msgstr "校长武将不能驱逐"
+
+#: service/School.php:1049
+msgid "e.school.haveAlreadyEjected"
+msgstr "已经驱逐过了，同一角色只能驱逐一次。学堂中要注意好好做人，被赶出去会损失很大。"
+
+#: service/School.php:1114
+msgid "e.school.noReviewTimesLeft"
+msgstr "本日复习次数已经达到上限，文采等级提升能够增加复习次数上限"
+
+#: service/School.php:1550
+#: service/School.php:1675
+msgid "e.school.noPower"
+msgstr "没有学堂管理权限"
+
+#: service/School.php:1556
+#: service/School.php:1681
+msgid "e.school.cannotFindTheApplyInfo"
+msgstr "该申请不存在"
+
+#: service/School.php:1564
+#: service/School.php:1686
+msgid "e.schoolId.wrongSchoolid"
+msgstr "您不属于该学堂"
+
+#: service/School.php:1588
+msgid "e.school.wrongNation"
+msgstr "该申请人与您不在同一个势力"
+
+#: service/School.php:1616
+msgid "e.school.youhaveASchool"
+msgstr "你已经有学堂了"
+
+#: service/School.php:1755
+#: service/School.php:1875
+#: service/School.php:2045
+#: service/School.php:2609
+msgid "e.school.realizationNotEnough"
+msgstr "领悟力没有满，领悟力满才能去领悟技能"
+
+#: service/School.php:1883
+msgid "e.school.SkillNotExists"
+msgstr "技能不存在"
+
+#: service/School.php:1896
+msgid "e.hero.skillExist"
+msgstr "武将特技已存在"
+
+#: service/School.php:1910
+msgid "e.hero.skillCannotReplace"
+msgstr "专属技能或双技能不能被覆盖"
+
+#: service/School.php:1917
+msgid "e.hero.skillsFull"
+msgstr "技能都学满"
+
+#: service/School.php:2287
+msgid "e.school.youIsnotMasterNotDropSchool"
+msgstr "你不是该学堂的校长不能解散该学堂"
+
+#: service/School.php:2475
+msgid "e.school.mergeItemNotEnought"
+msgstr "融合所需道具数量不足"
+
+#: service/School.php:2479
+#: service/School.php:2485
+msgid "e.item.undefinedEffect"
+msgstr "未定义道具效果"
+
+#: service/School.php:2494
+msgid "e.school.hadNoRightSkill"
+msgstr "武将没有符合融合条件的技能"
+
+#: service/School.php:2614
+msgid "e.school.spareSkillPositionAllOpened"
+msgstr "备用技能栏已全部开启"
+
+#: service/Exchange.php:59
+msgid "e.exchange.errorTimesTooMuch"
+msgstr "你今天输入的错误次数太多，请明天继续兑换。"
+
+#: service/Exchange.php:67
+#: service/Exchange.php:116
+#: service/Exchange.php:136
+#: service/Exchange.php:142
+#: service/Exchange.php:166
+#: service/Exchange.php:238
+#: service/Exchange.php:274
+#: service/Exchange.php:286
+#: service/Exchange.php:318
+msgid "e.exchange.error"
+msgstr "兑换码错误"
+
+#: service/Exchange.php:72
+#: service/Exchange.php:112
+#: service/Exchange.php:162
+#: service/Exchange.php:248
+#: service/Exchange.php:310
+msgid "e.exchange.isUsed"
+msgstr "兑换码已经使用"
+
+#: service/Exchange.php:77
+#: service/Exchange.php:108
+#: service/Exchange.php:158
+#: service/Exchange.php:243
+#: service/Exchange.php:306
+msgid "e.exchange.isExpired"
+msgstr "兑换码已经过期"
+
+#: service/Exchange.php:91
+#: service/Exchange.php:127
+#: service/Exchange.php:323
+msgid "e.exchange.searchError"
+msgstr "兑换码查询失败"
+
+#: service/Exchange.php:230
+msgid "e.exchange.rewardTimesTooMuch"
+msgstr "你今天已经兑换了太多物品，请明天继续兑换。"
+
+#: service/Exchange.php:253
+#: service/Exchange.php:314
+msgid "e.exchange.isExchanged"
+msgstr "你已经兑换过该项奖励，无法再次兑换。"
+
+#: service/GroupBuy.php:151
+#: service/GroupBuy.php:260
+#: service/Shop.php:216
+#: service/Shop.php:460
+#: service/Shop.php:638
+msgid "e.shop.goodsNotExist"
+msgstr "该商品不存在"
+
+#: service/GroupBuy.php:161
+#: service/Shop.php:226
+msgid "e.shop.goodsExpire"
+msgstr "该商品不在销售期"
+
+#: service/GroupBuy.php:165
+#: service/GroupBuy.php:183
+#: service/GroupBuy.php:269
+msgid "e.shop.goodsGroupBuyIsStop"
+msgstr "该商品团购已结束"
+
+#: service/GroupBuy.php:171
+msgid "e.shop.yourCreditNeedMore"
+msgstr "您的信用度不够"
+
+#: service/GroupBuy.php:191
+msgid "e.shop.goodsGroupBuyLimit"
+msgstr "你购买的数量超过了团购数量的上限"
+
+#: service/GroupBuy.php:198
+msgid "e.shop.goodsGroupBuyMinLimit"
+msgstr "未达到单人购买数量下限"
+
+#: service/GroupBuy.php:202
+msgid "e.shop.goodsGroupBuyMaxLimit"
+msgstr "超过单人购买数量上限"
+
+#: service/GroupBuy.php:248
+msgid "e.shop.goodsBuyNumError"
+msgstr "输入数量错误"
+
+#: service/GroupBuy.php:264
+msgid "e.shop.goodsGroupBuyIsNotStop"
+msgstr "该商品团购未结束，尚未进入支付阶段"
+
+#: service/GroupBuy.php:277
+msgid "e.shop.notJoinThisGroupBuy"
+msgstr "你没有参加该团购活动"
+
+#: service/GroupBuy.php:282
+msgid "e.shop.goodsGroupBuyLimitOrderNum"
+msgstr "你支付的数量超过了订购数量的上限"
+
+#: service/GroupBuy.php:383
+msgid "game.shop.groupBuyUser[NUM]"
+msgstr "[NUM]人参加"
+
+#: service/GroupBuy.php:386
+msgid "game.shop.groupBuyGoods[NUM]"
+msgstr "[NUM]件商品卖出"
+
+#: service/GroupBuy.php:404
+msgid "game.shop.groupBuyUserNum"
+msgstr "参与人数"
+
+#: service/GroupBuy.php:407
+msgid "game.shop.groupBuyGoodsNum"
+msgstr "商品预定量"
+
+#: service/SgSoap.php:50
+msgid "e.sgsoap.regionServerErr"
+msgstr "大区服务器连接错误"
+
+#: service/DailyQA.php:415
+msgid "e.DailyQA.numError"
+msgstr "购买次数错误"
+
+#: service/Arena.php:156
+#: service/Arena.php:161
+#: service/Arena.php:298
+#: service/Arena.php:585
+#: service/Arena.php:710
+#: service/Arena.php:1537
+#: service/Arena.php:1595
+#: service/Arena.php:2538
+#: service/Arena.php:3346
+#: service/Arena.php:3776
+#: service/Arena.php:3852
+#: service/Arena.php:4274
+#: service/Arena.php:5261
+#: service/Arena.php:5914
+#: service/Arena.php:6255
+#: service/Arena.php:6358
+#: service/Arena.php:7065
+#: service/Arena.php:7793
+#: service/Arena.php:9230
+msgid "e.arena.hack"
+msgstr "hack。。。"
+
+#: service/Arena.php:173
+#: service/Arena.php:1929
+#: service/Arena.php:2981
+msgid "e.arena.beAttacking"
+msgstr "当前正在挑战中。。。"
+
+#: service/Arena.php:602
+msgid "e.arena.canOnlySetPolicy"
+msgstr "现在只能调整阵型和战术"
+
+#: service/Arena.php:641
+msgid "e.arena.notEnoughSoldier"
+msgstr "士兵不足"
+
+#: service/Arena.php:1177
+msgid "game.arena.bulletinKillSoldierFormat"
+msgstr "[TAB][1#[NAME]#][4#[NUM]#]@NUM_WIDTH:10"
+
+#: service/Arena.php:1200
+msgid "game.arena.bulletinLossSoldierFormat"
+msgstr "[TAB][1#[NAME]#][50#[NUM]#]@NUM_WIDTH:10"
+
+#: service/Arena.php:1227
+msgid "game.arena.heroFired"
+msgstr "[已解雇武将]"
+
+#: service/Arena.php:1233
+#: service/Arena.php:1449
+#: service/Arena.php:3886
+#: service/Arena.php:7113
+msgid "game.arena.win"
+msgstr "胜利"
+
+#: service/Arena.php:1234
+#: service/Arena.php:3872
+#: service/Arena.php:7107
+msgid "game.arena.draw"
+msgstr "平局"
+
+#: service/Arena.php:1235
+msgid "game.arena.lose"
+msgstr "失败"
+
+#: service/Arena.php:1236
+#: service/Arena.php:7110
+msgid "game.arena.bothFail"
+msgstr "双方失败"
+
+#: service/Arena.php:1240
+#: service/Arena.php:1241
+#: service/Arena.php:2986
+#: service/Arena.php:3889
+#: service/Arena.php:3890
+#: service/Arena.php:7116
+#: service/Arena.php:7117
+msgid "game.arena.time_format"
+msgstr "Y年m月d日 H:i:s"
+
+#: service/Arena.php:1283
+#: service/Arena.php:1285
+#: service/Arena.php:1290
+#: service/Arena.php:1292
+msgid "game.arena.inc"
+msgstr "升高"
+
+#: service/Arena.php:1283
+#: service/Arena.php:1285
+#: service/Arena.php:1290
+#: service/Arena.php:1292
+msgid "game.arena.dec"
+msgstr "降低"
+
+#: service/Arena.php:1329
+#: service/Arena.php:1380
+#: service/Arena.php:3715
+#: service/Arena.php:3875
+#: service/Arena.php:7483
+msgid "game.arena.camp.red"
+msgstr "红"
+
+#: service/Arena.php:1329
+#: service/Arena.php:3715
+#: service/Arena.php:3875
+#: service/Arena.php:7485
+msgid "game.arena.camp.blue"
+msgstr "蓝"
+
+#: service/Arena.php:1413
+msgid "game.mining.attackWin"
+msgstr "成功占领"
+
+#: service/Arena.php:1413
+msgid "game.mining.attackLose"
+msgstr "未占领"
+
+#: service/Arena.php:1414
+msgid "game.mining.defenseWin"
+msgstr "成功保住"
+
+#: service/Arena.php:1414
+msgid "game.mining.defenseLose"
+msgstr "失去了"
+
+#: service/Arena.php:1436
+#: service/Arena.php:7087
+#: service/Arena.php:7094
+msgid "game.corps.noName"
+msgstr "未知军团"
+
+#: service/Arena.php:1821
+msgid "e.arena.noUser"
+msgstr "未找到竞技场玩家"
+
+#: service/Arena.php:1829
+msgid "e.arena.noExchangeAward"
+msgstr "没有奖品"
+
+#: service/Arena.php:1835
+msgid "e.arena.needHigherLevel"
+msgstr "名声不足"
+
+#: service/Arena.php:1840
+#: service/Shop.php:496
+msgid "e.arena.needMoreExploit"
+msgstr "功勋不足"
+
+#: service/Arena.php:1934
+#: service/Arena.php:2991
+msgid "e.user.cannotAttackToday"
+msgstr "今天不能挑战了"
+
+#: service/Arena.php:1939
+#: service/Arena.php:5267
+msgid "e.arena.attackCD... waitingMinutes"
+msgstr "两次挑战有5分钟间隔"
+
+#: service/Arena.php:1944
+msgid "e.user.cannotAttackYourself"
+msgstr "不能挑战自己"
+
+#: service/Arena.php:1955
+msgid "e.arena.opposRankBeyondYourAttackRange"
+msgstr "对方的排名超出攻击范围"
+
+#: service/Arena.php:1984
+#: service/Arena.php:5388
+msgid "game.arena.autoFighting"
+msgstr "该场战斗已进入自动战斗阶段，请稍后通过战报查看"
+
+#: service/Arena.php:2192
+msgid "e.arena.editYourTroopFirst"
+msgstr "没有部队。。。"
+
+#: service/Arena.php:2988
+msgid "e.user.cannotAttackUntil"
+msgstr "下次挑战时间：[NEXT_TIME]"
+
+#: service/Arena.php:2998
+msgid "e.arena.quickAttackCD... waitingMinutes"
+msgstr "30秒可以进行下一次挑战"
+
+#: service/Arena.php:3002
+msgid "e.arena.cannotQuickChallengeThisFloor"
+msgstr "只有挑战本关卡成功后，才可以使用快速挑战"
+
+#: service/Arena.php:3006
+#: service/Arena.php:3013
+msgid "e.arena.cannotChallengeThisFloor"
+msgstr "无法挑战该层"
+
+#: service/Arena.php:3023
+msgid "e.arena.reachAttackLimitOfThisFloor"
+msgstr "当前该关卡可挑战次数为0，请等待下一次刷新"
+
+#: service/Arena.php:3201
+#: service/Arena.php:5908
+msgid "e.arena.cannotSignupVBFNow"
+msgstr "现在不可报名"
+
+#: service/Arena.php:3210
+msgid "e.arena.hasSignupVBFToday"
+msgstr "您已经在今天的冲锋陷阵活动中报名了"
+
+#: service/Arena.php:3226
+msgid "e.arena.allBattlefieldsAreFull"
+msgstr "战场满了，暂时不能报名了"
+
+#: service/Arena.php:3247
+#: service/Arena.php:4207
+msgid "e.arena.soldierNumOfEveryArmyIsTooLess"
+msgstr "部队人数太少，没有队伍入选"
+
+#: service/Arena.php:3329
+msgid "e.arena.hasnotSignupVBFToday"
+msgstr "您还没报名今天的冲锋陷阵活动"
+
+#: service/Arena.php:3333
+msgid "e.arena.cannotSignoutVBFIn[MINUTES]Minutes"
+msgstr "报名后[MINUTES]分钟内不能取消报名"
+
+#: service/Arena.php:3339
+#: service/Arena.php:6075
+msgid "e.arena.cannotSignoutVBFAfter[TIME]"
+msgstr "[TIME]之后不能取消报名"
+
+#: service/Arena.php:3859
+#: service/Arena.php:3865
+#: service/Arena.php:7072
+#: service/Arena.php:7078
+msgid "e.arena.bfNotExistOrUnfinished"
+msgstr "该次战斗不存在或未结束"
+
+#: service/Arena.php:3880
+#: service/Arena.php:3883
+msgid "game.arena.vizir.red"
+msgstr "本服联军"
+
+#: service/Arena.php:3880
+msgid "game.arena.vizir.blue"
+msgstr "开国元勋军团"
+
+#: service/Arena.php:3883
+msgid "game.arena.yearmonster.blue"
+msgstr "年兽部队"
+
+#: service/Arena.php:4159
+msgid "e.arena.cannotSignupVizirNow"
+msgstr "现在不可报名"
+
+#: service/Arena.php:4172
+msgid "e.arena.hasSignupVizir[TITLE]"
+msgstr "您已经报名[TITLE]了"
+
+#: service/Arena.php:4253
+msgid "e.arena.hasnotSignupVizir[TITLE]"
+msgstr "您还没报名[TITLE]"
+
+#: service/Arena.php:4258
+msgid "e.arena.cannotSignoutVizirIn[MINUTES]Minutes"
+msgstr "报名后[MINUTES]分钟内不能取消报名"
+
+#: service/Arena.php:4266
+msgid "e.arena.cannotSignoutVizirAfter[TIME]"
+msgstr "[TIME]之后不能取消报名"
+
+#: service/Arena.php:5226
+#: service/Arena.php:6148
+#: service/Arena.php:6186
+msgid "e.mining.thisMiningNotYours"
+msgstr "TIPS: 这个矿区是别人的"
+
+#: service/Arena.php:5230
+msgid "e.mining.fighting, pleaseWaiting"
+msgstr "TIPS: 你的矿区战斗中，稍后"
+
+#: service/Arena.php:5271
+msgid "e.mining.holdingThis, doNothing"
+msgstr "TIPS: 你已经占领了"
+
+#: service/Arena.php:5275
+msgid "e.mining.fighting, cannotAttack"
+msgstr "TIPS: 别人在打，稍后"
+
+#: service/Arena.php:5280
+msgid "e.mining.arenaMiningCannotAttackQuick"
+msgstr "该农田不可以进行抢收"
+
+#: service/Arena.php:5286
+msgid "e.mining.youAreAttacking, waiting"
+msgstr "TIPS: 你在挑战别的矿区，稍后"
+
+#: service/Arena.php:5292
+msgid "e.mining.beAttacked, waiting"
+msgstr "TIPS: 被侵犯了。。。稍后"
+
+#: service/Arena.php:5475
+#: service/Arena.php:5520
+msgid "game.arena.none"
+msgstr "无"
+
+#: service/Arena.php:5935
+#: service/Arena.php:6091
+#: service/Arena.php:6182
+#: service/Arena.php:6347
+msgid "e.arena.youNeedChangeCorpsMaster"
+msgstr "只有军团长才可以进行操作"
+
+#: service/Arena.php:5939
+msgid "e.arena.youCorpsUserNeedHigher"
+msgstr "你的军团规模太小了，请接收更多的玩家。"
+
+#: service/Arena.php:5948
+#: service/Arena.php:5968
+msgid "e.arena.hasSignupMingCropToday"
+msgstr "你已经在今天的军团矿区战报名了"
+
+#: service/Arena.php:5983
+msgid "e.arena.yourJoinCorpsTodayNotSignUP"
+msgstr "你刚刚加入军团，无法参加当次矿区战"
+
+#: service/Arena.php:5989
+#: service/Arena.php:6099
+#: service/Arena.php:6125
+#: service/Arena.php:6414
+msgid "e.arena.yourCorpsHaveNotSignUP"
+msgstr "你所在的军团尚未报名"
+
+#: service/Arena.php:6001
+msgid "e.arena.youArmyNumTooLastCannotSign"
+msgstr "你的部队人数太少不能进行报名"
+
+#: service/Arena.php:6168
+msgid "e.mining.youcannotDropWhenUserSignUp"
+msgstr "军团成员报名阶段不能放弃资源矿"
+
+#: service/Arena.php:6365
+msgid "e.arena.youArmyNumTooLast"
+msgstr "你的部队人数不足不能进行编组"
+
+#: service/Arena.php:6373
+msgid "e.corps.youCorpsArmyIsFull"
+msgstr "该组已经满员，请重新设置部队分组"
+
+#: service/Arena.php:6441
+msgid "e.arena.youCorpsWarFailedCannotGains"
+msgstr "玩家军团在矿区战中被淘汰不能收获"
+
+#: service/Arena.php:6446
+msgid "e.arena.youJoinCorpsOrNoSignCannotGains"
+msgstr "你刚刚加入军团或尚未报名今日矿区战不能进行收获。"
+
+#: service/Arena.php:6467
+msgid "e.arena.levyCDing"
+msgstr "征税CD时间正在冷却，无法收获"
+
+#: service/Arena.php:6484
+msgid "e.arena.youCorpsGainsNumLimit"
+msgstr "已达到收获次数上限"
+
+#: service/Arena.php:7328
+msgid "e.arena.resWarArmySignUp"
+msgstr "部队已经报名"
+
+#: service/Arena.php:7336
+msgid "e.arena.resWarArmySignUpLimit"
+msgstr "部队超出了报名上限"
+
+#: service/Arena.php:7484
+msgid "game.arena.camp.yellow"
+msgstr "黄"
+
+#: service/Arena.php:7805
+msgid "e.arena.notEditOrSignUpAremy"
+msgstr "您现在没有编组任何部队，无法进场，请首先编组和报名部队"
+
+#: service/Arena.php:7899
+#: service/Arena.php:8044
+#: service/Arena.php:8410
+msgid "e.arena.cd"
+msgstr "CD时间中..."
+
+#: service/Arena.php:7903
+#: service/Arena.php:8048
+#: service/Arena.php:8414
+msgid "e.arena.fightingPleaseWaiting"
+msgstr "战斗中，稍后..."
+
+#: service/Arena.php:7909
+#: service/Arena.php:8420
+msgid "e.arena.resWarHouseNotExist"
+msgstr "目标建筑不存在"
+
+#: service/Arena.php:7915
+#: service/Arena.php:8054
+#: service/Arena.php:8426
+msgid "e.arena.resWarHouseStatusError"
+msgstr "所在建筑状态异常，或者被他方占领"
+
+#: service/Arena.php:7928
+msgid "e.arena.resWarNotMoveToHouse"
+msgstr "无法移动到该建筑"
+
+#: service/Arena.php:7938
+msgid "e.arena.resWarHouseNotMove"
+msgstr "该建筑属于对方阵营,不能移动到该建筑,请选择攻击"
+
+#: service/Arena.php:7942
+msgid "e.arena.resWarHouseUserLimit"
+msgstr "超出矿区人数上限"
+
+#: service/Arena.php:8059
+msgid "e.arena.resWarDiggingError"
+msgstr "只能在你当前所在建筑进行挖掘"
+
+#: service/Arena.php:8250
+msgid "e.game.others.wood"
+msgstr "木材"
+
+#: service/Arena.php:8271
+msgid "e.game.others.stone"
+msgstr "石料"
+
+#: service/Arena.php:8292
+msgid "e.game.others.iron"
+msgstr "铁砂"
+
+#: service/Arena.php:8313
+msgid "e.game.others.food"
+msgstr "粮食"
+
+#: service/Arena.php:8334
+msgid "e.game.others.silver"
+msgstr "银两"
+
+#: service/Arena.php:8366
+msgid "e.game.others.gift"
+msgstr "礼金"
+
+#: service/Arena.php:8378
+msgid "e.game.others.battleScore"
+msgstr "战功分"
+
+#: service/Arena.php:8431
+msgid "e.arena.resWarHouseIsHomeNotAttack"
+msgstr "阵营出发点不允许攻击"
+
+#: service/Arena.php:8438
+msgid "e.arena.resWarHouseTheSameCampNotAttack"
+msgstr "同一阵营或者是结盟关系不允许攻击"
+
+#: service/Arena.php:8448
+msgid "e.arena.resWarNotAttackToHouse"
+msgstr "建筑不在攻击范围内"
+
+#: service/Arena.php:8533
+msgid "e.arena.resWarAttackArmyNotexist"
+msgstr "和你配对的部队正紧张战斗中，请再试一次。"
+
+#: service/Arena.php:8796
+msgid "game.arena.defenseWin"
+msgstr "被你打败了"
+
+#: service/Arena.php:8797
+msgid "game.arena.defenseLose"
+msgstr "把你打败了"
+
+#: service/Arena.php:8799
+msgid "game.arena.attackWin[DEFENSER]"
+msgstr "把[DEFENSER]打败了"
+
+#: service/Arena.php:8800
+msgid "game.arena.attackLose[DEFENSER]"
+msgstr "被[DEFENSER]打败了"
+
+#: service/Arena.php:8935
+msgid "e.arena.resWarOrderError"
+msgstr "该指令不存在"
+
+#: service/Arena.php:8973
+msgid "e.arena.resWarInspireCountLimit"
+msgstr "鼓舞次数到达了上限"
+
+#: service/Arena.php:9072
+#: service/Arena.php:9101
+msgid "e.arena.notSelectTarget"
+msgstr "未定义目标点"
+
+#: service/Arena.php:9400
+msgid "e.arena.notDefineBuffType"
+msgstr "未定义的Buff类型"
+
+#: service/Buff.php:26
+msgid "e.user.undefinedBuffTarget"
+msgstr "错误的BUFF效果对象"
+
+#: service/Buff.php:86
+msgid "e.buff.undefinedBuffTarget"
+msgstr "buff对象不存在"
+
+#: service/Online.php:57
+#: service/Online.php:130
+msgid "e.online.rewardsConfigUnvalid"
+msgstr "奖励配置错误"
+
+#: service/Online.php:123
+msgid "e.online.rewardsOutOfTime"
+msgstr "不在领奖时间"
+
+#: service/Online.php:157
+msgid "e.online.rewardsUnsatisfy"
+msgstr "还没到领奖时间"
+
+#: service/PeachGarden.php:97
+msgid "e.peachGarden.GardenNameAlreadyExist"
+msgstr "桃园名字已存在"
+
+#: service/PeachGarden.php:100
+msgid "e.peachGarden.nameOver8words"
+msgstr "桃园名字不能超过8个字符"
+
+#: service/PeachGarden.php:103
+#: service/PeachGarden.php:1508
+msgid "e.peachGarden.declarationOver50words"
+msgstr "桃园宣言不能超过50个字符"
+
+#: service/PeachGarden.php:109
+#: service/PeachGarden.php:601
+msgid "e.peachGarden.developShouldReach1000"
+msgstr "您的发展分不足1000"
+
+#: service/PeachGarden.php:112
+msgid "e.peachGarden.dontHaveANation"
+msgstr "无势力玩家不能创建桃园"
+
+#: service/PeachGarden.php:122
+#: service/PeachGarden.php:1275
+msgid "e.peachGarden.alreadyHaveGarden"
+msgstr "您已加入了桃园"
+
+#: service/PeachGarden.php:128
+msgid "e.peachGarden.dataErr"
+msgstr "数据异常"
+
+#: service/PeachGarden.php:175
+#: service/PeachGarden.php:346
+#: service/PeachGarden.php:1198
+#: service/PeachGarden.php:1283
+msgid "e.peachGarden.gardenNotExist"
+msgstr "桃园不存在"
+
+#: service/PeachGarden.php:271
+#: service/PeachGarden.php:976
+#: service/PeachGarden.php:1079
+msgid "e.peachGarden.hack"
+msgstr "hack..."
+
+#: service/PeachGarden.php:353
+#: service/PeachGarden.php:360
+msgid "e.peachGarden.groupNotExist"
+msgstr "组合不存在"
+
+#: service/PeachGarden.php:370
+#: service/PeachGarden.php:608
+#: service/PeachGarden.php:750
+#: service/PeachGarden.php:901
+#: service/PeachGarden.php:988
+#: service/PeachGarden.php:1091
+msgid "e.peachGarden.wrongGardenid"
+msgstr "巧啊，正好桃园没了。。。"
+
+#: service/PeachGarden.php:468
+msgid "e.peachGarden.heroAlreadyInGarden"
+msgstr "武将已在桃园中"
+
+#: service/PeachGarden.php:477
+#: service/PeachGarden.php:485
+#: service/PeachGarden.php:895
+#: service/PeachGarden.php:982
+#: service/PeachGarden.php:1085
+#: service/PeachGarden.php:1191
+msgid "e.peachGarden.youHaveNotJoinedAGarden"
+msgstr "您还没有加入桃园"
+
+#: service/PeachGarden.php:511
+msgid "e.peachGarden.NoSuitableGroup"
+msgstr "没有符合的组合"
+
+#: service/PeachGarden.php:539
+msgid "e.peachGarden.heroNotInGarden"
+msgstr "武将已不在桃园中"
+
+#: service/PeachGarden.php:597
+msgid "e.peachGarden.youHaveJoindAGarden"
+msgstr "已经加入另外的桃园"
+
+#: service/PeachGarden.php:614
+msgid "e.peachGarden.yourNationIdIsDeferentFromGardenId"
+msgstr "玩家的势力id和所申请的桃园势力id不一样"
+
+#: service/PeachGarden.php:619
+#: service/PeachGarden.php:757
+#: service/PeachGarden.php:1202
+msgid "e.peachGarden.memberReachedMaxNum"
+msgstr "桃园人数已经达到上限"
+
+#: service/PeachGarden.php:642
+#: service/PeachGarden.php:736
+#: service/PeachGarden.php:844
+#: service/PeachGarden.php:866
+#: service/PeachGarden.php:1511
+msgid "e.peachGarden.noPower"
+msgstr "您的权限不足..."
+
+#: service/PeachGarden.php:742
+msgid "e.peachGarden.cannotFindTheApplyInfo"
+msgstr "该申请不存在"
+
+#: service/PeachGarden.php:766
+msgid "e.peachGarden.wrongNation"
+msgstr "该申请人与您不在同一个势力"
+
+#: service/PeachGarden.php:791
+msgid "e.peachGarden.youMustQuitFromGardenFirst"
+msgstr "已经有桃园了"
+
+#: service/PeachGarden.php:991
+msgid "e.peachGarden.memberShouldOver5"
+msgstr "5人以上的桃园才可以进行拜访操作"
+
+#: service/PeachGarden.php:998
+msgid "e.peachGarden.onlyCanVisitOneTime"
+msgstr "每天只能拜访一次"
+
+#: service/PeachGarden.php:1000
+msgid "e.peachGarden.onlyCanBeVisitOneTime"
+msgstr "每天只能被拜访一次"
+
+#: service/PeachGarden.php:1173
+msgid "e.peachGarden.cannotBeInvite"
+msgstr "发展分1000以上才能被邀请进入桃园"
+
+#: service/PeachGarden.php:1177
+msgid "e.peachGarden.cannotInviteSelf"
+msgstr "无法邀请自己"
+
+#: service/PeachGarden.php:1208
+msgid "e.peachGarden.hasBeingTheMemberOfThisPeachGarden"
+msgstr "该玩家已有桃园"
+
+#: service/PeachGarden.php:1221
+msgid "e.peachGarden.cannotInivteOneTwiceInOneDay"
+msgstr "同一天不能重复发送邀请"
+
+#: service/PeachGarden.php:1253
+msgid "e.mail.notAPeachGardenInvitation"
+msgstr "这不是桃园邀请邮件"
+
+#: service/PeachGarden.php:1264
+msgid "e.mail.peachGardenInvitationUnvalid"
+msgstr "对不起，该邀请已无效"
+
+#: service/PeachGarden.php:1288
+msgid "e.peachGarden.yourNationIdIsDeferentFromPeachGardenId"
+msgstr "桃园所在势力异常"
+
+#: service/PeachGarden.php:1294
+msgid "e.peachGarden.hasBeingIn[NAME]PeachGarden"
+msgstr "你已经加入了[NAME]桃园"
+
+#: service/PeachGarden.php:1299
+msgid "e.corps.MembersOf[NAME]PeachGardenReachedMaxNum"
+msgstr "[NAME]桃园成员已满，无法加入"
+
+#: service/Restart.php:328
+#: service/Restart.php:1253
+msgid "e.restart.transfered"
+msgstr "不可重复迁服"
+
+#: service/Restart.php:574
+msgid "e.restart.hasSignuped"
+msgstr "你已报名迁服，如需修改，请先取消报名"
+
+#: service/Restart.php:589
+msgid "e.restart.unsignuped"
+msgstr "你还未报名迁服"
+
+#: service/Restart.php:631
+#: service/Restart.php:636
+msgid "e.restart.rejectYourServer"
+msgstr "TIPS: 不接受该服务器"
+
+#: service/Restart.php:641
+msgid "e.restart.srcAndDistIsTheSame"
+msgstr "不允许迁往当前服务器"
+
+#: service/Restart.php:648
+msgid "e.restart.systemStartTimeIsTooShort[DAY]"
+msgstr "开服[DAY]天之内不开放迁服功能"
+
+#: service/Restart.php:657
+msgid "e.restart.nationsAreTooLess"
+msgstr "势力数量不够"
+
+#: service/Restart.php:676
+msgid "e.restart.cannotTransferNow"
+msgstr "现在不可迁服"
+
+#: service/Restart.php:687
+msgid "e.restart.serverUnUniteSoCanNotTransfer"
+msgstr "势力未统一不可迁服"
+
+#: service/Restart.php:693
+msgid "e.restart.transferIsExpired"
+msgstr "迁服已关闭"
+
+#: service/Restart.php:701
+msgid "e.restart.needMoreDevelopOrNotGoldUser[NUM]"
+msgstr "发展分不足[NUM]万，无法迁服"
+
+#: service/Restart.php:1203
+msgid "e.restart.HaveAlreadyRegistered"
+msgstr "已报名"
+
+#: service/Restart.php:1259
+msgid "e.restart.notMatchTransferParam"
+msgstr "不满足迁服条件"
+
+#: service/Restart.php:1375
+msgid "e.user.userAlreadyExistSignUp"
+msgstr "该账号已经有角色报名"
+
+#: service/Restart.php:1380
+msgid "e.config.error.time.format"
+msgstr "时间格式配置错误"
+
+#: service/Restart.php:1385
+msgid "e.config.error.time.interServiceBattle"
+msgstr "不在活动时间范围内"
+
+#: service/Restart.php:1392
+msgid "e.config.error.noDefinednationToServer"
+msgstr "未配置该服务器对应的势力信息"
+
+#: service/Restart.php:1396
+msgid "e.config.error.no.interServiceBattle"
+msgstr "跨服战尚未配置"
+
+#: service/Restart.php:1453
+msgid "e.restart.voteEnd"
+msgstr "投票已结束"
+
+#: service/Restart.php:1461
+msgid "e.restart.voteOptionError"
+msgstr "您的投票选项不正确"
+
+#: service/Restart.php:1469
+msgid "e.restart.CannotVoteBecauseLowerDevelop"
+msgstr "发展分太低，不允许投票"
+
+#: service/Restart.php:1478
+msgid "e.restart.voteExist"
+msgstr "您已进行过迁服投票"
+
+#: service/Shop.php:231
+msgid "e.goods.unableUseGiftGold"
+msgstr "该商品不允许用礼金购买"
+
+#: service/Shop.php:238
+#: service/Shop.php:245
+msgid "e.goods.youBuyNumOverCanBuyLimit"
+msgstr "您购买的数量超出该商品的可购买数量，请重新输入想要购买的数量。"
+
+#: service/Shop.php:327
+msgid "e.shop.receiverNotExist"
+msgstr "您赠送的玩家不存在"
+
+#: service/Shop.php:333
+msgid "game.shop.giftInfo[NAME][NUM]"
+msgstr "[NAME] x [NUM]"
+
+#: service/Shop.php:336
+msgid "game.shop.giftMailReceiverTitle[NAME]"
+msgstr "您收到来自玩家【[NAME]】的道具"
+
+#: service/Shop.php:338
+msgid "game.shop.giftMailReceiverBody[NAME][GIFTS]"
+msgstr "您收到来自玩家【[NAME]】的道具，道具如下：[GIFTS]"
+
+#: service/Shop.php:340
+msgid "game.shop.giftMailSenderTitle[NAME]"
+msgstr "您送给玩家【[NAME]】的道具"
+
+#: service/Shop.php:342
+msgid "game.shop.giftMailSenderBody[NAME][GIFTS]"
+msgstr "您送给玩家【[NAME]】的道具，道具如下：[GIFTS]"
+
+#: service/Shop.php:490
+msgid "e.shop.goodsNotEchange"
+msgstr "该类型商品尚未开启兑换"
+
+#: service/Shop.php:499
+msgid "e.user.needMorebattleScore"
+msgstr "战功分不足"
+
+#: service/Shop.php:502
+msgid "e.user.needMoreLossScore"
+msgstr "战损分不足"
+
+#: service/Shop.php:505
+msgid "e.shop.needMoreValue"
+msgstr "功勋不足，或者战功分不足。"
+
+#: service/Shop.php:646
+msgid "e.shop.levelNotEnough"
+msgstr "水地阁等级不够"
+
+#: service/Shop.php:651
+msgid "e.shop.memberLevelNotEnough"
+msgstr "军团成员等级不够"
+
+#: service/Shop.php:656
+msgid "e.shop.corpsSupplyNotEnough"
+msgstr "战略物资不够"
+
+#: service/City.php:450
+msgid "game.manor.nullOfdroit"
+msgstr "无"
+
+#: service/City.php:453
+msgid "game.city.satrapIsNull"
+msgstr "本城没有太守"
+
+#: service/City.php:619
+msgid "game.user.defaultName"
+msgstr "无"
+
+#: service/City.php:665
+msgid "e.city.canNotEnterOthersBattlefield"
+msgstr "无法查看其他势力的战场"
+
+#: service/City.php:751
+msgid "e.city.notSatrapOrNoDroitToPublishTask"
+msgstr "不是太守，或者没权限发布任务"
+
+#: service/City.php:758
+msgid "e.city.taskExist"
+msgstr "该城市任务已存在"
+
+#: service/City.php:792
+msgid "e.city.publishNoticePermissionDenied"
+msgstr "您不是太守，没有权限发布公告"
+
+#: service/City.php:818
+#: service/City.php:825
+msgid "e.city.droitInputInvalid"
+msgstr "请设置正确的权限等级"
+
+#: service/City.php:849
+msgid "e.city.noDroitToSetDroit"
+msgstr "您没有权限设置本城权限等级"
+
+#: service/City.php:856
+msgid "e.city.villageCannotSetDroit"
+msgstr "村庄无法修改田庄申请权限"
+
+#: service/City.php:866
+msgid "e.city.oneDroitIsTooFew"
+msgstr "本势力超过1级权限的城市太多了"
+
+#: service/City.php:908
+#: service/City.php:1095
+msgid "e.city.buyResourceNumError"
+msgstr "请填写购买数量"
+
+#: service/City.php:938
+msgid "e.city.buyResoureReachLimit"
+msgstr "您今日购买资源数量已达上限"
+
+#: service/City.php:1015
+msgid "e.city.getSystemRateError"
+msgstr "获取系统汇率失败"
+
+#: service/City.php:1111
+msgid "e.city.buyCoinReachLimit"
+msgstr "您今日购买银两数量已达上限"
+
+#: service/City.php:1151
+msgid "e.city.exchangeResourceInvalid"
+msgstr "请填写交换资源的数量"
+
+#: service/City.php:1154
+msgid "e.city.exchangeResoureUnbalance"
+msgstr "交换的资源不平衡"
+
+#: service/City.php:1195
+msgid "e.city.freeExchangeItemOverdue"
+msgstr "免费资源兑换道具有效时间已过,请重新操作"
+
+#: service/City.php:1254
+msgid "e.city.CannotExchange"
+msgstr "系统汇率已改变,无法兑换"
+
+#: service/City.php:1258
+msgid "e.city.exchangeOfGrainInvalid"
+msgstr "请填写要交换的粮食数量"
+
+#: service/City.php:1278
+msgid "e.manor.unenoughcrop"
+msgstr "田庄粮食不足"
+
+#: service/City.php:1302
+msgid "e.city.reachExchangeLimit"
+msgstr "兑换量超出上限"
+
+#: service/City.php:1386
+msgid "e.city.wildCityNotWork"
+msgstr "城市野外不允许进行城市任务建设"
+
+#: service/City.php:1395
+#: service/City.php:1406
+msgid "e.army.notInSelfManor"
+msgstr "玩家部队没有在本城中"
+
+#: service/City.php:1412
+msgid "e.city.workCoinNotValid"
+msgstr "请填写银两数量"
+
+#: service/City.php:1595
+#: service/City.php:1779
+#: service/City.php:1960
+#: service/City.php:2132
+#: service/City.php:3843
+msgid "e.hero.powerNotEnough"
+msgstr "该武将体力不足"
+
+#: service/City.php:2230
+msgid "e.city.notValidTransitResources"
+msgstr "请正确输入运输资源的数量"
+
+#: service/City.php:2249
+msgid "e.manor.targetManorNotExist"
+msgstr "目标田庄不存在"
+
+#: service/City.php:2288
+msgid "e.city.freeTransitItemOverdue"
+msgstr "免费运输道具有效时间已过,请重新操作"
+
+#: service/City.php:2347
+#: service/City.php:2405
+msgid "e.city.noPower"
+msgstr "你没有权限进行此操作"
+
+#: service/City.php:2358
+msgid "e.user.ministerCannotBeSatrap"
+msgstr "丞相不能担任太守"
+
+#: service/City.php:2365
+msgid "e.city.satrapNationIdIsWrong"
+msgstr "该玩家不属于本势力"
+
+#: service/City.php:2371
+msgid "e.city.userHasAlreadyBeenAppointedBefore"
+msgstr "早已是此城市的太守了"
+
+#: service/City.php:2377
+msgid "e.city.cannotBeSatrapOfMoreThan3Cities"
+msgstr "不能担当超过三个城市的太守"
+
+#: service/City.php:2387
+#: service/City.php:2423
+msgid "game.city.satrap"
+msgstr "太守"
+
+#: service/City.php:2411
+msgid "e.city.thereIsNoSatrap"
+msgstr "尚未任命太守"
+
+#: service/City.php:2664
+msgid "game.liuBeiArmy"
+msgstr "马超精英卫队"
+
+#: service/City.php:2671
+msgid "game.caoCaoArmy"
+msgstr "曹操精英卫队"
+
+#: service/City.php:2883
+msgid "e.manor.cropAlreadyFull"
+msgstr "军粮库已满"
+
+#: service/City.php:2892
+msgid "e.manor.notGiveSupplyCrop"
+msgstr "城市野外不允许捐粮"
+
+#: service/City.php:2909
+msgid "e.manor.cropNotEnough"
+msgstr "粮食不足"
+
+#: service/City.php:2913
+msgid "e.manor.notOwnCity"
+msgstr "田庄不属于该城市"
+
+#: service/City.php:2928
+msgid "e.city.notOwnArmy"
+msgstr "部队不属于该玩家"
+
+#: service/City.php:2932
+msgid "e.army.cropNotEnough"
+msgstr "粮食不足"
+
+#: service/City.php:2936
+msgid "e.army.notOwnCity"
+msgstr "部队不属于该城市"
+
+#: service/City.php:2979
+msgid "e.city.cropReachLimit"
+msgstr "城市的军粮库达到上限"
+
+#: service/City.php:3089
+#: service/City.php:3500
+msgid "e.city.wasOccupyCanNotBePractice"
+msgstr "城市已经被占领，无法进行修炼"
+
+#: service/City.php:3094
+msgid "e.city.beyondHourLimit"
+msgstr "单次训练时间超过上限"
+
+#: service/City.php:3129
+#: service/City.php:3333
+#: service/City.php:3388
+msgid "game.practice.timeAndExp[NAME][HOUR][EXP]"
+msgstr "\t【[NAME]】，修炼[HOUR]小时，获得[EXP]点经验。<br>"
+
+#: service/City.php:3138
+#: service/City.php:3340
+#: service/City.php:3395
+msgid "game.practice.dropItem[NAME][NUM]"
+msgstr "\t【[NAME]】 x [NUM]"
+
+#: service/City.php:3145
+#: service/City.php:3348
+#: service/City.php:3403
+msgid "game.practice.dropItemTitle"
+msgstr "<br><br>获得奖励：<br>"
+
+#: service/City.php:3321
+#: service/City.php:3375
+msgid "e.city.notExistPracticeQueue"
+msgstr "武将修炼队列不存在"
+
+#: service/City.php:3546
+msgid "e.hero.unableTreasure"
+msgstr "武将不满足寻宝条件"
+
+#: service/City.php:3564
+msgid "e.item.errorEffect"
+msgstr "效果类型定义错误"
+
+#: service/Config.php:31
+msgid "e.config.fileError"
+msgstr "配置文件错误"
+
+#: service/Installer.php:1386
+msgid "e.city.[CITY]wildCity"
+msgstr "[CITY]野外"
+
+#: service/Hero.php:688
+msgid "e.hero.exist"
+msgstr "武将已存在"
+
+#: service/Hero.php:707
+msgid "e.hero.pleaseRecharge"
+msgstr "该武将已到使用期，请续费或转为永久"
+
+#: service/Hero.php:737
+msgid "e.hero.heroMakeItemDataErr"
+msgstr "将魂道具效果异常"
+
+#: service/Hero.php:753
+msgid "e.hero.reachHeroNumLimitAndTechLimit"
+msgstr "武将数量达到上限"
+
+#: service/Hero.php:756
+msgid "e.hero.reachHeroNumLimitButWareHouseIsNotFull"
+msgstr "武将数量达到上限，请增加武将仓库位置"
+
+#: service/Hero.php:760
+msgid "e.hero.reachHeroNumLimit"
+msgstr "武将数量达到上限，请提升科技“招贤纳士”以提升上限。"
+
+#: service/Hero.php:871
+#: service/Hero.php:909
+#: service/Hero.php:1257
+#: service/Hero.php:1301
+#: service/Hero.php:3002
+msgid "e.hero.undefinedRefreshType"
+msgstr "刷新类型错误"
+
+#: service/Hero.php:886
+msgid "e.hero.refreshNumReachLimit"
+msgstr "超出每日刷新次数限制"
+
+#: service/Hero.php:1002
+#: service/Hero.php:1421
+msgid "e.hero.errorSettings"
+msgstr "武将刷新参数配置错误"
+
+#: service/Hero.php:1308
+msgid "e.hero.inCDTime"
+msgstr "CD中..."
+
+#: service/Hero.php:1949
+msgid "e.hero.allotArgsError"
+msgstr "错误的参数（武将刷新点数分配）"
+
+#: service/Hero.php:1988
+msgid "e.hero.notValidPotentialValue"
+msgstr "请正确填写潜力点数量"
+
+#: service/Hero.php:1994
+msgid "e.hero.notEnoughPotential"
+msgstr "武将潜力点不足"
+
+#: service/Hero.php:2427
+msgid "e.hero.cannotRenameEmperor"
+msgstr "无法对角色武将命名"
+
+#: service/Hero.php:2432
+msgid "e.hero.cannotRenameHistory"
+msgstr "不能为史实武将更名"
+
+#: service/Hero.php:2438
+msgid "e.hero.nameLengthInvalid"
+msgstr "武将姓名长度不符合要求"
+
+#: service/Hero.php:2443
+msgid "e.hero.cannotUseHistoryName"
+msgstr "不能更名为史实武将姓名"
+
+#: service/Hero.php:2448
+msgid "e.hero.nameIncludeFilterWord"
+msgstr "名字中包含系统过滤词汇"
+
+#: service/Hero.php:2477
+msgid "e.hero.cannotFireEmperor"
+msgstr "不能解雇角色武将"
+
+#: service/Hero.php:2485
+msgid "e.hero.cannotFireUnnormalStatus"
+msgstr "武将无法在重伤，修炼，以及带领部队时被解雇"
+
+#: service/Hero.php:2490
+msgid "e.hero.cannotFireBefore3Hours"
+msgstr "招募3小时内不能解雇"
+
+#: service/Hero.php:2614
+msgid "e.hero.notGrouped"
+msgstr "玩家当前没有已编组武将"
+
+#: service/Hero.php:2618
+msgid "e.army.notExistInCity"
+msgstr "本城中没有玩家部队"
+
+#: service/Hero.php:2684
+#: service/Hero.php:2757
+#: service/Hero.php:2840
+msgid "e.hero.UpgradeNewHeroIsClose"
+msgstr "脱胎换骨功能已关闭"
+
+#: service/Hero.php:2771
+#: service/Hero.php:2857
+msgid "e.hero.notExistUpgradeHistoryList"
+msgstr "该武将不在新版武将升级队列中"
+
+#: service/Hero.php:2862
+msgid "e.hero.cannotUpgradeUnnormalStatus"
+msgstr "武将只有在未编组状态才能进行脱胎换骨"
+
+#: service/Hero.php:3016
+msgid "e.hero.moneyIsWrong"
+msgstr "金额输入错误"
+
+#: service/Hero.php:3021
+msgid "e.hero.dontHaveCDTime"
+msgstr "CD时间已经结束"
+
+#: service/Hero.php:3032
+msgid "e.hero.priceIsChange"
+msgstr "所需元宝数已改变，只需消费[GOLD]元宝即可清除CD时间"
+
+#: service/Hero.php:3074
+#: service/Hero.php:3088
+#: service/Hero.php:3099
+#: service/Hero.php:3113
+#: service/Hero.php:3120
+#: service/Hero.php:3128
+#: service/Hero.php:3134
+#: service/Hero.php:5563
+#: service/Hero.php:5655
+msgid "e.hero.paramNotValid"
+msgstr "请求参数错误"
+
+#: service/Hero.php:3145
+msgid "e.hero.cannotLock"
+msgstr "专属技能或阵型不能被锁定或解锁"
+
+#: service/Hero.php:3151
+#: service/Hero.php:5592
+msgid "e.hero.hadLock"
+msgstr "该技能或阵型已锁定"
+
+#: service/Hero.php:3195
+#: service/Hero.php:5620
+msgid "e.hero.unLock"
+msgstr "该技能或阵型未锁定"
+
+#: service/Hero.php:3221
+msgid "e.hero.heroIsNull"
+msgstr "该武将不存在"
+
+#: service/Hero.php:3227
+msgid "e.hero.heroOnFightCantDropSkillOrArray"
+msgstr "战斗中的武将不能遗忘技能或阵型"
+
+#: service/Hero.php:3232
+#: service/Hero.php:3240
+#: service/Hero.php:3265
+#: service/Hero.php:3280
+#: service/Hero.php:3325
+#: service/Hero.php:3450
+#: service/Hero.php:3485
+#: service/Hero.php:3594
+#: service/Hero.php:3596
+#: service/Hero.php:3600
+#: service/Hero.php:3699
+#: service/Hero.php:3700
+#: service/Hero.php:3974
+#: service/Hero.php:3982
+#: service/Hero.php:3988
+#: service/Hero.php:4048
+#: service/Hero.php:4230
+#: service/Hero.php:4309
+#: service/Hero.php:4380
+#: service/Hero.php:5061
+#: service/Hero.php:5099
+#: service/Hero.php:5370
+#: service/Hero.php:5416
+#: service/Hero.php:5505
+msgid "e.hero.hack"
+msgstr "hack..."
+
+#: service/Hero.php:3238
+#: service/Hero.php:4313
+#: service/Hero.php:4385
+msgid "e.hero.skillIsNull"
+msgstr "该技能不存在"
+
+#: service/Hero.php:3242
+msgid "e.hero.canNotDropSkill"
+msgstr "不可覆盖的技能不可遗忘"
+
+#: service/Hero.php:3261
+#: service/Hero.php:3263
+msgid "e.hero.arrayNull"
+msgstr "该阵型不存在"
+
+#: service/Hero.php:3267
+msgid "e.hero.canNotDropArray"
+msgstr "已锁定的阵型不可遗忘"
+
+#: service/Hero.php:3278
+msgid "e.hero.singleSkillIsNull"
+msgstr "该武技不存在"
+
+#: service/Hero.php:3282
+msgid "e.hero.canNotDropSingleSkill"
+msgstr "已锁定和不可覆盖的武技不可遗忘"
+
+#: service/Hero.php:3330
+msgid "e.hero.normalHeroCantReincarnate"
+msgstr "只有史实武将和君主武将可以进行转生操作"
+
+#: service/Hero.php:3338
+msgid "e.hero.potentialNotUsed"
+msgstr "潜力点没有全部分配"
+
+#: service/Hero.php:3343
+msgid "e.hero.overReincarnateNumLimit"
+msgstr "超过服务器转生次数上限"
+
+#: service/Hero.php:3348
+msgid "e.hero.overReincarnateNumSelfLimit"
+msgstr "武将转生达到上限，可通过使用“再造丹”提升武将转生次数上限"
+
+#: service/Hero.php:3353
+msgid "e.hero.wrongReinarcateData"
+msgstr "无该转生次数数据"
+
+#: service/Hero.php:3358
+msgid "e.hero.levelNotEnough"
+msgstr "等级不够"
+
+#: service/Hero.php:3367
+msgid "e.hero.wrongStatus"
+msgstr "已编组和仓库中的武将不可进行转生操作"
+
+#: service/Hero.php:3440
+msgid "e.hero.undefinedResetType"
+msgstr " 未定义的洗点类型"
+
+#: service/Hero.php:3452
+#: service/Hero.php:3598
+msgid "e.hero.potentialOverZero"
+msgstr "潜力点大于0，不可进行洗点"
+
+#: service/Hero.php:3454
+#: service/Hero.php:3602
+msgid "e.hero.cannotResetWhenInGroup"
+msgstr "处于编组状态的武将不可进行洗点"
+
+#: service/Hero.php:3462
+msgid "e.hero.resetInCDTime"
+msgstr "洗髓符CD中"
+
+#: service/Hero.php:3471
+msgid "e.hero.resetItemNotEnought"
+msgstr " 洗髓符数量不足"
+
+#: service/Hero.php:3489
+msgid "e.hero.undefinedResetConsumeType"
+msgstr "未定义的洗点消费类型"
+
+#: service/Hero.php:3500
+#: service/Hero.php:3540
+msgid "e.hero.resetInfoIsWrong"
+msgstr "根据洗点等级取洗点信息ID"
+
+#: service/Hero.php:3690
+msgid "e.hero.trainingTypeUndefined"
+msgstr "训练方式未定义"
+
+#: service/Hero.php:3705
+msgid "e.hero.alreadyInTraining"
+msgstr "武将已经在训练中"
+
+#: service/Hero.php:3708
+#: service/Hero.php:4662
+#: service/Hero.php:4675
+msgid "e.hero.statusIsWrong"
+msgstr "武将状态异常"
+
+#: service/Hero.php:3731
+msgid "e.hero.queueNumReachMax"
+msgstr "同时执行的训练数量上限"
+
+#: service/Hero.php:3750
+#: service/Hero.php:3959
+msgid "e.hero.trainingModelUndefined"
+msgstr "训练模式未定义"
+
+#: service/Hero.php:3964
+#: service/Hero.php:4040
+msgid "e.hero.trainingQueueNotExist"
+msgstr "训练队列不存在"
+
+#: service/Hero.php:3966
+msgid "e.hero.modelShouldHigher"
+msgstr "仅可将当前模式替换成更高的模式"
+
+#: service/Hero.php:4245
+#: service/Hero.php:4323
+#: service/Hero.php:4394
+msgid "e.hero.expNotEnough"
+msgstr "经验值不足"
+
+#: service/Hero.php:4247
+#: service/Hero.php:4325
+#: service/Hero.php:4396
+msgid "e.hero.levelIsMax"
+msgstr "等级达到上限"
+
+#: service/Hero.php:4335
+#: service/Hero.php:4406
+#: service/Hero.php:5438
+#: service/Hero.php:5524
+msgid "e.hero.itemInfoError"
+msgstr "道具信息异常"
+
+#: service/Hero.php:4355
+#: service/Hero.php:4427
+msgid "e.hero.skillBookNotEnough"
+msgstr "没有相应的技能训练书"
+
+#: service/Hero.php:4487
+msgid "e.hero.heroExpItemNotInCD"
+msgstr "突飞令不在CD中"
+
+#: service/Hero.php:4524
+msgid "e.hero.heroResetPointItemNotInCD"
+msgstr "洗髓符不在CD中"
+
+#: service/Hero.php:4579
+msgid "e.hero.wareHouseNumIsWrong"
+msgstr "武将仓库数量错误"
+
+#: service/Hero.php:4583
+msgid "e.hero.wareHouseReachTheLimit"
+msgstr "拥有仓库数量已经达到上限"
+
+#: service/Hero.php:4666
+msgid "e.hero.cannotPutEmperorHeroInWareHouse"
+msgstr "主将不能进入仓库"
+
+#: service/Hero.php:4684
+#: service/Hero.php:4696
+#: service/Hero.php:4710
+msgid "e.hero.heroIdisNull"
+msgstr "参数错误"
+
+#: service/Hero.php:4700
+msgid "e.hero.wareHouseIsFull"
+msgstr "武将仓库已满"
+
+#: service/Hero.php:4714
+msgid "e.hero.heroListIsFull"
+msgstr "武将列表已满"
+
+#: service/Hero.php:4722
+msgid "e.hero.undefinedExchangeType"
+msgstr "未定义的替换类型"
+
+#: service/Hero.php:4891
+#: service/Hero.php:4985
+msgid "e.item.undefinedItem"
+msgstr "未定义道具"
+
+#: service/Hero.php:5002
+#: service/Hero.php:5022
+#: service/Hero.php:5041
+msgid "e.hero.alreadyForever"
+msgstr "已经是永久武将"
+
+#: service/Hero.php:5004
+msgid "e.hero.alreadyRecharge"
+msgstr "已续费"
+
+#: service/Hero.php:5111
+msgid "e.hero.heroModelIsOverdue"
+msgstr "武将模型已过期"
+
+#: service/Hero.php:5295
+#: service/Hero.php:5320
+msgid "e.hero.cannotWakeUp"
+msgstr "该武将不可觉醒"
+
+#: service/Hero.php:5300
+msgid "e.hero.reinarcateNumWrong"
+msgstr "一转以上武将才可以觉醒"
+
+#: service/Hero.php:5307
+msgid "e.hero.wakeUpInCD"
+msgstr "CD中"
+
+#: service/Hero.php:5357
+msgid "e.hero.wakeUpSwitchIsOff"
+msgstr "武将觉醒功能未开放"
+
+#: service/Hero.php:5376
+msgid "e.hero.wakeUpNotInCD"
+msgstr "武将CD时间已经结束"
+
+#: service/Hero.php:5421
+#: service/Hero.php:5510
+msgid "e.hero.stuntIsNull"
+msgstr "该武技不存在"
+
+#: service/Hero.php:5427
+msgid "e.hero.stuntlevelIsMax"
+msgstr "此单挑技能等级已达上限，需要转生后再进行升级"
+
+#: service/Hero.php:5444
+msgid "e.hero.csBookNotEnough"
+msgstr "升级所需道具数量不足"
+
+#: service/Hero.php:5448
+msgid "e.hero.stuntDexNotEnough"
+msgstr "此技能熟练度不足"
+
+#: service/Hero.php:5576
+msgid "e.hero.skillPositionCannotLock"
+msgstr "该技能栏无法锁定或解锁"
+
+#: service/Hero.php:5583
+msgid "e.hero.irreplaceCannotLock"
+msgstr "该技能栏有专属技能无法锁定"
+
+#: service/Hero.php:5811
+msgid "e.hero.cannotStrengthen"
+msgstr "当前武将体质已经不可强化"
+
+#: service/SimulateWar.php:301
+msgid "e.army.cantAttackSimulateWarCity"
+msgstr "此城市目前不能被攻打，[TIME]以后可以攻打"
+
+#: service/Item.php:460
+msgid "e.item.effectExpire"
+msgstr "该道具不在使用期"
+
+#: service/Item.php:497
+#: service/Item.php:509
+msgid "e.item.useOk"
+msgstr "使用成功"
+
+#: service/Item.php:1073
+msgid "e.item.dataError"
+msgstr "数据配置错误"
+
+#: service/Item.php:1080
+#: service/Item.php:1084
+msgid "e.item.itemNotExchange"
+msgstr "该道具不可进行兑换"
+
+#: service/Item.php:1246
+#: service/Item.php:1285
+#: service/Item.php:1691
+msgid "e.item.undefinedRefreshType"
+msgstr "刷新类型错误"
+
+#: service/Item.php:1292
+msgid "e.item.inCDTime"
+msgstr "CD中..."
+
+#: service/Item.php:1380
+msgid "e.item.undefinedRefreshPriceConfig"
+msgstr "道具刷新价格配置错误"
+
+#: service/Item.php:1575
+msgid "e.item.notExist"
+msgstr "该道具不存在"
+
+#: service/Item.php:1705
+msgid "e.item.moneyIsWrong"
+msgstr "金额输入错误"
+
+#: service/Item.php:1710
+msgid "e.item.dontHaveCDTime"
+msgstr "CD时间已到，无需使用道具"
+
+#: service/Item.php:1723
+msgid "e.item.priceIsChange"
+msgstr "所需元宝数已改变，只需消费[GOLD]元宝即可清除CD时间"
+
+#: service/Amulet.php:98
+#: service/Amulet.php:139
+#: service/Amulet.php:208
+msgid "e.amulet.hadEquip"
+msgstr "神兽令已装备"
+
+#: service/Amulet.php:144
+msgid "e.amulet.notTheSameColor"
+msgstr "神兽令颜色不一致"
+
+#: service/Amulet.php:150
+msgid "e.amulet.theTopColor"
+msgstr "该神兽令已是最品级"
+
+#: service/Amulet.php:316
+msgid "e.amulet.haveNoVacancy"
+msgstr "该武将命格位置已满"
+
+#: service/Amulet.php:321
+msgid "e.amulet.hadTheSameEffectOrName"
+msgstr "已装备了该类型的神兽令"
+
+#: service/Amulet.php:621
+msgid "e.amulet.searchDropNumLimit"
+msgstr "今天寻兽次数已经达到上限"
+
+#: service/Amulet.php:625
+msgid "e.amulet.yourAmuletTooMuch"
+msgstr "包裹满了，不能寻兽"
+
+#: service/Amulet.php:630
+msgid "e.amulet.AmuletDataError"
+msgstr "寻兽数据配置错误"
+
+#: service/Amulet.php:639
+msgid "e.amulet.thisRefreshCannotUseCoin"
+msgstr ""
+
+#: service/Amulet.php:663
+msgid "e.amulet.refreshTypeError"
+msgstr "刷新类型错误"
+
+#: service/Worship.php:174
+msgid "e.worship.worshipNotExist"
+msgstr "祭祀不存在"
+
+#: service/Worship.php:248
+msgid "e.worship.techEffectNotExsit"
+msgstr "祭祀科技不存在"
+
+#: service/Worship.php:256
+#: service/Worship.php:261
+msgid "e.worship.techCannotStart"
+msgstr "祭祀开启条件不满足"
+
+#: service/Worship.php:271
+msgid "e.worship.worshiping"
+msgstr "正在祭祀中"
+
+#: service/Worship.php:274
+msgid "e.worship.worshipCDing"
+msgstr "正在CD中"
+
+#: service/Worship.php:283
+msgid "e.worship.coinNotEnough"
+msgstr "银两不足"
+
+#: service/Worship.php:290
+msgid "e.worship.resTypeError"
+msgstr "资源类型错误"
+
+#: service/Worship.php:296
+#: service/Worship.php:306
+msgid "e.worship.InvalidParams"
+msgstr "参数错误"
+
+#: service/Worship.php:319
+msgid "e.worship.manorWar"
+msgstr "所选田庄正在进行战斗，贡品无法扣除"
+
+#: service/Worship.php:324
+msgid "e.worship.manorResNotEnough"
+msgstr "田庄资源不足"
+
+#: service/Worship.php:333
+msgid "e.worship.resNotEnough"
+msgstr " 资源总和不够"
+
+#: service/Worship.php:495
+msgid "e.worship.startConfigError"
+msgstr "祭祀科技开启条件配置错误"
+
+#: service/DailyQuest.php:236
+msgid "e.dailyQuest.dailyQuestConfigUnvalid"
+msgstr "日常活动配置错误"
+
+#: service/DailyQuest.php:302
+msgid "e.game.others.gold"
+msgstr "元宝"
+
+#: service/DailyQuest.php:326
+#: service/DailyQuest.php:343
+#: service/DailyQuest.php:422
+#: service/DailyQuest.php:440
+msgid "e.dailyQuest.notexist"
+msgstr "活动不存在"
+
+#: service/DailyQuest.php:379
+#: service/DailyQuest.php:455
+msgid "e.dailyQuest.readUserRankUnvalid"
+msgstr "日常活动读取玩家排行失败"
+
+#: service/DailyQuest.php:462
+msgid "e.dailyQuest.hadReward"
+msgstr "玩家已经领取过奖励"
+
+#: service/DailyQuest.php:471
+msgid "e.dailyQuest.userCannotReward"
+msgstr "排行已刷新,玩家已经不满足领取条件"
+
+#: service/MonarchOrder.php:41
+msgid "e.monarchorder.notOpen"
+msgstr "君主令功能未开放"
+
+#: service/MonarchOrder.php:48
+#: service/MonarchOrder.php:103
+msgid "e.monarchorder.notExist"
+msgstr "尚未发布君主战略指令"
+
+#: service/MonarchOrder.php:83
+#: service/MonarchOrder.php:88
+#: service/MonarchOrder.php:260
+#: service/MonarchOrder.php:283
+msgid "e.monarchorder.paramNotValid"
+msgstr "参数不符合规范"
+
+#: service/MonarchOrder.php:108
+msgid "e.monarchorder.closedSignUp"
+msgstr "报名已结束，请等待下次战略指令"
+
+#: service/MonarchOrder.php:121
+msgid "e.monarchorder.overAllowedLevel"
+msgstr "兵种等级不正确"
+
+#: service/MonarchOrder.php:128
+msgid "e.monarchorder.signUpAlready"
+msgstr "对不起，每个用户只能报名一名武将"
+
+#: service/MonarchOrder.php:136
+msgid "e.monarchorder.heroIsWorking"
+msgstr "对不起该武将正在执行其他任务"
+
+#: service/MonarchOrder.php:273
+msgid "e.monarchorder.closedSignUpCancel"
+msgstr "战斗即将开始，正在统计参战部队，无法取消报名"
+
+#: service/MonarchOrder.php:287
+msgid "e.hero.warStatus"
+msgstr "武将正在战斗中"
+
+#: service/MonarchOrder.php:562
+msgid "game.strategy.monarchOrderDesc[NATION]"
+msgstr "诸位，攻下这座城池，向全天下展示[NATION]军的力量！"
+
+#: service/itemEffector/HeroReviveEffector.php:52
+msgid "e.item.heroUnmatch"
+msgstr "不能给他人武将使用道具"
+
+#: service/itemEffector/HeroReviveEffector.php:57
+msgid "e.item.heroNotDead"
+msgstr "武将没有重伤，不能使用此道具"
+
+#: service/itemEffector/BoxEffector.php:59
+msgid "e.pool.undefinedEffect"
+msgstr "道具对应的奖池效果不存在"
+
+#: service/itemEffector/BoxEffector.php:63
+msgid "e.pool.reachOpenLimit"
+msgstr "超出了开启上限"
+
+#: service/itemEffector/BoxEffector.php:81
+msgid "e.pool.undefinedConfig"
+msgstr "道具对应的奖池配置不存在"
+
+#: service/itemEffector/BoxEffector.php:205
+msgid "e.pool.undefinedSize"
+msgstr "未定义奖池尺寸"
+
+#: service/itemEffector/BoxEffector.php:237
+msgid "e.pool.configError"
+msgstr "配置错误！无法将奖项平均分配到小奖池中"
+
+#: service/itemEffector/BoxEffector.php:242
+msgid "e.pool.configEmpty"
+msgstr "奖励配置为空"
+
+#: service/itemEffector/BoxEffector.php:269
+msgid "e.pool.createError"
+msgstr "创建奖励失败"
+
+#: service/itemEffector/SingleSkillEffector.php:43
+msgid "e.item.heroOnFightCantStudySingleSkill"
+msgstr "战斗中的武将不能学习单挑技能"
+
+#: service/itemEffector/SingleSkillEffector.php:79
+msgid "e.hero.singleSkillsAllClose"
+msgstr "单挑技能都学满且全都是锁定或者专属技能 不能学习技能"
+
+#: service/itemEffector/SingleSkillEffector.php:87
+msgid "e.hero.singleSkillIsExist"
+msgstr "武将已掌握该单挑特技"
+
+#: service/itemEffector/SingleSkillEffector.php:90
+msgid "e.hero.singleSkillisLockConnotStudy"
+msgstr "同类低级单挑技能被锁定 不让学习"
+
+#: service/itemEffector/SingleSkillEffector.php:142
+msgid "e.item.learnSingleSkillSuccess"
+msgstr "单挑特技学习成功"
+
+#: service/itemEffector/SingleSkillEffector.php:152
+msgid "e.item.connotDelTheLockSingleSkill"
+msgstr "不能忘掉已经锁定的单挑技能"
+
+#: service/itemEffector/SingleSkillEffector.php:181
+msgid "e.item.learnSingleSkillButForget[SKILLNAME]"
+msgstr "学习成功，但是忘记了单挑特技 [SKILLNAME]"
+
+#: service/itemEffector/SingleSkillEffector.php:185
+msgid "e.item.learnSingleSkillFailed"
+msgstr "单挑技能学习失败"
+
+#: service/itemEffector/SkillsMergEffector.php:60
+#: service/itemEffector/SkillsMergEffector.php:70
+msgid "e.item.skillsCannotMerg"
+msgstr "技能不满足融合条件"
+
+#: service/itemEffector/ArrayEffector.php:43
+msgid "e.item.heroOnFightCantStudyArray"
+msgstr "战斗中的武将不能学习阵型"
+
+#: service/itemEffector/ArrayEffector.php:69
+msgid "e.hero.arrayExist"
+msgstr "武将阵型已存在"
+
+#: service/itemEffector/ArrayEffector.php:80
+msgid "e.hero.arraysAllClose"
+msgstr "阵型都学满且全部锁定,不能学习新阵型"
+
+#: service/itemEffector/ArrayEffector.php:106
+msgid "e.item.learnArraySuccess"
+msgstr "阵法学习成功"
+
+#: service/itemEffector/ArrayEffector.php:122
+msgid "e.item.learnArrayButForget[ARRAYNAME]"
+msgstr "学习成功，但是忘记了阵法 [ARRAYNAME]"
+
+#: service/itemEffector/ArrayEffector.php:125
+msgid "e.item.learnArrayFailed"
+msgstr "阵法学习失败"
+
+#: service/itemEffector/ExpEffector.php:62
+msgid "e.item.canNotBatUse"
+msgstr "该道具不可批量使用"
+
+#: service/itemEffector/ExpEffector.php:67
+msgid "e.hero.levelOverFifty"
+msgstr " 武将等级大于等于50级"
+
+#: service/itemEffector/ExpEffector.php:75
+msgid "e.hero.reachMaxLevel"
+msgstr "武将等级达到上限"
+
+#: service/itemEffector/HeroResetEffector.php:55
+msgid "e.heroCannotReset"
+msgstr "编组状态下的武将不能转换属性"
+
+#: service/itemEffector/HeroResetEffector.php:88
+msgid "e.hero.heroResetSuccess"
+msgstr "武将属性转换成功"
+
+#: service/itemEffector/ReincarnateNumEffector.php:41
+msgid "e.item.cantUseForNormalHero"
+msgstr "该道具只能对君主武将或史实武将使用"
+
+#: service/itemEffector/ReincarnateNumEffector.php:58
+msgid "e.hero.heroReincarnateNumReachTheLimit"
+msgstr "该武将已经达到本服务器可达转生次数的上限"
+
+#: service/itemEffector/HeroAttributeEffector.php:95
+msgid "e.item.canNotUse"
+msgstr "当前丹药属性已到极限，不可再食用丹药"
+
+#: service/itemEffector/HeroAttributeEffector.php:110
+msgid "game.item.HeroAttributeEffector[FORCE][GOVERN][INTELLIGENCE][POLITICS]"
+msgstr "武力 [FORCE] 统御 [GOVERN] 智力 [INTELLIGENCE] 政治 [POLITICS]"
+
+#: service/itemEffector/PracticeEffector.php:40
+msgid "e.item.useLimitOverflow"
+msgstr "使用数量超出限制"
+
+#: service/itemEffector/PracticeEffector.php:50
+msgid "e.hero.overMaxLevel"
+msgstr "武将已满级无法修炼"
+
+#: service/itemEffector/PracticeEffector.php:54
+msgid "e.hero.practice"
+msgstr "武将修炼中"
+
+#: service/itemEffector/ResetPotential.php:42
+msgid "e.hero.cannotResetPotentialWhenUnnormalStatus"
+msgstr "武将处于编组和重伤状态时不能使用潜力点重置道具"
+
+#: service/itemEffector/ResetPotential.php:47
+msgid "e.hero.cannotResetPotentialWhenPotentialNotUsed"
+msgstr "武将潜力点全部分配后才能使用潜力点重置道具"
+
+#: service/itemEffector/ResetPotential.php:52
+msgid "e.hero.cannotResetPotentialWhenHasResetId"
+msgstr "使用了洗点功能，但是没有选择维持或者替换。则无法使用潜力点重置道具"
+
+#: service/itemEffector/ResetPotential.php:57
+msgid "e.hero.cannotResetPotentialWhenWrongHeroType"
+msgstr "只有史实武将和主将可以使用潜力点重置道具"
+
+#: service/itemEffector/ResetPotential.php:83
+msgid "e.hero.emperorHeroDataError"
+msgstr "主将数据异常"
+
+#: service/itemEffector/ResetPotential.php:101
+msgid "e.hero.historyHeroLogDataError"
+msgstr "史实武将日志数据异常"
+
+#: service/itemEffector/SingleSkillDexEffector.php:64
+msgid "e.singleSkill.addDex"
+msgstr "道具使用成功，熟练度增加了[DEX]"
+
+#: service/itemEffector/QueueEffector.php:73
+msgid "e.queue.notExist"
+msgstr "该队列不存在"
+
+#: service/itemEffector/QueueEffector.php:85
+msgid "e.houseQueue.notExist"
+msgstr "该建筑队列不存在"
+
+#: service/itemEffector/QueueEffector.php:148
+#: service/itemEffector/QueueEffector.php:159
+msgid "e.recruitQueue.notExist"
+msgstr "该招募队列不存在"
+
+#: service/itemEffector/QueueEffector.php:177
+msgid "e.item.soldierTypeIsNotSupported"
+msgstr "无法对该类型兵种使用"
+
+#: service/itemEffector/QueueEffector.php:257
+msgid "game.item.resourceBagEffect[WOOD][STONE][IRON][CROP]"
+msgstr "增加了[WOOD]木材、[STONE]石料、[IRON]铁砂、[CROP]粮食"
+
+#: service/itemEffector/ManorPlotsEffector.php:34
+msgid "e.item.manorUnmatch"
+msgstr "不能给他人田庄使用道具"
+
+#: service/itemEffector/HeroExpEffector.php:47
+#: service/itemEffector/HeroExpEffector.php:52
+msgid "e.item.targetIsWrong"
+msgstr "只能对训练中的武将使用"
+
+#: service/itemEffector/HeroExpEffector.php:70
+#: service/itemEffector/HeroExpEffector.php:75
+msgid "e.hero.heroExpItemInCd"
+msgstr "突飞令CD中"
+
+#: service/itemEffector/HeroExpEffector.php:222
+msgid "game.item.heroExpAdd[EXP]"
+msgstr "武将经验值增加[EXP]"
+
+#: service/itemEffector/CreateHeroEffector.php:46
+msgid "e.item.alreadyHaveTheHero"
+msgstr "已经拥有该武将"
+
+#: service/itemEffector/CreateHeroEffector.php:51
+#: service/itemEffector/CreateHeroEffector.php:58
+msgid "e.item.historyHeroDataErr"
+msgstr "不存在的史实武将"
+
+#: service/itemEffector/SpecSolderEffector.php:50
+msgid "e.item.connotUse"
+msgstr "不满足使用条件"
+
+#: service/itemEffector/SkillEffector.php:48
+msgid "e.item.heroOnFightCantStudySkill"
+msgstr "战斗中的武将不能学习技能"
+
+#: service/itemEffector/SkillEffector.php:66
+msgid "e.item.heroMisfit"
+msgstr "不能给此武将使用"
+
+#: service/itemEffector/SkillEffector.php:82
+msgid "e.hero.haveNoVoidSpace"
+msgstr "技能栏已满，腾出空闲技能位才可以学习"
+
+#: service/itemEffector/SkillEffector.php:111
+msgid "e.item.learnSkillSuccess"
+msgstr "特技学习成功"
+
+#: service/itemEffector/SkillEffector.php:114
+msgid "e.item.learnSkillFailed"
+msgstr "特技学习失败"
+
+#: service/itemEffector/GiftEffector.php:63
+msgid "e.gift.unReach"
+msgstr "还未满足礼包开启条件，无法开启礼包"
+
+#: service/itemEffector/ResourceEffector.php:89
+msgid "e.item.todayUseLimitOverflow"
+msgstr "该类物品本日可使用次数，已达上限"
+
+#: service/itemEffector/SchoolEffector.php:91
+msgid "e.school.literaryFull"
+msgstr "文采值已满，无法使用道具"
+
+#: service/itemEffector/SchoolEffector.php:100
+msgid "e.item.addLiterary"
+msgstr "道具使用成功，增加了文采[LITERARY]"
+
+#: service/itemEffector/SchoolEffector.php:105
+msgid "e.school.gestFull"
+msgstr "武功值已满，无法使用道具"
+
+#: service/itemEffector/SchoolEffector.php:114
+msgid "e.item.addGest"
+msgstr "道具使用成功，增加了武功[GEST]"
+
+#: service/itemEffector/SchoolEffector.php:120
+msgid "e.school.perceptiveFull"
+msgstr "领悟力已满，不能使用道具"
+
+#: service/itemEffector/SchoolEffector.php:126
+msgid "e.item.addPerceptive"
+msgstr "道具使用成功，增加了领悟力[PERCEPTIVE]"
+
+#: service/itemEffector/HeroHPEffector.php:59
+msgid "e.hero.cannotUseOnDeadStatus"
+msgstr "武将重伤状态不能恢复武将体力"
+
+#: service/itemEffector/BuffEffector.php:58
+#: service/itemEffector/BuffEffector.php:64
+#: service/itemEffector/BuffEffector.php:73
+#: service/itemEffector/BuffEffector.php:80
+msgid "e.item.notValidTargetId"
+msgstr "目标对象ID错误"
+
+#: service/itemEffector/BuffEffector.php:85
+msgid "e.item.undefinedTarget"
+msgstr "未定义使用对象"
+
+#: service/itemEffector/BuffEffector.php:100
+msgid "e.item.effectExists"
+msgstr "该效果已经存在"
+
+#: dao/Nation.php:267
+msgid "e.nation.ministerHasBeenImpeaching"
+msgstr "丞相已经开始被弹劾了"
+
+#: dao/Nation.php:301
+msgid "e.nation.haveVoted[NAME]"
+msgstr "你已经在本轮选举中将选票投给[NAME]了"
+
+#: dao/Nation.php:304
+msgid "e.nation.haveVotedForImpeach"
+msgstr "你已经在本轮弹劾中投过票了"
+
+#: dao/Nation.php:443
+msgid "e.nation.relationHasBeenEstablished"
+msgstr "已经建立该势力关系"
+
+#: dao/Nation.php:484
+msgid "e.nation.relationApplyHasBeenCommitedBefore"
+msgstr "您已经提交过相同申请"
+
+#: dao/Corps.php:163
+msgid "e.corps.youHaveBeenApplyedBefore"
+msgstr "您已经提交过入团申请，请等待审批"
+
+#: dao/Rank.php:42
+#: dao/Rank.php:96
+#: dao/Rank.php:267
+#: dao/Rank.php:300
+#: dao/Rank.php:340
+#: dao/ArenaResWarRank.php:45
+msgid "e.rank.ranktableIsWrong"
+msgstr "排行数据表错误"
+
+#: dao/House.php:62
+msgid "e.house.notExist"
+msgstr "该建筑不存在"
+
+#: dao/House.php:67
+msgid "e.house.userUnmatch"
+msgstr "您无权操作此建筑"
+
+#: dao/Soldier.php:54
+msgid "e.soldier.notExist"
+msgstr "该士兵不存在"
+
+#: dao/Soldier.php:59
+msgid "e.soldier.userUnmatch"
+msgstr "您无权操作该部队"
+
+#: dao/Manor.php:107
+msgid "e.manor.userUnmatch"
+msgstr "您无权操作该田庄"
+
+#: dao/DaoBase.php:353
+msgid "e.dao.undefinedMainTable"
+msgstr "未定义数据主表"
+
+#: dao/School.php:151
+msgid "e.school.youHaveBeenApplyedBefore"
+msgstr "您已经提交过加入学堂申请，请等待审批"
+
+#: dao/DailyQA.php:44
+msgid "e.DailyQA.notExist"
+msgstr "用户数据不存在"
+
+#: dao/UserPeachGarden.php:153
+msgid "e.peachGarden.youHaveBeenApplyedBefore"
+msgstr "您已经提交过加入桃园申请，请等待审批..."
+
+#: dao/UserPeachGarden.php:288
+msgid "e.peachGarden.youHaveBeenExpeledBefore"
+msgstr "您已经驱逐过该用户"
+
+#: include/Utils.php:49
+msgid "e.dberror"
+msgstr "数据库内部错误"
+
+#: lib/Framework/Framework.php:287
+#: lib/Framework/Framework.php:291
+msgid "e.request.invalid"
+msgstr "请求数据错误"
+
+#: entity/User.php:1038
+msgid "e.nation.cannotVoteUntilOneMonthAfterQuisle"
+msgstr "您刚叛国，不能参与选举或弹劾"
+
+#: entity/ArenaResWar.php:132
+msgid "e.arena.resLockedUntil[TIME]"
+msgstr "资源争夺战将在[TIME]后开启"
+
+#: entity/Hero.php:1209
+msgid "game.defaultHeroName"
+msgstr "无名"
+
+#: entity/ArenaMining.php:334
+msgid "e.mining.lockedUntil[TIME]"
+msgstr "将于[TIME]后开启"
+
+#: entity/ArenaMining.php:359
+msgid "e.mining.personalReachUpLimit"
+msgstr "TIPS: 占领数到上限了"
+
+#: ctrl/GodMode.php:2376
+msgid "e.equipment.activitiesEquipmentNotUpGrade"
+msgstr "活动装备不可进行升级"
+
+#: ctrl/TestTools.php:59
+#: ctrl/TestTools.php:70
+#: ctrl/TestTools.php:91
+#: ctrl/TestTools.php:562
+#: ctrl/TestTools.php:609
+#: ctrl/TestTools.php:629
+msgid "请输入搜索参数"
+msgstr ""
+
+#: ctrl/TestTools.php:112
+#: ctrl/TestTools.php:129
+msgid "请输入修改后的时间参数"
+msgstr ""
+
+#: ctrl/TestTools.php:184
+#: ctrl/TestTools.php:235
+#: ctrl/TestTools.php:255
+msgid "请输入伪造参数"
+msgstr ""
+
+#: ctrl/Nation.php:282
+msgid "e.nation.wrongParam"
+msgstr "捐献的银两数不能为0"
+
+#: ctrl/Nation.php:425
+msgid "e.nation.notImplement"
+msgstr "势力新闻尚未开启"
+
+#: ctrl/ControllerBase.php:116
+msgid "e.server.busy"
+msgstr "服务器忙，请稍后再试"
+
+#: ctrl/ControllerBase.php:131
+msgid "e.system.notLogin"
+msgstr "您尚未登录"
+
+#: ctrl/Mail.php:58
+msgid "e.mail.noReceiverSelected"
+msgstr "请填入收件人"
+
+#: ctrl/Mail.php:86
+msgid "e.mail.noContent"
+msgstr "请填写邮件内容"
+
+#: ctrl/War.php:329
+#: ctrl/War.php:355
+#: ctrl/War.php:380
+#: ctrl/War.php:402
+#: ctrl/War.php:424
+msgid "e.arena.vizirUnStarted"
+msgstr "活动尚未开启"
+
+#: ctrl/War.php:332
+#: ctrl/War.php:359
+#: ctrl/War.php:383
+#: ctrl/War.php:405
+#: ctrl/War.php:427
+msgid "e.arena.vizirHasEnded"
+msgstr "活动已经结束"
+
+#: ctrl/Shop.php:70
+#: ctrl/Castle.php:672
+msgid "e.shop.goodsBuyHotPleaseWait"
+msgstr "商品热销中，请稍后购买！"
+
+#~ msgid "e.hero.skillsAllClose"
+#~ msgstr "技能栏已学满且全都锁定或为不可替换技能，不能再学习技能"
+
+#~ msgid "e.item.connotDelTheLockSkill"
+#~ msgstr "不能忘掉已经锁定的技能"
+
+#~ msgid "e.item.learnSkillButForget[SKILLNAME]"
+#~ msgstr "学习成功，但是忘记了特技 [SKILLNAME]"
+
+#~ msgid "e.school.cannotQuit"
+#~ msgstr "进入学堂24小时内不能退出"
+
+#~ msgid "e.school.heroConsultNumLimit"
+#~ msgstr ""
+#~ "本武将今日学习次数已达到上限，文采越高，每日学习次数上限越高，学习获取的文"
+#~ "采，领悟力，贡献度，越多"
+
+#~ msgid "e.school.cannotEvict"
+#~ msgstr "进入学堂24小时内不能被驱逐"
+
+#~ msgid "e.active.reachNewLevel"
+#~ msgstr "您的活跃度已经达到领取要求，注意领取奖励"
+
+#~ msgid "e.army.freeSpeedUpItemOverdue"
+#~ msgstr "加速VIP道具有效时间已过,请重新选择出征方式"
+
+#~ msgid "e.army.freeExactItemOverdue"
+#~ msgstr "免费精准到达道具有效时间已过,请重新选择出征方式"
+
+#~ msgid "e.school.thisTeachernotExist"
+#~ msgstr "学堂先生不存在，可能先生已经暂时退出学堂了。"
+
+#~ msgid "e.school.youNotJoinOrSchoolError"
+#~ msgstr "你尚未加入学堂或者要加入的学堂异常"
+
+#~ msgid "e.school.heroIsNotStudent"
+#~ msgstr "不是学生"
+
+#~ msgid "e.school.noTeacherToConsult"
+#~ msgstr "只有拜师之后才能请教"
+
+#~ msgid "e.school.teacherNotInSchool"
+#~ msgstr "先生已不在学堂中，可能刚刚退出了"
+
+#~ msgid "e.school.teacherLeave"
+#~ msgstr "先生离职了"
+
+#~ msgid "e.school.noTeacherToReview"
+#~ msgstr "只有拜师之后才能复习"
+
+#~ msgid "e.school.reachMaxMakingUpNum"
+#~ msgstr "超出每日补课次数上限"
+
+#~ msgid "e.school.YourHeroIsTeacherNotFindTeacher"
+#~ msgstr "你的身份是先生，不能选择拜师操作"
+
+#~ msgid "e.school.youCannotDoTeacherSelf"
+#~ msgstr "不能拜自己为师"
+
+#~ msgid "e.school.youHaveFindTeacher"
+#~ msgstr ""
+#~ "你已经拜此先生为师了，如果拜其他先生，或者换其他的武将进入学堂，那么当前武"
+#~ "将将暂时退出学堂"
+
+#~ msgid "e.school.youFindTeacherIsnotTeacher"
+#~ msgstr "你要拜武将已经不是先生了"
+
+#~ msgid "e.school.overTeacherStudentNumLimit"
+#~ msgstr "超出先生的学生数量上限"
+
+#~ msgid "e.worship.donateResNotExsit"
+#~ msgstr "捐献资源不存在"
+
+#~ msgid "e.worship.warehouseResNotEnough"
+#~ msgstr "仓库资源不足"
+
+#~ msgid "e.hero.connotStudy"
+#~ msgstr "同类低级技能被锁定 不让学习"
+
+#~ msgid "game.npcattack.simpleAlarm"
+#~ msgstr ""
+#~ "一大波[NATION]部队接近中，预计【[HH]时[MM]分】抵达本城，打算摧毁城中建筑，"
+#~ "消灭本城兵力。"
+
+#~ msgid "game.npcattack.detailAlarm.less10000"
+#~ msgstr ""
+#~ "一波不足一万的[NATION]部队接近中，预计【[HH]时[MM]分】抵达本城，打算摧毁城"
+#~ "中建筑，消灭本城兵力。"
+
+#~ msgid "game.npcattack.detailAlarm"
+#~ msgstr ""
+#~ "一波[n]万的[NATION]部队接近中，预计【[HH]时[MM]分】抵达本城，打算摧毁城中"
+#~ "建筑，消灭本城兵力。"
+
+#~ msgid "e.school.schoolMastOverThree"
+#~ msgstr "学堂等级太低"
+
+#~ msgid "e.school.OppMustBeTeachorOrClassMate"
+#~ msgstr "只能向先生请教"
+
+#~ msgid "e.nation.camofOrderEffectiveNumReachMax[LIMIT]"
+#~ msgstr "势力伪令执行的数量已达[LIMIT]条的上限"
+
+#~ msgid "e.user.quitGardenPlease"
+#~ msgstr "请先退出桃园"
+
+#~ msgid "e.equipment.equipmentUpGradeIsNotOpen"
+#~ msgstr "装备升级功能尚未开放"
+
+#~ msgid "e.equipment.strengthenLevelTooLow[LEVEL]"
+#~ msgstr " 装备升级需要在装备强化等级达到[LEVEL]级后进行"
+
+#~ msgid "e.restart.serverNotUnified"
+#~ msgstr "服务器未统一"
+
+#~ msgid "e.manor.levelOfNewCityIsHigher"
+#~ msgstr "不能将低级城市中的田庄，重建在高级城市中！"
+
+#~ msgid "e.hero.heroInWareHouseCannotPutOnEquip"
+#~ msgstr "仓库中的武将不可穿戴装备"
+
+#~ msgid "e.hero.heroAttrRatioNotExist"
+#~ msgstr "史实武将的属性系数不存在"
+
+#~ msgid "e.hero.cannotLockupWhenInWareHouse"
+#~ msgstr "处于仓库中的武将不可进行锁定操作"
+
+#~ msgid "e.hero.cannotDropWhenInWareHouse"
+#~ msgstr "处于仓库中的武将不可进行遗忘操作"
+
+#~ msgid "e.hero.cannotResetWhenInWareHouse"
+#~ msgstr "处于仓库中的武将不可进行洗髓"
+
+#~ msgid "e.hero.cannotSkillLevelUpWhenInWareHouse"
+#~ msgstr "处于仓库中的武将不可进行技能升级"
+
+#~ msgid "e.hero.heroInWareHouseCannotUseItem"
+#~ msgstr "仓库中的武将无法使用此道具"
+
+#~ msgid "item.name.reincarnate"
+#~ msgstr "孟婆汤"
+
+#~ msgid "game.warReport.heroExp[NAME]"
+#~ msgstr "[104#[NAME]#]"
+
+#~ msgid "e.corps.overFlowCorpsWareHouse"
+#~ msgstr "超出军团仓库容量"
+
+#, fuzzy
+#~ msgid "e.arena.vbfNotExistOrUnfinished"
+#~ msgstr "该次战斗不存在或未结束"
+
+#~ msgid "e.arena.vizirNotExistOrUnfinished"
+#~ msgstr "该次挑战元勋战斗不存在或未结束"
+
+#~ msgid "e.manor.lackOfCoinForRebuild"
+#~ msgstr "您当前所拥有的银两数量不足，无法完成此次重建。"
+
+#~ msgid "game.user.titleMailByFinishGuide[NAME]"
+#~ msgstr "月英赠礼，祝【[NAME]】一帆风顺"
+
+#~ msgid "game.user.bodyMailByFinishGuide[NAME]"
+#~ msgstr ""
+#~ "[NAME]惠鉴<br>与君一别，不知何日再见。临别之际月英无以为赠，送上一本<b>"
+#~ "[50#考工记#]</b>，略表心意。想来能对[NAME]田庄的发展建设略有助益。"
+
+#~ msgid "game.user.titleMailByNotFinishGuide[NAME]"
+#~ msgstr "月英赠礼，祝[NAME]平步青云"
+
+#~ msgid "game.user.bodyMailByNotFinishGuide[NAME]"
+#~ msgstr ""
+#~ "虽与[NAME]不过点头之交，然则月英已然知晓[NAME]实有大才。[NAME]现下一切事务"
+#~ "刚刚起步，月英送上一本<b>[50#考工记#]</b>，以及<b>[50#青云礼包#]</b>一个，"
+#~ "想来能对[NAME]田庄的发展建设略有助益。<br><br>落款：黄月英"
+
+#~ msgid "e.monarchorder.notEnoughSoldier"
+#~ msgstr "您的部队数量不符合要求"
+
+#~ msgid "e.monarchorder.notEnoughCrop"
+#~ msgstr "您的部队粮食不符合要求"
+
+#~ msgid "e.nation.paramNotValid"
+#~ msgstr "任务参数错误"
+
+#~ msgid "e.nation.notEnoughSoldier"
+#~ msgstr "您的部队数量不符合要求"
+
+#~ msgid "e.nation.notEnoughCrop"
+#~ msgstr "您的部队粮草不符合要求"
+
+#~ msgid "game.warReport.userBody[KILL][LOSS][HEROEXP][REWARDS]"
+#~ msgstr ""
+#~ "[3#您的战果：#]<br>[4#消灭兵力：#]<br>[KILL]<br>[0#损失兵力：#]<br>[LOSS]"
+#~ "<br>[4#参战将领：#]<br>[HEROEXP]<br>[4#获得物品：#]<br>[REWARDS]<br>"
+
+#~ msgid "e.army.notInNation"
+#~ msgstr "这两支部队不同属于一个势力"
+
+#~ msgid "corpsIdIsWrong"
+#~ msgstr "没有发现该军团"

@@ -1,0 +1,2868 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: common\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-17 13:10+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: 千军破 <jie.cong@kunlun-inc.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _o;_v\n"
+"X-Poedit-Basepath: S:\\sg2-server\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "e.bookmark.reachMaxNum[NUM_LIMIT]"
+msgstr "收藏夾已達到上限（[NUM_LIMIT]條）"
+
+msgid "e.bookmark.cityNotExist"
+msgstr "該城市不存在"
+
+msgid "e.bookmark.alreadyExist"
+msgstr "該城市已被收藏"
+
+msgid "e.active.rewardConfigUnvalid"
+msgstr "配置錯誤"
+
+msgid "e.active.paramError"
+msgstr "沒有找到要領取的獎勵"
+
+msgid "e.active.activePointNotEnough"
+msgstr "活躍度不足，無法領取"
+
+msgid "e.active.rewardAlreadyGot"
+msgstr "已經領取過該項獎勵"
+
+msgid "e.equipment.dataError"
+msgstr "數據錯誤"
+
+msgid "e.quest.cannotRewardNow"
+msgstr "現在不可領取"
+
+msgid "e.quest.cannotRewardMulti"
+msgstr "不可重複領取"
+
+msgid "e.quest.rewardTimesTooMuch"
+msgstr "領取次數太多了"
+
+msgid "e.quest.rewardTimesTooMuchInThisPeriod"
+msgstr "本領取週期內領取次數太多了"
+
+msgid "e.quest.notExist"
+msgstr "不存在或無效"
+
+msgid "e.quest.cannotReward"
+msgstr "該活動不可領取"
+
+msgid "e.quest.notSatisfyTerms"
+msgstr "不符合領取條件"
+
+msgid "e.quest.termsConfigUnvalid"
+msgstr "達成條件配置錯誤"
+
+msgid "e.quest.rewardsConfigUnvalid"
+msgstr "獎勵配置錯誤"
+
+msgid "game.prestigeLevel[PRESTIGE_LEVEL]"
+msgstr "[PRESTIGE_LEVEL]級"
+
+msgid "e.nation.noSuchOfficialExist"
+msgstr "該官職不存在"
+
+msgid "e.nation.noPower"
+msgstr "您的許可權不足"
+
+msgid "e.user.notExist"
+msgstr "該玩家不存在"
+
+msgid "e.nation.noSuchUser"
+msgstr "該玩家不屬於此勢力"
+
+msgid "e.nation.ministerCannotHaveOtherOfficial"
+msgstr "丞相不能擔當其他職務"
+
+msgid "e.nation.hasOtherOfficial"
+msgstr "已有官職"
+
+msgid "e.nation.ministerCannotBeAppoint"
+msgstr "不能任命丞相職位"
+
+msgid "e.nation.nobodyOnThePost"
+msgstr "該職位現在為空"
+
+msgid "e.nation.ministerCannotBeDepose"
+msgstr "不能罷免丞相"
+
+msgid "e.nation.waitForTheNextVoting[MONTH][DAY][HOUR][MIN][APM]"
+msgstr "下一次選舉預計將于[MONTH]月[DAY]日[HOUR]時開始"
+
+msgid "e.nation.rankNotReach"
+msgstr "您的排行名次不滿足條件"
+
+msgid "e.nation.ministerHaveRecommended"
+msgstr "您之前已經毛遂自薦了"
+
+msgid "e.nation.reasonIncludeFilterWord"
+msgstr "推薦理由中包含系統過濾詞"
+
+msgid "e.nation.noMinisterExist"
+msgstr "您彈劾的玩家不存在"
+
+msgid "e.nation.ministerStatusNotAllowThisOperation"
+msgstr "當前不允許進行此操作"
+
+msgid "e.nation.cannotImpeachIn3DaysBefore"
+msgstr "前3天不允許彈劾"
+
+msgid "e.nation.cannotImpeachYourself"
+msgstr "不允許彈劾自己"
+
+msgid "e.user.nobilityNotMatch"
+msgstr "爵位不夠"
+
+msgid "e.nation.rankNotMatch"
+msgstr "您的排行名次不滿足條件"
+
+msgid "e.nation.candidateNotExist"
+msgstr "候選人不存在"
+
+msgid "e.nation.needMorePoint"
+msgstr "需要發展分，軍功分，貢獻分，建設分有一項不為0"
+
+msgid "game.enterStatus[NATIONA][NATIONB][STATUS]"
+msgstr "[NATIONA]和[NATIONB]進入[STATUS]狀態"
+
+msgid "e.nation.cannotCreateRelationWithSelf"
+msgstr "不能跟自己建立外交關係"
+
+msgid "e.nation.cannotCreateRelationWithNpc"
+msgstr "不能跟NPC勢力建立外交關系"
+
+msgid "e.nation.notExist"
+msgstr "該勢力不存在"
+
+msgid "e.nation.nationRelationTypeNotExist"
+msgstr "勢力關係類型錯誤"
+
+msgid "e.nation.yourNationHasThisRelation[REL]"
+msgstr "您所在的勢力已有處于【[REL]】關系的勢力"
+
+msgid "e.nation.oppoNationHasThisRelation[REL]"
+msgstr "對方勢力已有處于【[REL]】關系的勢力"
+
+msgid "e.nation.nationRelationTypeNoChange"
+msgstr "已處於期望關係，無需變更"
+
+msgid "e.nation.nationRelationInCD"
+msgstr "請等待新的外交關係生效後再進行外交處理"
+
+msgid "e.nation.allNationTechMustFullLevel"
+msgstr "需要其他勢力建築全部滿級後才可捐獻"
+
+msgid "e.nation.techTypeNotExist"
+msgstr "勢力科技類型錯誤"
+
+msgid "e.nation.nationTechTypeNotMeetConditions"
+msgstr "該勢力建築已經最高級或者不符合捐助條件"
+
+msgid "e.nation.techCoinReachMaxToday"
+msgstr "您今天能在該科技上捐獻的銀兩已達上限"
+
+msgid "e.nation.taskTypeNotExist"
+msgstr "勢力任務類型錯誤"
+
+msgid "e.nation.taskNeedCityName"
+msgstr "未指定城市名稱"
+
+msgid "e.city.unvalid"
+msgstr "無效城市"
+
+msgid "e.nation.noPermissionToPublishTask"
+msgstr "您沒有發佈該勢力任務的許可權"
+
+msgid "e.nation.taskIsBeingEffected"
+msgstr "該任務已存在"
+
+msgid "e.nation.timeNotReached"
+msgstr "未到達任務發佈時間"
+
+msgid "e.nation.operationTypeIsWrong"
+msgstr "操作類型錯誤"
+
+msgid "e.nation.applyDataNotExist"
+msgstr "對不起，該項談判已不存在"
+
+msgid "e.nation.youHaveNoPower"
+msgstr "您的許可權不足"
+
+msgid "e.nation.bulletinIncludeFilterWord"
+msgstr "公告中包含系統過濾詞"
+
+msgid "Next voting: [MONTHA][DAYA][HOURA][MINA][APMA] - [MONTHB][DAYB][HOURB][MINB][APMB]"
+msgstr "新一輪選舉將于[MONTHA]月[DAYA]日[HOURA]時至[MONTHB]月[DAYB]日[HOURB]時舉行"
+
+msgid "e.nation.droitIsUnvalid"
+msgstr "許可無效"
+
+msgid "e.nation.droitNotMatch"
+msgstr "您的許可不足"
+
+msgid "e.nation.noNeedToChange"
+msgstr "無需修改"
+
+msgid "e.nation.cannotSetDroitOfSceMa"
+msgstr "司馬許可不可修改"
+
+msgid "e.nation.zeroDroitIsTooMuch"
+msgstr "0級超額"
+
+msgid "e.nation.strategyNumReachMax[LIMIT]"
+msgstr "勢力戰略條目已達到[LIMIT]條上限"
+
+msgid "e.nation.cantEditMonarchOrder"
+msgstr "君主令不能被修改"
+
+msgid "e.nation.shortOfInfo"
+msgstr "勢力僞令信息設置不完整，請重新輸入"
+
+msgid "e.nation.errorRange"
+msgstr "勢力僞令倍率範圍設置錯誤"
+
+msgid "e.nation.errorStartTime"
+msgstr "勢力僞令開始時間設置錯誤"
+
+msgid "e.nation.camofOrderNumReachCityMax[LIMIT]"
+msgstr "同一城市最多同時存在[LIMIT]條僞令"
+
+msgid "e.nation.sameStateCamofOrder"
+msgstr "同一城市不能同時存在2個同狀態的僞令"
+
+msgid "e.nation.maxNumInExecuting"
+msgstr "當前設置時段已有3條僞令正在進行中"
+
+msgid "e.nation.camofOrderNumReachMax[LIMIT]"
+msgstr "勢力僞令條目已超過[LIMIT]條的上限"
+
+msgid "e.nation.camofOrderCannotModify"
+msgstr "勢力僞令已經執行或結束，無法修改"
+
+msgid "e.nation.camofOrderCannotDelete"
+msgstr "勢力僞令正在執行中，無法刪除"
+
+msgid "e.nation.camofOrderDatyHaveNumReachMax[LIMIT]"
+msgstr "僞令已達每日[LIMIT]條的上限，需要取消未開始的僞令後重新創建或修改"
+
+msgid "e.corps.youHaveNotJoinedACorps"
+msgstr "您還沒有加入軍團"
+
+msgid "e.corps.wrongCorpsid"
+msgstr "該軍團不存在"
+
+msgid "e.corps.nameLengthIsWrong"
+msgstr "軍團名為4至16個字元"
+
+msgid "e.corps.declarationLengthIsWrong"
+msgstr "軍團簡介文字過長"
+
+msgid "e.corps.nameIncludeFilterWord"
+msgstr "軍團名字中包含系統過濾詞"
+
+msgid "e.corps.declarationIncludeFilterWord"
+msgstr "軍團宣言中包含系統過濾詞"
+
+msgid "e.corps.youMustJoinANationFirst"
+msgstr "您必須要先加入一個勢力"
+
+msgid "e.crops.youMustQuitFromCorpsFirst"
+msgstr "已經是某個軍團的成員"
+
+msgid "e.corps.needMoreDevelopment"
+msgstr "發展分不足"
+
+msgid "e.corps.youHaveCreatedTooManyCorpsToday"
+msgstr "您今天已經創建了太多的軍團，請明天再試"
+
+msgid "e.corps.corpsNameIsDuplicate"
+msgstr "軍團名重複"
+
+msgid "e.corps.youHaveJoindACorps"
+msgstr "您已加入軍團。請先退出現有軍團，加入新的軍團"
+
+msgid "e.corps.yourNationIdIsDeferentFromCorpsId"
+msgstr "該軍團與您不在同一勢力"
+
+msgid "e.corps.memberReachedMaxNum"
+msgstr "軍團人數已達上限"
+
+msgid "e.corps.noPower"
+msgstr "您的許可不足"
+
+msgid "e.corps.youMustQuitFromCorpsFirst"
+msgstr "已經有軍團了"
+
+msgid "e.corps.cannotFindTheApplyInfo"
+msgstr "該外交申請不存在"
+
+msgid "e.corps.wrongNation"
+msgstr "您不屬於該軍團所在的勢力"
+
+msgid "e.corps.noSuchSubMaster"
+msgstr "不存在該副軍團長"
+
+msgid "e.corps.cannotAppointYourself"
+msgstr "不能任命自己"
+
+msgid "e.corps.theCorpsBelongsToIsWrong"
+msgstr "該玩家不屬於此軍團"
+
+msgid "e.corps.hasBeenTheSubmaster"
+msgstr "該玩家已經是副軍團長了"
+
+msgid "e.corps.noSubMasterPost"
+msgstr "副團長職位滿了"
+
+msgid "e.corps.corpsIdIsWrong"
+msgstr "該玩家不屬於此軍團"
+
+msgid "e.corps.cannotAbdicateYourself"
+msgstr "不能轉讓給自己"
+
+msgid "game.corps.member"
+msgstr "普通成員"
+
+msgid "game.corps.commander"
+msgstr "軍團長"
+
+msgid "game.corps.deputyCommander"
+msgstr "副軍團長"
+
+msgid "game.corps.nullOfOfficial"
+msgstr "無"
+
+msgid "e.corps.youAreOfficial"
+msgstr "您是軍團的領導,不能自行退出"
+
+msgid "e.corps.cannotInviteSelf"
+msgstr "不能邀請自己"
+
+msgid "e.corps.hasBeingTheMemberOfThisCorps"
+msgstr "該玩家已加入本軍團"
+
+msgid "e.corps.cannotInviteAMaster"
+msgstr "不能邀請其他軍團的團長"
+
+msgid "e.corps.cannotInivteOneTwiceInOneDay"
+msgstr "同一天不能重複發送邀請"
+
+msgid "e.mail.notExist"
+msgstr "該郵件不存在"
+
+msgid "e.mail.thisMailIsNotBelongToYou"
+msgstr "這封郵件不屬於您"
+
+msgid "e.mail.notACorpsInvitation"
+msgstr "這不是軍團邀請郵件"
+
+msgid "e.mail.corpsInvitationUnvalid"
+msgstr "對不起，該邀請已無效"
+
+msgid "e.corps.hasBeingIn[NAME]Corps"
+msgstr "您已經加入了[NAME]軍團"
+
+msgid "e.corps.MembersOf[NAME]CorpsReachedMaxNum"
+msgstr "[NAME]軍團成員已滿，無法加入"
+
+msgid "e.corps.masterCannotAcceptOtherInvition"
+msgstr "您是軍團長，不能接受其他軍團的邀請"
+
+msgid "e.corps.corpsCodeTypeError"
+msgstr "軍團碼類型錯誤"
+
+msgid "e.corps.corpsScaleOrManNeedHigher"
+msgstr "獨立玩家人數不足，請接收更多的獨立玩家"
+
+msgid "e.corps.corpsGoldCodeHasBeenReceived"
+msgstr "黃金軍團碼已經領取過了"
+
+msgid "e.corps.corpsCodeOnlyGetOnceOneDay"
+msgstr "一天只能領取一次，本日已經領取過了"
+
+msgid "e.corps.corpsCodeCountLimitOverflow"
+msgstr "軍團碼領取次數達到上限"
+
+msgid "e.corps.goldCodeHaveReceivedComplete"
+msgstr "黃金軍團碼已領取完畢"
+
+msgid "e.corps.corpsCodeReceivedError"
+msgstr "軍團碼領取失敗"
+
+msgid "e.corps.cityNameIsEmpty"
+msgstr "城市名稱不能為空"
+
+msgid "e.corps.paramNotValid"
+msgstr "任務參數錯誤"
+
+msgid "e.corps.targetCityNotExist"
+msgstr "對不起，該城市不存在。"
+
+msgid "e.corps.attackTargetCityWrong"
+msgstr "對不起，無法對本勢力和本同盟的城市發佈該任務。"
+
+msgid "e.corps.transportTargetCityWrong"
+msgstr "對不起，無法對本勢力以外的城市發佈該任務。"
+
+msgid "e.corps.dontHaveNearlyCity"
+msgstr "任務目標城市資料異常"
+
+msgid "e.corps.notNearlyCity"
+msgstr "奇兵突襲目標城市必須是本勢力接壤城市"
+
+msgid "e.corps.taskTypeNotExist"
+msgstr "沒有這個勢力任務"
+
+msgid "e.corps.wrongTime"
+msgstr "執行時間必須在限定範圍內。"
+
+msgid "e.corps.taskDescIsTooMuch"
+msgstr "任務標注過長。"
+
+msgid "e.corps.allowSoldierTypeError"
+msgstr "請至少選擇一個兵種。"
+
+msgid "e.corps.noPermissionToPublishTask"
+msgstr "您沒有發佈該軍團任務的許可權"
+
+msgid "e.corps.taskIsBeingEffected"
+msgstr "任務正在執行中"
+
+msgid "e.corps.timeNotReached"
+msgstr "該任務不可發佈"
+
+msgid "e.corps.powerNotEnough"
+msgstr "對不起，軍團的戰力值不足"
+
+msgid "e.corps.taskIsNotExist"
+msgstr "尚未發佈該任務"
+
+msgid "e.corps.taskIsCanceled"
+msgstr "該任務已被其他人取消"
+
+msgid "e.corps.taskIsExcute"
+msgstr "戰鬥即將開始，正在統計參戰部隊，無法取消報名"
+
+msgid "e.corps.taskTwoIsExcute"
+msgstr "任務正在執行"
+
+msgid "e.corps.cancelTimeWrong"
+msgstr "臨近執行時間，無法取消。"
+
+msgid "e.corps.noPermissionToCancelTask"
+msgstr "您沒有取消軍團任務的許可權"
+
+msgid "e.army.notExist"
+msgstr "部隊不存在"
+
+msgid "e.corps.notEnoughSoldier"
+msgstr "您的部隊數量不符合要求"
+
+msgid "e.corps.notEnoughCrop"
+msgstr "您的部隊糧草不符合要求"
+
+msgid "e.corps.notEnoughNobility"
+msgstr "您的許可權等級不符合要求"
+
+msgid "e.corps.soldierNumOverTheLimit"
+msgstr "報名兵力超過上限"
+
+msgid "e.corps.notAllowedSoldierType"
+msgstr "您的部隊兵種類型不符合要求"
+
+msgid "e.corps.notAllowedSoldierLevel"
+msgstr "您的部隊兵種等級不符合要求"
+
+msgid "e.nation.neutral"
+msgstr "中立"
+
+msgid "e.corps.dontHaveCrops"
+msgstr "沒有加入任何軍團"
+
+msgid "e.corps.techLevelReachMax"
+msgstr "科技等級達到上限"
+
+msgid "e.corps.unenoughRes"
+msgstr "軍資不足"
+
+msgid "e.corps.techIdIsWrong"
+msgstr "軍團科技類型錯誤"
+
+msgid "e.corps.atLeastUseOneRes"
+msgstr "需要至少分配1點軍資"
+
+msgid "e.corps.undefindedBuyType"
+msgstr "兌換參數不正確"
+
+msgid "e.corps.overFlowUserLimit"
+msgstr "每日捐獻軍資總值不能超過個人發展分的10%（爵位達到王以上不受此限制）"
+
+msgid "e.user.unenoughCoin"
+msgstr "您的銀兩不足"
+
+msgid "e.friend.friendIsNotFind"
+msgstr "沒有發現該玩家"
+
+msgid "e.friend.typeIsWrong"
+msgstr "好友類型錯誤"
+
+msgid "e.friend.friendIsMyself"
+msgstr "不能加自己為好友"
+
+msgid "e.friend.blackListIsMyself"
+msgstr "不能加自己為黑名單"
+
+msgid "e.friend.friendAlreadyExist"
+msgstr "該好友已在名單裡"
+
+msgid "e.friend.blackListAlreadyExist"
+msgstr "該用戶已在黑名單裡"
+
+msgid "e.friend.friendBeyondLimit"
+msgstr "好友數量已達上限"
+
+msgid "e_friend_stranger"
+msgstr "不是好友"
+
+msgid "e_friend_developShort"
+msgstr "發展分不足，還不能進行該操作"
+
+msgid "e_friend_peopleFull"
+msgstr "民心已滿"
+
+msgid "e_friend_nochance"
+msgstr "今日提升次數已滿"
+
+msgid "e_friend_upgrated"
+msgstr "今日已經提升過民心"
+
+msgid "e_friend_alreadyActived"
+msgstr "今天已經激活過了"
+
+msgid "e_friend_tooManyShares"
+msgstr "分享次數太多了"
+
+msgid "e_friend_alreadyShared"
+msgstr "已經分享過該好友的碎片了"
+
+msgid "e_friend_unactived"
+msgstr "好友沒有激活"
+
+msgid "e_friend_noRemain"
+msgstr "好友沒有剩余分享次數了"
+
+msgid "e.rank.rankTypeIsWrong"
+msgstr "排行類型錯誤"
+
+msgid "e.rank.NationIsNotFind"
+msgstr "沒有找到該勢力"
+
+msgid "e.rank.rankIsNotExist"
+msgstr "沒有此排名"
+
+msgid "e.rank.corpsIsNotFind"
+msgstr "未找到該軍團"
+
+msgid "e.rank.corpsInOtherNation"
+msgstr "該軍團屬於其他勢力"
+
+msgid "e.rank.userIsNotFind"
+msgstr "沒有找到該玩家"
+
+msgid "e.money.consumeGoldNumError"
+msgstr "消費金額錯誤"
+
+msgid "game.unknowError"
+msgstr "未知錯誤"
+
+msgid "e.money.userAccountIsStop"
+msgstr "玩家帳號被禁止登錄"
+
+msgid "e.money.userAccountIsProtectedNotConsume"
+msgstr "玩家帳號被保護,禁止消費"
+
+msgid "e.money.giftNotEnough"
+msgstr "您的禮金不足"
+
+msgid "e.money.bahtNotEnough"
+msgstr "铢幣不足"
+
+msgid "e.money.goldNotEnough"
+msgstr "您的元寶不足"
+
+msgid "e.item.unenoughNum"
+msgstr "道具數量不足"
+
+msgid "e.manor.noPlotPrice"
+msgstr "地塊價格資訊錯誤，暫時無法開啟"
+
+msgid "e.money.unsetPrice"
+msgstr "未设置价格"
+
+msgid "e.mail.needMoreDevelop"
+msgstr "需要發展分至少達到10才能發送郵件。"
+
+msgid "e.mail.emptyReceiverIsNotAllowed"
+msgstr "請填入收件人"
+
+msgid "e.mail.receiversNotFound[NAME]"
+msgstr "收件人[NAME]不存在"
+
+msgid "e.mail.noPower"
+msgstr "您沒有許可權進行此操作"
+
+msgid "e.mail.senderCannotFetch"
+msgstr "寄件者不可收取"
+
+msgid "e.mail.attachmentsHaveBeenFetched"
+msgstr "已經收取過了"
+
+msgid "e.mail.noAttachmentExist"
+msgstr "此郵件不存在任何附件"
+
+msgid "e.mail.noMailSelected"
+msgstr "沒有選中任何郵件"
+
+msgid "e.mail.thisMailIsNotYours"
+msgstr "這封郵件不屬於您"
+
+msgid "e.house.richMaxLevel"
+msgstr "您的建築已達到最高等級"
+
+msgid "e.manor.resourceNotEnough"
+msgstr "資源不足"
+
+msgid "e.house.queueNumReachMax"
+msgstr "您的建築任務已達到上限"
+
+msgid "e.house.statusAbnormal"
+msgstr "建築正在進行其他任務"
+
+msgid "e.manor.resourceNotEnoughCanUseLuban"
+msgstr "僅可使用魯班傳人對該建築進行升級"
+
+msgid "e.soldier.recruitHouseRequire[NAME][LEVEL]"
+msgstr "[NAME]Lv[LEVEL]"
+
+msgid "e.soldier.recruitTechRequire[NAME][LEVEL]"
+msgstr "[NAME]Lv[LEVEL]"
+
+msgid "e.house.houseNumReachMax"
+msgstr "該建築在本田莊所能建造的數量已達上限"
+
+msgid "e.house.requireUnmatch"
+msgstr "建築前提不滿足"
+
+msgid "e.city.warStatus"
+msgstr "城市正在戰鬥中"
+
+msgid "e.manor.unopenedSalePlots"
+msgstr "該地塊尚未開啟"
+
+msgid "e.house.positionLocked"
+msgstr "該位置已有建築"
+
+msgid "e.house.canNotbuild"
+msgstr "該建築無法建造"
+
+msgid "e.house.reachMaxLevel"
+msgstr "您的建築已達到最高等級"
+
+msgid "e.manor.resourceNotEnough.luBan"
+msgstr "田莊資源不夠,不能使用魯班傳人"
+
+msgid "e.house.canNotDegrade"
+msgstr "該建築無法被拆除"
+
+msgid "e.house.speedUpDataIsEmpty"
+msgstr "不存在的加速模式"
+
+msgid "e.house.hack"
+msgstr "hack..."
+
+msgid "e.house.recruitNumLimit[LIMIT]"
+msgstr "每次招募士兵數量超出[LIMIT]上限"
+
+msgid "e.house.canNotRecruitSoldierType"
+msgstr "該建築無法招募此類兵種"
+
+msgid "e.house.upgradeQueueNotExist"
+msgstr "升級佇列不存在"
+
+msgid "e.house.emptyHouseQueueList"
+msgstr "該田莊沒有建築任務"
+
+msgid "e.house.emptySoldierQueueList"
+msgstr "該田莊沒有招募任務"
+
+msgid "e.recruitQueue.intervalReachLowerLimit[SECOND]"
+msgstr "已達到最短招募時間（[SECOND]秒/個）"
+
+msgid "e.equipment.notExist"
+msgstr "裝備不存在"
+
+msgid "e.equipment.dismantlingNumReachTheLimit"
+msgstr "每日拆解裝備次數已達今日上限"
+
+msgid "e.equipment.dismantlingValueDataErr"
+msgstr "拆解價值數據錯誤"
+
+msgid "e.equipment.dismantlingDataErr"
+msgstr "裝備拆解數據錯誤"
+
+msgid "e.hero.notExist"
+msgstr "該武將不存在"
+
+msgid "e.equipment.heroLevelNotEnough"
+msgstr "武將等級不足"
+
+msgid "e.equipment.soldierLimitChangedAndUnenough"
+msgstr "裝備影響武將帶兵數超出上限，請先減少部隊數量"
+
+msgid "e.equipment.unloadEquipmentFirst"
+msgstr "請先卸下此裝備"
+
+msgid "e.equipment.cannotStrengthen"
+msgstr "該裝備不可強化"
+
+msgid "e.equipment.reachMaxStrength"
+msgstr "已強化到最高級"
+
+msgid "e.equipment.strengthenMaxLevel[LEVEL]"
+msgstr "該道具僅可強化到裝備的前[LEVEL]級"
+
+msgid "e.equipment.strengthenItemNotEnough"
+msgstr "強化道具不足"
+
+msgid "e.equipment.upgradeRateItemNotEnough"
+msgstr "增加強化成功率的道具不足"
+
+msgid "e.equipment.strengthenFailed[DEGRADE]"
+msgstr "強化失敗，強化等級降低[DEGRADE]級"
+
+msgid "e.equipment.strengthenFailed"
+msgstr "裝備強化失敗"
+
+msgid "e.equipment.reffectIsClosedNow"
+msgstr "裝備洗煉功能尚未開放"
+
+msgid "e.equipment.reffectUnvalidForWhite"
+msgstr "白色裝備不允許使用洗煉功能"
+
+msgid "e.ctrl.paramNotValid"
+msgstr "遊戲參數錯誤"
+
+msgid "e.equipment.undefinedRefreshType"
+msgstr "刷新類型錯誤"
+
+msgid "e.equipment.refreshNumReachLimit"
+msgstr "超出每日刷新次數限制"
+
+msgid "e.equipment.inCDTime"
+msgstr "CD中..."
+
+msgid "e.equipment.bagEquipmentOverLimit"
+msgstr "包裹里的裝備數量達到上限，不能獲得裝備"
+
+msgid "e.equipment.chooseAEquipmentPlease"
+msgstr "請至少選擇一件裝備"
+
+msgid "e.equipment.moneyIsWrong"
+msgstr "金額輸入錯誤"
+
+msgid "e.equipment.dontHaveCDTime"
+msgstr "CD時間已經結束,無需花費元寶"
+
+msgid "e.equipment.priceIsChange"
+msgstr "所需元寶數已改變，只需消費[GOLD]元寶即可清除CD時間"
+
+msgid "e.equipment.reachMaxUpGradeLevel"
+msgstr "該裝備已經達到最高等級，無法再次升級"
+
+msgid "e.equipment.upGradeItemNotEnough"
+msgstr "升級道具不足"
+
+msgid "e.equipment.upgradeLuckyItemNotEnough"
+msgstr "升級幸運符道具不足"
+
+msgid "e.equipment.upGradeFailed[DEGRADE]"
+msgstr "裝備升級失敗"
+
+msgid "e.equipment.cannotSuccinct"
+msgstr "該裝備不允許洗煉"
+
+msgid "e.equipment.plaseSelectSuccinctProps"
+msgstr "請選擇要洗煉的屬性"
+
+msgid "e.equipment.succinctItemNotEnough"
+msgstr "洗煉道具不足"
+
+msgid "e.equipment.succinctFailed[BACKNUM]"
+msgstr "洗煉失敗，裝備沒有發生任何改變，但是返還了[BACKNUM]個道具[ITEMNAME]"
+
+msgid "e.equipment.succinctFailed"
+msgstr "洗煉失敗，裝備沒有發生任何改變"
+
+msgid "e.equipment.cannotQuench"
+msgstr "該裝備不允許淬煉"
+
+msgid "e.equipment.quenchItemNotEnough"
+msgstr "淬煉道具不足"
+
+msgid "e.equipment.quenchSuccess[COLOR]"
+msgstr "淬煉成功，裝備現在顔色爲[COLOR]，裝備增加了一個屬性，裝備大大增強了"
+
+msgid "e.equipment.quenchFailed[BACKNUM]"
+msgstr "淬煉失敗，裝備沒有發生任何改變，獲得了[BACKNUM]個道具[ITEMNAME]"
+
+msgid "e.equipment.quenchFailed"
+msgstr "淬煉失敗，裝備沒有發生任何改變"
+
+msgid "e.task.dailyTaskDontOpen"
+msgstr "每日任務功能尚未開啓"
+
+msgid "e.task.notExist"
+msgstr "該任務不存在"
+
+msgid "e.task.unfinish"
+msgstr "任務尚未完成"
+
+msgid "e.task.dailyTaskReachTheLimit"
+msgstr "每日完成任務個數已達今日上限"
+
+msgid "e.task.dailyTaskIsAlreadyGet"
+msgstr "您已經領取過該任務了"
+
+msgid "e.task.hack"
+msgstr "task hack..."
+
+msgid "e.task.dailyTaskCanGetOnlyOne"
+msgstr "每次只能同時領取一個每日任務"
+
+msgid "e.singleWar.warNotExistOrDateLimit"
+msgstr "單挑戰鬥不存在或已經過期"
+
+msgid "e.singleWar.heroIsNull"
+msgstr "沒有武將"
+
+msgid "e.singleWar.heroInitError"
+msgstr "武將初始化失敗"
+
+msgid "e.singleWar.heroIsSameUser"
+msgstr "自己武將不能單挑自己"
+
+msgid "e.city.nationUnmatch"
+msgstr "該城市不屬於您的勢力"
+
+msgid "e.manor.userTechManorMaxLimitRichMax"
+msgstr "您所能擁有的田莊已經達到上限，如果想創建新田莊，需要放棄一處已有田莊才能創建"
+
+msgid "e.manor.userManorLimitRichMax"
+msgstr "您所能擁有的田莊數量達到上限，請提高良田阡陌的等級以增加可擁有田莊數量上限"
+
+msgid "e.manor.beCleaningTheCity"
+msgstr "戰場清理中。。。請稍後"
+
+msgid "e.manor.cannotCreateManorInTollgate"
+msgstr "關隘無法創建田莊"
+
+msgid "e.manor.cityManorNumLimitRichMax"
+msgstr "城市已無空閒田莊可以創建，請更換有空餘田莊的城市進行創建"
+
+msgid "e.manor.createManorDroitInvalid"
+msgstr "您的許可等級不足以在本城開設田莊"
+
+msgid "e.manor.createManorCantInCapital"
+msgstr "不能在國都中使用推恩令創建田莊"
+
+msgid "e.manor.cityBeOccured"
+msgstr "該城市被占領，無法創建田莊"
+
+msgid "e.manor.todayHaveReach"
+msgstr "每個城市，玩家每天只能征募1次"
+
+msgid "e.manor.notExist"
+msgstr "該田莊不存在"
+
+msgid "e.manor.alreadyExist"
+msgstr "田莊已存在"
+
+msgid "game.manor.defaultName[CITYNAME]"
+msgstr "[CITYNAME]的田莊"
+
+msgid "e.manor.plotsAlreadyOpened"
+msgstr "地塊已是開啟狀態，無法重複開啟"
+
+msgid "e.manor.resourceNotEnough.wood"
+msgstr "沒有足夠的木材"
+
+msgid "e.manor.resourceNotEnough.stone"
+msgstr "沒有足夠的石頭"
+
+msgid "e.manor.resourceNotEnough.iron"
+msgstr "沒有足夠的鐵砂"
+
+msgid "e.manor.resourceNotEnough.crop"
+msgstr "沒有足夠的糧食"
+
+msgid "e.manor.nameLengthNotValid"
+msgstr "田莊名不符合長度限制"
+
+msgid "e.manor.nameIncludeFilterWord"
+msgstr "名字中包含系統過濾詞彙"
+
+msgid "e.manor.cannotDropMainManor"
+msgstr "首都田莊不可放棄"
+
+msgid "e.manor.cannotDropAfterCreate24hours"
+msgstr "田莊創建24小時內不可放棄"
+
+msgid "e.manor.rebuildManorDroitInvalid"
+msgstr "您的許可或者爵位等級不夠，無法在當前城市中進行重建。"
+
+msgid "e.manor.richCityMaxManorLimit"
+msgstr "當前城市中的田莊數量已滿，無法進行重建！"
+
+msgid "e.manor.richUserMaxManorLimit"
+msgstr "您當前所能擁有的田莊數量已經達到上限，無法進行重建！"
+
+msgid "e.manor.noneOccupyOrDropManor"
+msgstr "該田莊未被占領或者主動放棄"
+
+msgid "e.manor.lackOfPermissionForRebuild"
+msgstr "您當前的可重建次數為0，無法完成此次重建。"
+
+msgid "e.manor.manorOfCityNotExist"
+msgstr "此城沒有您的田莊"
+
+msgid "e.hero.deadStatus"
+msgstr "武將已重傷"
+
+msgid "e.hero.inWareHouse"
+msgstr "武將在倉庫中"
+
+msgid "e.army.statusAbnormal"
+msgstr "部隊正在執行其他任務"
+
+msgid "game.undefinedUserName"
+msgstr "NPC部隊"
+
+msgid "e.army.notInCity"
+msgstr "該部隊不在城內"
+
+msgid "e.army.targetArmyNotExist"
+msgstr "補給目標不存在"
+
+msgid "e.army.cannotSupply72hoursBefore"
+msgstr "新建用戶72小時內不得使用補給功能"
+
+msgid "e.army.targetArmyNotInCity"
+msgstr "補給目標不在本城"
+
+msgid "e.army.developLessThenSupplyTargetUser"
+msgstr "發展分低於被補給用戶"
+
+msgid "e.city.notExist"
+msgstr "該城市不存在"
+
+msgid "e.army.movePermissionDenied"
+msgstr "沒有許可權移動該部隊"
+
+msgid "e.battlefield.cannotMoveTo"
+msgstr "無法移動到該點"
+
+msgid "e.army.strategyNotValid"
+msgstr "部隊戰略參數錯誤"
+
+msgid "e.hero.statusAbnormal"
+msgstr "武將狀態異常"
+
+msgid "e.hero.arrayNotHold"
+msgstr "武將未掌握此陣型"
+
+msgid "e.army.notValidSoldierNum"
+msgstr "您輸入的士兵數量錯誤"
+
+msgid "e.hero.soldierLimitOverflow"
+msgstr "超出帶兵上限"
+
+msgid "e.army.notEnoughSoldier"
+msgstr "您的部隊中沒有足夠的士兵"
+
+msgid "e.army.capacityNotEnough"
+msgstr "攜帶資源超出運載量"
+
+msgid "e.army.supplyResourceNotValid"
+msgstr "請輸入正確的資源補給數量"
+
+msgid "e.army.supplyOthersMustCrop"
+msgstr "幫他人部隊補給時，只能補給糧食"
+
+msgid "e.army.canNotSupplyOtherNations"
+msgstr "不能給其他非同盟勢力進行補給"
+
+msgid "e.army.differentPlayersCannotSupplyTroops"
+msgstr "不同玩家之間不能供給兵"
+
+msgid "e.army.differentSoldierCannotSupplyTroops"
+msgstr "兩種不同兵種之間不能供給"
+
+msgid "e.army.supplyTargetOverflowCapacity"
+msgstr "補給目標資源超出資源上限"
+
+msgid "e.hero.cropLimit"
+msgstr "交換方糧食的數量不足"
+
+msgid "e.hero.soldierExchangeLimitOverflow"
+msgstr "交換方兵的數量超過被交換方帶兵上限"
+
+msgid "e.army.notEnough"
+msgstr "交換方士兵的數量不足"
+
+msgid "e.hero.soldierBeExchangedLimitOverflow"
+msgstr "被交換方兵的數量超過交換方帶兵上限"
+
+msgid "e.hero.woodLimit"
+msgstr "雙方木材的數量不正確"
+
+msgid "e.hero.stoneLimit"
+msgstr "雙方石料的數量不正確"
+
+msgid "e.hero.ironLimit"
+msgstr "雙方鐵砂的數量不正確"
+
+msgid "e.army.targetNotValid"
+msgstr "無法到達目標"
+
+msgid "e.army.targetIsCoexistRelation"
+msgstr "該勢力與本勢力為互不侵犯關係，無法出兵"
+
+msgid "e.army.targetIsLeagueRelationByConverting"
+msgstr "該勢力雖然是攻守同盟，但是即將轉化為其他關係，無法出兵"
+
+msgid "e.army.targetIsCapitalButNotLastCity"
+msgstr "目標是敵方首都，但不是最後一個城市"
+
+msgid "e.army.newComerCannotDepartToCityOfOtherNations"
+msgstr "新用戶4小時內不能調兵到其他勢力城市"
+
+msgid "e.army.zeroDroitCannotDepartToCityOfOtherNations"
+msgstr "0級許可不能調兵到其他勢力城市"
+
+msgid "e.army.userUnmatch"
+msgstr "您無權操作該部隊"
+
+msgid "e.army.departNumReachMin[CITYNAME][LIMIT]"
+msgstr "部隊兵力小于[CITYNAME]城市的出兵量下限。(下限值：[LIMIT])"
+
+msgid "e.army.departNumReachMax[CITYNAME][LIMIT]"
+msgstr "[CITYNAME]城市已達到出兵量上限。(當前上限：[LIMIT])"
+
+msgid "e.army.unenoughPowerToDispatch"
+msgstr "體力不足，無法出征"
+
+msgid "e.army.unenoughCropToDispatch"
+msgstr "糧食不足，無法出征"
+
+msgid "e.army.freeSpeedUpItemOverdue"
+msgstr "加速VIP道具有效時間已過,請重新選擇出征方式"
+
+msgid "e.army.dispatchExactTimeNotValid"
+msgstr "您輸入的資料有誤"
+
+msgid "e.army.freeExactItemOverdue"
+msgstr "免費精準到達道具有效時間已過,請重新選擇出征方式"
+
+msgid "e.army.noDroitToRepatriate"
+msgstr "您沒有遣返該城部隊的許可"
+
+msgid "game.attackAlert.numLess1000"
+msgstr "不足1千"
+
+msgid "game.attackAlert.numLess10000[N]"
+msgstr "[N]千人以上"
+
+msgid "game.attackAlert.numTenThousand[N]"
+msgstr "[N]萬人以上"
+
+msgid "game.attackAlert.numTenThousand"
+msgstr "千萬以上"
+
+msgid "e.user.levyCDing"
+msgstr "徵稅CD時間正在冷卻，無法徵收"
+
+msgid "e.user.levyCountReachMax"
+msgstr "本日徵收次數已達到上限"
+
+msgid "e.user.levyCDAlreadyReached"
+msgstr "徵稅CD時間已結束，無需加速"
+
+msgid "e.user.restartInitFirst"
+msgstr "您尚未完成遷服流程，請先初始化角色！"
+
+msgid "game.corps.nullOfName"
+msgstr "無"
+
+msgid "game.user.nullOfOfficial"
+msgstr "無"
+
+msgid "game.user.restartTips[DEV][START_DAY][SVR_NUM][UNITE_DAY]"
+msgstr "統一之後，發展分[DEV]萬以上的玩家可以向開服超過[START_DAY]天，勢力數量大于[SVR_NUM]的伺服器遷移，統一之後[UNITE_DAY]天，剩餘的未遷移的發展分大于[DEV]萬以上的玩家將集體遷入官方指定的伺服器。"
+
+msgid "game.user.interServiceBattleBattleTips[DEVELOP][MARTIAL]"
+msgstr "報名參加春節爭霸活動的玩家需滿足個人發展分大于[DEVELOP]，並且個人軍功分大于[MARTIAL]。完成報名後，玩家在當前服務器中的一切都不會受到影響，同時玩家可以在活動進行期間在活動服務器中進行遊戲。進入活動服務器的玩家，保留部分角色信息，武將信息，田莊信息。"
+
+msgid "e.user.describeOverflow"
+msgstr "描述信息超出了限制長度"
+
+msgid "e.system.closeRegister"
+msgstr "伺服器已關閉註冊"
+
+msgid "e.user.activeCodeInvalid"
+msgstr "啟動碼無效，請重新輸入"
+
+msgid "e.user.nameNotInput"
+msgstr "角色名不能為空"
+
+msgid "e.user.nameLengthInvalid"
+msgstr "角色名不符合長度限制"
+
+msgid "e.user.nameIncludeFilterWord"
+msgstr "名字中包含系統過濾詞彙"
+
+msgid "e.user.nameAlreadyExist"
+msgstr "角色名稱已存在"
+
+msgid "e.user.alreadyExist"
+msgstr "您已經創建過角色"
+
+msgid "e.user.roleNameIsRetention"
+msgstr "角色名稱暫時保留"
+
+msgid "e.user.cannotUseHistoryName"
+msgstr "不能使用史實武將名稱"
+
+msgid "e.user.thisStateIsClosed"
+msgstr "該州尚未開放，無法選擇"
+
+msgid "e.nation.capitalError"
+msgstr "無法選擇該勢力"
+
+msgid "e.restart.recommendNationChanged"
+msgstr "推薦勢力發生變化，請重新選擇勢力"
+
+msgid "e.hero.emperorNotExist"
+msgstr "君主武將呢？"
+
+msgid "e.user.ministerCannotQuisle"
+msgstr "丞相無法背叛勢力"
+
+msgid "e.user.cannotQuisleWithManyManors"
+msgstr "還有非首都田莊未被放棄"
+
+msgid "e.user.cannotQuisleWithAnyArmy"
+msgstr "請解散所有部隊"
+
+msgid "e.user.reachMaxQuisleTimes"
+msgstr "沒有剩餘背叛勢力次數，無法背叛"
+
+msgid "e.user.NationIsNotFind"
+msgstr "該勢力不存在"
+
+msgid "e.user.thisNationIsDead"
+msgstr "無法加入已滅亡的勢力"
+
+msgid "e.user.cannotSelectThisNation"
+msgstr "您不能選擇當前的勢力"
+
+msgid "e.tech.needOtherTechLevel"
+msgstr "任意一系攻防科技10級"
+
+msgid "e.tech.needAllTechToLevel10"
+msgstr "所有兵種攻防科技10級"
+
+msgid "e.tech.alreadyExist"
+msgstr "該科技已研發"
+
+msgid "e.user.techLevelReachMax"
+msgstr "科技等級達到上限"
+
+msgid "e.user.techLevelOneReachMax"
+msgstr "一項兵種攻防科技均到20級"
+
+msgid "e.user.techIdIsWrong"
+msgstr "科技類型錯誤"
+
+msgid "e.user.techFinallySoldierHaved"
+msgstr "已經研究了終極兵種"
+
+msgid "e.user.techRequireUnmatch"
+msgstr "未滿足研發條件"
+
+msgid "e.user.notAllowRename"
+msgstr "不允許改名"
+
+msgid "e.user.alreadyGetSalary"
+msgstr "今日已領取過俸祿"
+
+msgid "e.user.unenoughBattleScore"
+msgstr "戰功分數量不足"
+
+msgid "e.user.setDefaultRoleError"
+msgstr "設置默認角色失敗"
+
+msgid "e.user.over120string"
+msgstr "宣言文字不得超過120個漢字"
+
+msgid "e.war.unenoughMoveStep"
+msgstr "您無法移動到該位置"
+
+msgid "game.warReport.nationLoss[NATIONNAME][LOSS]"
+msgstr "[104#[NATIONNAME]軍#]傷亡總數：[LOSS]"
+
+msgid "game.warReport.heroExp"
+msgstr "[104#[NAME]#] 獲得經驗 [EXP]"
+
+msgid "game.warReport.monarchOrderHeroExp"
+msgstr "君主令之下的武將們奮勇作戰，共領悟了額外[EXP]點經驗"
+
+msgid "game.warReport.heroRank1[NATION][USER_ID][USER][HERO_ID][HERO][KILL]"
+msgstr "[NATION]勢力[4#【<a href='event:player-[USER_ID]'>[USER]</a>】#]麾下武將[104#【<a href='event:hero-[HERO_ID]'>[HERO]</a>】#]勇冠三軍，陣斬[KILL]人"
+
+msgid "game.warReport.heroRank2[NATION][USER_ID][USER][HERO_ID][HERO][KILL]"
+msgstr "[NATION]勢力[4#【<a href='event:player-[USER_ID]'>[USER]</a>】#]麾下武將[104#【<a href='event:hero-[HERO_ID]'>[HERO]</a>】#]勇猛無比，陣斬[KILL]人"
+
+msgid "game.warReport.heroRank3[NATION][USER_ID][USER][HERO_ID][HERO][KILL]"
+msgstr "[NATION]勢力[4#【<a href='event:player-[USER_ID]'>[USER]</a>】#]麾下武將[104#【<a href='event:hero-[HERO_ID]'>[HERO]</a>】#]英勇善戰，陣斬[KILL]人"
+
+msgid "game.warreport.singlewar.attacker.win"
+msgstr "第[ROUNDNUM]回合：<br>您的武將[ATTACKER]挑戰敵方武將[DEFENDER]獲勝，您殺死了[SOLDIERNAME]*[SOLDIERNUM], 獲得了必殺值*[WINPOWER],獲得了戰功分*[BATTLESCORE],獲得了經驗值*[EXP] [3#<b><u><a href='event:pk-[ID]-【[ATTACKER]】VS【[DEFENDER]】'>發布</a></u></b> #]（結果保存兩天）"
+
+msgid "game.warreport.singlewar.defender.lose"
+msgstr "第[ROUNDNUM]回合：<br>敵方武將[ATTACKER]挑戰您的武將[DEFENDER]獲勝，您損失了[SOLDIERNAME]*[SOLDIERNUM], 失去了必殺值*[LOSEPOWER] [3#<b><u><a href='event:pk-[ID]-【[ATTACKER]】VS【[DEFENDER]】'>發布</a></u></b> #]（結果保存兩天）"
+
+msgid "game.warreport.singlewar.attacker.lose"
+msgstr "第[ROUNDNUM]回合：<br>您的武將[ATTACKER]挑戰敵方武將[DEFENDER]失敗，您損失了[SOLDIERNAME]*[SOLDIERNUM], 失去了必殺值*[LOSEPOWER] [3#<b><u><a href='event:pk-[ID]-【[ATTACKER]】VS【[DEFENDER]】'>發布</a></u></b> #]（結果保存兩天）"
+
+msgid "game.warreport.singlewar.defender.win"
+msgstr "第[ROUNDNUM]回合：<br>敵方武將[ATTACKER]挑戰您的武將[DEFENDER]失敗，您殺死了[SOLDIERNAME]*[SOLDIERNUM], 獲得了必殺值*[WINPOWER],獲得了戰功分*[BATTLESCORE],獲得了經驗值*[EXP] [3#<b><u><a href='event:pk-[ID]-【[ATTACKER]】VS【[DEFENDER]】'>發布</a></u></b> #]（結果保存兩天）"
+
+msgid "game.warReport.title.less1000[CITY]"
+msgstr "[3#[CITY]騷擾戰#]"
+
+msgid "game.warReport.title.less10000[CITY]"
+msgstr "[3#[CITY]磨擦戰#]"
+
+msgid "game.warReport.title.less100000[CITY]"
+msgstr "[3#[CITY]戰鬥#]"
+
+msgid "game.warReport.title.less500000[CITY]"
+msgstr "[3#[CITY]戰役#]"
+
+msgid "game.warReport.title.default[CITY]"
+msgstr "[3#[CITY]戰爭#]"
+
+msgid "game.warReport.warId[WAR_ID]"
+msgstr "戰役ID：[WAR_ID]"
+
+msgid "Y-m-d H:i:s"
+msgstr "Y年m月d日 H:i:s"
+
+msgid "game.warReport.commonBody[START_TIME][END_TIME][CITY][NATIONLOSS]"
+msgstr "[3#時間：#][START_TIME] 至 [END_TIME]<br>[3#地點：#][CITY]<br>[NATIONLOSS]<br>"
+
+msgid "game.warReport.rewards.coin[COIN]"
+msgstr "[3#銀兩#] [COIN]"
+
+msgid "game.warReport.rewards.battleScore[BATTLESCORE]"
+msgstr "[3#戰功分#] [BATTLESCORE]"
+
+msgid "game.warReport.noKill"
+msgstr "[0#沒有殺敵#]"
+
+msgid "game.warReport.noLoss"
+msgstr "[0#沒有損傷#]"
+
+msgid "game.warReport.noHeroExp"
+msgstr "[0#未獲得經驗#]"
+
+msgid "game.warReport.noRewards"
+msgstr "[0#未獲得獎勵#]"
+
+msgid "game.warReport.noSingleWar"
+msgstr "[0#沒有進行單挑#]"
+
+msgid "game.warReport.userBody"
+msgstr "[3#您的戰果：#]<br>[4#消滅兵力：#]<br>[KILL]<br>[4#擊毀建築：#][DAMAGEHOUSE]點<br>[0#損失兵力：#]<br>[LOSS]<br>[4#參戰將領：#]<br>[HEROEXP]<br>[4#獲得物品：#]<br>[REWARDS]<br>[MONARCHORDERHEROEXP]<br>單挑戰報：<br>[SINGLEWAR]<br>"
+
+msgid "e.hero.armyNotExist"
+msgstr "部隊不存在"
+
+msgid "e.hero.notEnoughPower"
+msgstr "武將體力不足"
+
+msgid "e.hero.notEnoughCrop"
+msgstr "部隊糧食不足"
+
+msgid "e.school.schoolNameAlreadyExist"
+msgstr "學堂名字已存在，換一個更好聽的名字吧。"
+
+msgid "e.school.nameOver8words"
+msgstr "學堂名字不能超過8個字元，要言簡意賅"
+
+msgid "e.school.declarationOver50words"
+msgstr "學堂宣言不能超過50個字元，字元太多了，會增加伺服器壓力"
+
+msgid "e.school.nameIncludeFilterWord"
+msgstr "學堂名字中包含系統過濾詞彙"
+
+msgid "e.school.declarationIncludeFilterWord"
+msgstr "學堂宣言中包含系統過濾詞彙"
+
+msgid "e.school.developShouldReach10000"
+msgstr "您的發展分不滿10000，發展超過10000才有資格辦學，否則辦學會有很大的經濟壓力"
+
+msgid "e.school.dontHaveANation"
+msgstr "無勢力玩家不能創建學堂"
+
+msgid "e.school.alreadyHaveSchool"
+msgstr "您已加入了一個學堂，不能再三心二意，想著別的學堂了。"
+
+msgid "e.school.youHaveJoindSchool"
+msgstr "您已加入了一個學堂，不能再三心二意，想著別的學堂了。"
+
+msgid "e.school.youJoinSchoolError"
+msgstr "你要加入的學堂不存在"
+
+msgid "e.school.yourNationIsDeferentFromSchool"
+msgstr "你申請的學堂與您不在同一個勢力"
+
+msgid "e.school.dataIsError"
+msgstr "資料配置錯誤"
+
+msgid "e.school.memberReachedMaxNum"
+msgstr "學堂已達到人數上限，學堂等級越高，人數上限越大"
+
+msgid "e.school.youHaveNotJoindSchool"
+msgstr "您尚未加入學堂"
+
+msgid "e.school.schoolError"
+msgstr "學堂不存在"
+
+msgid "e.school.thisTeachernotExist"
+msgstr "學堂先生不存在，可能先生已經暫時退出學堂了。"
+
+msgid "e.school.pleaseSelectDropSchool"
+msgstr "請選擇解散操作"
+
+msgid "e.school.userHaveQuitSchool"
+msgstr "該玩家已經退出了學堂"
+
+msgid "e.school.youNotJoinOrSchoolError"
+msgstr "你尚未加入學堂或者要加入的學堂異常"
+
+msgid "e.school.heroNotYours"
+msgstr "不是你的武將"
+
+msgid "e.school.heroNotInSchool"
+msgstr "武將不在學堂中"
+
+msgid "e.school.heroIsNotStudent"
+msgstr "不是學生"
+
+msgid "e.school.noTeacherToConsult"
+msgstr "只有拜師之後才能請教"
+
+msgid "e.school.teacherNotInSchool"
+msgstr "先生已不在學堂中，可能剛剛退出了"
+
+msgid "e.school.teacherLeave"
+msgstr "先生離職了"
+
+msgid "e.school.teacherDownClass"
+msgstr "學生數量不足,先生處於罷課狀態。學生至少3個時，才能請教先生，文采越高，可接納學生越多。"
+
+msgid "e.school.heroConsultNumLimit"
+msgstr "本武將今日請教次數已達到上限，文采越高，每日請教次數上限越高，請教獲取的文采，領悟力，貢獻度，越多"
+
+msgid "e.school.userConsultNumLimit"
+msgstr "本角色的請教次數已達上限，除了每個武將有上限之外，角色有總的請教次數上限，其中，貢獻度越高，角色總的請教次數上限越高。請教先生即可獲取貢獻度。"
+
+msgid "e.school.schoolNotExists"
+msgstr "學堂不存在"
+
+msgid "e.school.cannotChallengeYourself"
+msgstr "不能挑戰自己"
+
+msgid "e.school.challengedNumLimit"
+msgstr "今日已到挑戰次數上限，武功越高，武將本身每日比試次數上限越多。比試總次數受貢獻度高低控制，貢獻度越高，比試每日總次數上限越高。"
+
+msgid "e.school.literaryLevelMustOverThree"
+msgstr "文采等級3級或者3級以上才能使用挑戰功能，挑戰对象也必須滿足文采3級或者3級以上"
+
+msgid "e.school.literaryLevelMustGetToThree"
+msgstr "文采沒到3級，3級或者3級以上才能使用挑戰功能，挑戰对象也必須滿足文采3級或者3級以上"
+
+msgid "e.school.cannotEjectYourself"
+msgstr "不能驅逐自己，只能驅逐別人，被驅逐三次就會被掃地出門，損失領悟力和貢獻度。"
+
+msgid "e.school.cannotExjectSchoolMaster"
+msgstr "校長武將不能驅逐"
+
+msgid "e.school.haveAlreadyEjected"
+msgstr "已經驅逐過了，同一角色只能驅逐一次。學堂中要注意好好做人，被趕出去會損失很大。"
+
+msgid "e.school.noReviewTimesLeft"
+msgstr "本日複習次數已經達到上限，文采等級提升能夠增加複習次數上限"
+
+msgid "e.school.noTeacherToReview"
+msgstr "只有拜師之後才能複習"
+
+msgid "e.school.noPower"
+msgstr "沒有學堂管理許可權"
+
+msgid "e.school.cannotFindTheApplyInfo"
+msgstr "該申請不存在"
+
+msgid "e.schoolId.wrongSchoolid"
+msgstr "您不屬於該學堂"
+
+msgid "e.school.wrongNation"
+msgstr "該申請人與您不在同一個勢力"
+
+msgid "e.school.youhaveASchool"
+msgstr "你已經有學堂了"
+
+msgid "e.school.realizationNotEnough"
+msgstr "領悟力沒有滿，領悟力滿才能去領悟技能"
+
+msgid "e.school.SkillNotExists"
+msgstr "技能不存在"
+
+msgid "e.hero.skillExist"
+msgstr "武將特技已存在"
+
+msgid "e.hero.skillCannotReplace"
+msgstr "專屬技能不能被覆蓋"
+
+msgid "e.hero.skillsFull"
+msgstr "技能都學滿"
+
+msgid "e.school.reachMaxMakingUpNum"
+msgstr "超出每日補課次數上限"
+
+msgid "e.school.youIsnotMasterNotDropSchool"
+msgstr "你不是該學堂的校長不能解散該學堂"
+
+msgid "e.school.YourHeroIsTeacherNotFindTeacher"
+msgstr "你的身份是先生，不能選擇拜師操作"
+
+msgid "e.school.youCannotDoTeacherSelf"
+msgstr "不能拜自己為師"
+
+msgid "e.school.youHaveFindTeacher"
+msgstr "你已經拜此先生為師了，如果拜其他先生，或者換其他的武將進入學堂，那麼當前武將將暫時退出學堂"
+
+msgid "e.school.youFindTeacherIsnotTeacher"
+msgstr "你要拜武將已經不是先生了"
+
+msgid "e.school.overTeacherStudentNumLimit"
+msgstr "超出先生的學生數量上限"
+
+msgid "e.exchange.errorTimesTooMuch"
+msgstr "您今天輸入的錯誤次數太多，請明天繼續兌換。"
+
+msgid "e.exchange.error"
+msgstr "兌換碼錯誤"
+
+msgid "e.exchange.isUsed"
+msgstr "兌換碼已經使用"
+
+msgid "e.exchange.isExpired"
+msgstr "兌換碼已經過期"
+
+msgid "e.exchange.searchError"
+msgstr "兌換碼查詢失敗"
+
+msgid "e.exchange.rewardTimesTooMuch"
+msgstr "您今天已經兌換了太多物品，請明天繼續兌換。"
+
+msgid "e.exchange.isExchanged"
+msgstr "您已經兌換過該項獎勵，無法再次兌換。"
+
+msgid "e.shop.goodsNotExist"
+msgstr "該商品不存在"
+
+msgid "e.shop.goodsExpire"
+msgstr "該商品不在銷售期"
+
+msgid "e.shop.goodsGroupBuyIsStop"
+msgstr "該商品團購已結束"
+
+msgid "e.shop.yourCreditNeedMore"
+msgstr "您的信用度不夠"
+
+msgid "e.shop.goodsGroupBuyLimit"
+msgstr "妳購買的數量超過了團購數量的上限"
+
+msgid "e.shop.goodsGroupBuyMinLimit"
+msgstr "未達到單人購買數量下限"
+
+msgid "e.shop.goodsGroupBuyMaxLimit"
+msgstr "超過單人購買數量上限"
+
+msgid "e.shop.goodsBuyNumError"
+msgstr "輸入數量錯誤"
+
+msgid "e.shop.goodsGroupBuyIsNotStop"
+msgstr "該商品團購未結束，尚未進入支付階段"
+
+msgid "e.shop.notJoinThisGroupBuy"
+msgstr "妳沒有參加該團購活動"
+
+msgid "e.shop.goodsGroupBuyLimitOrderNum"
+msgstr "妳支付的數量超過了訂購數量的上限"
+
+msgid "game.shop.groupBuyUser[NUM]"
+msgstr "[NUM]人參加"
+
+msgid "game.shop.groupBuyGoods[NUM]"
+msgstr "[NUM]件商品賣出"
+
+msgid "game.shop.groupBuyUserNum"
+msgstr "參與人數"
+
+msgid "game.shop.groupBuyGoodsNum"
+msgstr "商品預定量"
+
+msgid "e.sgsoap.regionServerErr"
+msgstr "大區伺服器連接錯誤"
+
+msgid "e.DailyQA.numError"
+msgstr "購買次數錯誤"
+
+msgid "e.arena.hack"
+msgstr "hack。。。"
+
+msgid "e.arena.beAttacking"
+msgstr "當前正在挑戰中。。。"
+
+msgid "e.arena.canOnlySetPolicy"
+msgstr "現在只能調整陣型和戰術"
+
+msgid "e.arena.notEnoughSoldier"
+msgstr "士兵不足"
+
+msgid "game.arena.bulletinKillSoldierFormat"
+msgstr "[TAB][1#[NAME]#][4#[NUM]#]@NUM_WIDTH:10"
+
+msgid "game.arena.bulletinLossSoldierFormat"
+msgstr "[TAB][1#[NAME]#][50#[NUM]#]@NUM_WIDTH:10"
+
+msgid "game.arena.heroFired"
+msgstr "[解雇]"
+
+msgid "game.arena.win"
+msgstr "勝利"
+
+msgid "game.arena.draw"
+msgstr "平局"
+
+msgid "game.arena.lose"
+msgstr "失敗"
+
+msgid "game.arena.bothFail"
+msgstr "雙方失敗"
+
+msgid "game.arena.time_format"
+msgstr "Y年m月d日 H:i:s"
+
+msgid "game.arena.inc"
+msgstr "升高"
+
+msgid "game.arena.dec"
+msgstr "降低"
+
+msgid "game.arena.camp.red"
+msgstr "紅"
+
+msgid "game.arena.camp.blue"
+msgstr "藍"
+
+msgid "game.mining.attackWin"
+msgstr "成功佔領"
+
+msgid "game.mining.attackLose"
+msgstr "未佔領"
+
+msgid "game.mining.defenseWin"
+msgstr "成功保住"
+
+msgid "game.mining.defenseLose"
+msgstr "失去了"
+
+msgid "game.corps.noName"
+msgstr "未知軍團"
+
+msgid "e.arena.noUser"
+msgstr "未找到競技場玩家"
+
+msgid "e.arena.noExchangeAward"
+msgstr "沒有獎品"
+
+msgid "e.arena.needHigherLevel"
+msgstr "名聲不足"
+
+msgid "e.arena.needMoreExploit"
+msgstr "功勳不足"
+
+msgid "e.user.cannotAttackToday"
+msgstr "今天不能挑戰了"
+
+msgid "e.arena.attackCD... waitingMinutes"
+msgstr "兩次挑戰有5分鍾間隔"
+
+msgid "e.user.cannotAttackYourself"
+msgstr "不能挑戰自己"
+
+msgid "e.arena.opposRankBeyondYourAttackRange"
+msgstr "對方的排名超出攻擊範圍"
+
+msgid "game.arena.autoFighting"
+msgstr "該場戰鬥已進入自動戰鬥階段，請稍後通過戰報查看"
+
+msgid "e.arena.editYourTroopFirst"
+msgstr "沒有部隊。。。"
+
+msgid "e.user.cannotAttackUntil"
+msgstr "下次挑戰時間：[NEXT_TIME]"
+
+msgid "e.arena.cannotChallengeThisFloor"
+msgstr "無法挑戰該層"
+
+msgid "e.arena.reachAttackLimitOfThisFloor"
+msgstr "當前該關卡可挑戰次數為0，請等待下一次刷新"
+
+msgid "e.arena.cannotSignupVBFNow"
+msgstr "現在不可報名"
+
+msgid "e.arena.hasSignupVBFToday"
+msgstr "您已經在今天的衝鋒陷陣活動中報名了"
+
+msgid "e.arena.allBattlefieldsAreFull"
+msgstr "戰場滿了，暫時不能報名了"
+
+msgid "e.arena.soldierNumOfEveryArmyIsTooLess"
+msgstr "部隊人數太少，沒有隊伍入選"
+
+msgid "e.arena.hasnotSignupVBFToday"
+msgstr "您還沒報名今天的衝鋒陷陣活動"
+
+msgid "e.arena.cannotSignoutVBFIn[MINUTES]Minutes"
+msgstr "報名後[MINUTES]分鐘內不能取消報名"
+
+msgid "e.arena.cannotSignoutVBFAfter[TIME]"
+msgstr "[TIME]之後不能取消報名"
+
+msgid "e.arena.bfNotExistOrUnfinished"
+msgstr "該次戰鬥不存在或未結束"
+
+msgid "game.arena.vizir.red"
+msgstr "本服聯軍"
+
+msgid "game.arena.vizir.blue"
+msgstr "開國元勳軍團"
+
+msgid "game.arena.yearmonster.blue"
+msgstr "年獸部隊"
+
+msgid "e.arena.cannotSignupVizirNow"
+msgstr "現在不可報名"
+
+msgid "e.arena.hasSignupVizir[TITLE]"
+msgstr "您已經報名[TITLE]了"
+
+msgid "e.arena.hasnotSignupVizir[TITLE]"
+msgstr "您還沒報名[TITLE]"
+
+msgid "e.arena.cannotSignoutVizirIn[MINUTES]Minutes"
+msgstr "報名後[MINUTES]分鍾內不能取消報名"
+
+msgid "e.arena.cannotSignoutVizirAfter[TIME]"
+msgstr "[TIME]之後不能取消報名"
+
+msgid "e.mining.thisMiningNotYours"
+msgstr "TIPS: 這個礦區是別人的"
+
+msgid "e.mining.fighting, pleaseWaiting"
+msgstr "TIPS: 妳的礦區戰鬥中，稍後"
+
+msgid "e.mining.holdingThis, doNothing"
+msgstr "TIPS: 妳已經佔領了"
+
+msgid "e.mining.fighting, cannotAttack"
+msgstr "TIPS: 別人在打，稍後"
+
+msgid "e.mining.arenaMiningCannotAttackQuick"
+msgstr "該農田不可以進行搶收"
+
+msgid "e.mining.youAreAttacking, waiting"
+msgstr "TIPS: 妳在挑戰別的礦區，稍後"
+
+msgid "e.mining.beAttacked, waiting"
+msgstr "TIPS: 被侵犯了。。。稍後"
+
+msgid "game.arena.none"
+msgstr "無"
+
+msgid "e.arena.youNeedChangeCorpsMaster"
+msgstr "只有軍團長才可以進行操作"
+
+msgid "e.arena.youCorpsUserNeedHigher"
+msgstr "妳的軍團規模太小了，請接收更多的玩家。"
+
+msgid "e.arena.hasSignupMingCropToday"
+msgstr "妳已經在今天的軍團礦區戰報名了"
+
+msgid "e.arena.yourJoinCorpsTodayNotSignUP"
+msgstr "妳剛剛加入軍團，無法參加當次礦區戰"
+
+msgid "e.arena.yourCorpsHaveNotSignUP"
+msgstr "妳所在的軍團尚未報名"
+
+msgid "e.arena.youArmyNumTooLastCannotSign"
+msgstr "妳的部隊人數太少不能進行報名"
+
+msgid "e.mining.youcannotDropWhenUserSignUp"
+msgstr "軍團成員報名階段不能放棄資源礦"
+
+msgid "e.arena.youArmyNumTooLast"
+msgstr "妳的部隊人數不足不能進行編組"
+
+msgid "e.corps.youCorpsArmyIsFull"
+msgstr "該組已經滿員，請重新設置部隊分組"
+
+msgid "e.arena.youCorpsWarFailedCannotGains"
+msgstr "玩家軍團在礦區戰中被淘汰不能收穫"
+
+msgid "e.arena.youJoinCorpsOrNoSignCannotGains"
+msgstr "妳剛剛加入軍團或尚未報名今日礦區戰不能進行收穫。"
+
+msgid "e.arena.levyCDing"
+msgstr "征稅CD時間正在冷卻，無法收穫"
+
+msgid "e.arena.youCorpsGainsNumLimit"
+msgstr "已達到收穫次數上限"
+
+msgid "e.arena.resWarArmySignUp"
+msgstr "部隊已經報名"
+
+msgid "e.arena.resWarArmySignUpLimit"
+msgstr "部隊超出了報名上限"
+
+msgid "game.arena.camp.yellow"
+msgstr "黃"
+
+msgid "e.arena.notEditOrSignUpAremy"
+msgstr "您現在沒有編組任何部隊，無法進場，請首先編組和報名部隊"
+
+msgid "e.arena.cd"
+msgstr "CD時間中..."
+
+msgid "e.arena.fightingPleaseWaiting"
+msgstr "戰鬥中，稍後..."
+
+msgid "e.arena.resWarHouseNotExist"
+msgstr "目標建築不存在"
+
+msgid "e.arena.resWarHouseStatusError"
+msgstr "所在建築狀態異常，或者被他方佔領"
+
+msgid "e.arena.resWarNotMoveToHouse"
+msgstr "無法移動到該建築"
+
+msgid "e.arena.resWarHouseNotMove"
+msgstr "該建築屬于對方陣營,不能移動到該建築,請選擇攻擊"
+
+msgid "e.arena.resWarHouseUserLimit"
+msgstr "超出礦區人數上限"
+
+msgid "e.arena.resWarDiggingError"
+msgstr "只能在妳當前所在建築進行挖掘"
+
+msgid "e.game.others.wood"
+msgstr "木材"
+
+msgid "e.game.others.stone"
+msgstr "石料"
+
+msgid "e.game.others.iron"
+msgstr "鐵砂"
+
+msgid "e.game.others.food"
+msgstr "糧食"
+
+msgid "e.game.others.silver"
+msgstr "銀兩"
+
+msgid "e.game.others.gift"
+msgstr "禮金"
+
+msgid "e.game.others.battleScore"
+msgstr "戰功分"
+
+msgid "e.arena.resWarHouseIsHomeNotAttack"
+msgstr "陣營出發點不允許攻擊"
+
+msgid "e.arena.resWarHouseTheSameCampNotAttack"
+msgstr "同一陣營或者是結盟關系不允許攻擊"
+
+msgid "e.arena.resWarNotAttackToHouse"
+msgstr "建築不在攻擊範圍內"
+
+msgid "e.arena.resWarAttackArmyNotexist"
+msgstr "和妳配對的部隊正緊張戰鬥中，請再試一次。"
+
+msgid "game.arena.defenseWin"
+msgstr "被妳打敗了"
+
+msgid "game.arena.defenseLose"
+msgstr "把妳打敗了"
+
+msgid "game.arena.attackWin[DEFENSER]"
+msgstr "把[DEFENSER]打敗了"
+
+msgid "game.arena.attackLose[DEFENSER]"
+msgstr "被[DEFENSER]打敗了"
+
+msgid "e.arena.resWarOrderError"
+msgstr "該指令不存在"
+
+msgid "e.arena.resWarInspireCountLimit"
+msgstr "鼓舞次數到達了上限"
+
+msgid "e.arena.notSelectTarget"
+msgstr "未定義目標點"
+
+msgid "e.arena.notDefineBuffType"
+msgstr "未定義的Buff類型"
+
+msgid "e.user.undefinedBuffTarget"
+msgstr "錯誤的BUFF效果物件"
+
+msgid "e.buff.undefinedBuffTarget"
+msgstr "buff對象不存在"
+
+msgid "e.online.rewardsConfigUnvalid"
+msgstr "獎勵配置錯誤"
+
+msgid "e.online.rewardsOutOfTime"
+msgstr "不在領獎時間"
+
+msgid "e.online.rewardsUnsatisfy"
+msgstr "還沒到領獎時間"
+
+msgid "e.peachGarden.GardenNameAlreadyExist"
+msgstr "桃園名字已存在"
+
+msgid "e.peachGarden.nameOver8words"
+msgstr "桃園名字不能超過8個字符"
+
+msgid "e.peachGarden.declarationOver50words"
+msgstr "桃園宣言不能超過50個字符"
+
+msgid "e.peachGarden.developShouldReach1000"
+msgstr "您的發展分不足1000"
+
+msgid "e.peachGarden.dontHaveANation"
+msgstr "無勢力玩家不能創建桃園"
+
+msgid "e.peachGarden.alreadyHaveGarden"
+msgstr "您已加入了桃園"
+
+msgid "e.peachGarden.dataErr"
+msgstr "數據異常"
+
+msgid "e.peachGarden.gardenNotExist"
+msgstr "桃園不存在"
+
+msgid "e.peachGarden.hack"
+msgstr "hack..."
+
+msgid "e.peachGarden.youHaveJoindAGarden"
+msgstr "已經加入另外的桃園"
+
+msgid "e.peachGarden.wrongGardenid"
+msgstr "巧啊，正好桃園沒了。。。"
+
+msgid "e.peachGarden.yourNationIdIsDeferentFromGardenId"
+msgstr "玩家的勢力id和所申請的桃園勢力id不一樣"
+
+msgid "e.peachGarden.memberReachedMaxNum"
+msgstr "桃園人數已經達到上限"
+
+msgid "e.peachGarden.noPower"
+msgstr "您的權限不足..."
+
+msgid "e.peachGarden.cannotFindTheApplyInfo"
+msgstr "該申請不存在"
+
+msgid "e.peachGarden.wrongNation"
+msgstr "該申請人與您不在同一個勢力"
+
+msgid "e.peachGarden.youMustQuitFromGardenFirst"
+msgstr "已經有桃園了"
+
+msgid "e.peachGarden.youHaveNotJoinedAGarden"
+msgstr "您還沒有加入桃園"
+
+msgid "e.peachGarden.memberShouldOver5"
+msgstr "5人以上的桃園才可以進行拜訪操作"
+
+msgid "e.peachGarden.onlyCanVisitOneTime"
+msgstr "每天只能拜訪一次"
+
+msgid "e.peachGarden.onlyCanBeVisitOneTime"
+msgstr "每天只能被拜訪一次"
+
+msgid "e.peachGarden.cannotBeInvite"
+msgstr "發展分1000以上才能被邀請進入桃園"
+
+msgid "e.peachGarden.cannotInviteSelf"
+msgstr "無法邀請自己"
+
+msgid "e.peachGarden.hasBeingTheMemberOfThisPeachGarden"
+msgstr "該玩家已有桃園"
+
+msgid "e.peachGarden.cannotInivteOneTwiceInOneDay"
+msgstr "同一天不能重複發送邀請"
+
+msgid "e.mail.notAPeachGardenInvitation"
+msgstr "這不是桃園邀請郵件"
+
+msgid "e.mail.peachGardenInvitationUnvalid"
+msgstr "對不起，該邀請已無效"
+
+msgid "e.peachGarden.yourNationIdIsDeferentFromPeachGardenId"
+msgstr "桃園所在勢力異常"
+
+msgid "e.peachGarden.hasBeingIn[NAME]PeachGarden"
+msgstr "妳已經加入了[NAME]桃園"
+
+msgid "e.corps.MembersOf[NAME]PeachGardenReachedMaxNum"
+msgstr "[NAME]桃園成員已滿，無法加入"
+
+msgid "e.restart.transfered"
+msgstr "不可重複遷服"
+
+msgid "e.restart.hasSignuped"
+msgstr "妳已報名遷服，如需修改，請先取消報名"
+
+msgid "e.restart.unsignuped"
+msgstr "妳還未報名遷服"
+
+msgid "e.restart.rejectYourServer"
+msgstr "TIPS: 不接受該伺服器"
+
+msgid "e.restart.srcAndDistIsTheSame"
+msgstr "不允許遷往當前伺服器"
+
+msgid "e.restart.systemStartTimeIsTooShort[DAY]"
+msgstr "開服[DAY]天之內不開放遷服功能"
+
+msgid "e.restart.nationsAreTooLess"
+msgstr "勢力數量不夠"
+
+msgid "e.restart.cannotTransferNow"
+msgstr "現在不可遷服"
+
+msgid "e.restart.serverUnUniteSoCanNotTransfer"
+msgstr "勢力未統一不可遷服"
+
+msgid "e.restart.transferIsExpired"
+msgstr "遷服已關閉"
+
+msgid "e.restart.needMoreDevelopOrNotGoldUser[NUM]"
+msgstr "發展分不足[NUM]萬，無法遷服"
+
+msgid "e.restart.HaveAlreadyRegistered"
+msgstr "已報名"
+
+msgid "e.restart.notMatchTransferParam"
+msgstr "不滿足遷服條件"
+
+msgid "e.user.userAlreadyExistSignUp"
+msgstr "該賬號已經有角色報名"
+
+msgid "e.config.error.time.format"
+msgstr "時間格式配置錯誤"
+
+msgid "e.config.error.time.interServiceBattle"
+msgstr "不在活動時間範圍內"
+
+msgid "e.config.error.noDefinednationToServer"
+msgstr "未配置該服務器對應的勢力信息"
+
+msgid "e.config.error.no.interServiceBattle"
+msgstr "跨服戰尚未配置"
+
+msgid "e.restart.voteEnd"
+msgstr "投票已結束"
+
+msgid "e.restart.voteOptionError"
+msgstr "您的投票選項不正確"
+
+msgid "e.restart.CannotVoteBecauseLowerDevelop"
+msgstr "發展分太低，不允許投票"
+
+msgid "e.restart.voteExist"
+msgstr "您已進行過遷服投票"
+
+msgid "e.goods.unableUseGiftGold"
+msgstr "該商品不允許用禮金購買"
+
+msgid "e.goods.youBuyNumOverCanBuyLimit"
+msgstr "您購買的數量超出該商品的可購買數量，請重新輸入想要購買的數量。"
+
+msgid "e.shop.receiverNotExist"
+msgstr "您贈送的玩家不存在"
+
+msgid "game.shop.giftInfo[NAME][NUM]"
+msgstr "[NAME] x [NUM]"
+
+msgid "game.shop.giftMailReceiverTitle[NAME]"
+msgstr "您收到來自玩家【[NAME]】的道具"
+
+msgid "game.shop.giftMailReceiverBody[NAME][GIFTS]"
+msgstr "您收到來自玩家【[NAME]】的道具，道具如下：[GIFTS]"
+
+msgid "game.shop.giftMailSenderTitle[NAME]"
+msgstr "您送給玩家【[NAME]】的道具"
+
+msgid "game.shop.giftMailSenderBody[NAME][GIFTS]"
+msgstr "您送給玩家【[NAME]】的道具，道具如下：[GIFTS]"
+
+msgid "e.shop.goodsNotEchange"
+msgstr "該類型商品尚未開啓兌換"
+
+msgid "e.user.needMorebattleScore"
+msgstr "戰功分不足"
+
+msgid "e.shop.needMoreValue"
+msgstr "功勳不足，或者戰功分不足。"
+
+msgid "game.manor.nullOfdroit"
+msgstr "無"
+
+msgid "game.city.satrapIsNull"
+msgstr "本城沒有太守"
+
+msgid "game.user.defaultName"
+msgstr "無"
+
+msgid "e.city.canNotEnterOthersBattlefield"
+msgstr "無法查看其他勢力的戰場"
+
+msgid "e.city.notSatrapOrNoDroitToPublishTask"
+msgstr "不是太守，或者沒許可權發佈任務"
+
+msgid "e.city.taskExist"
+msgstr "該城市任務已存在"
+
+msgid "e.city.publishNoticePermissionDenied"
+msgstr "您不是太守，沒有許可權發佈公告"
+
+msgid "e.city.droitInputInvalid"
+msgstr "請設置正確的許可權等級"
+
+msgid "e.city.noDroitToSetDroit"
+msgstr "您沒有許可權設置本城許可權等級"
+
+msgid "e.city.villageCannotSetDroit"
+msgstr "村莊無法修改田莊申請許可權"
+
+msgid "e.city.oneDroitIsTooFew"
+msgstr "本勢力超過1級許可權的城市太多了"
+
+msgid "e.city.buyResourceNumError"
+msgstr "請填寫購買數量"
+
+msgid "e.city.buyResoureReachLimit"
+msgstr "您今日購買資源數量已達上限"
+
+msgid "e.city.getSystemRateError"
+msgstr "獲取系統彙率失敗"
+
+msgid "e.system.functionClose"
+msgstr "該功能已關閉"
+
+msgid "e.city.buyCoinReachLimit"
+msgstr "您今日購買銀兩數量已達上限"
+
+msgid "e.city.exchangeResourceInvalid"
+msgstr "請填寫交換資源的數量"
+
+msgid "e.city.exchangeResoureUnbalance"
+msgstr "交換的資源不平衡"
+
+msgid "e.city.freeExchangeItemOverdue"
+msgstr "免費資源兌換道具有效時間已過,請重新操作"
+
+msgid "e.city.CannotExchange"
+msgstr "系統彙率已改變,無法兌換"
+
+msgid "e.city.exchangeOfGrainInvalid"
+msgstr "請填寫要交換的糧食數量"
+
+msgid "e.manor.unenoughcrop"
+msgstr "田莊糧食不足"
+
+msgid "e.city.reachExchangeLimit"
+msgstr "兌換量超出上限"
+
+msgid "e.army.notInSelfManor"
+msgstr "玩家部隊沒有在本城中"
+
+msgid "e.city.workCoinNotValid"
+msgstr "請填寫銀兩數量"
+
+msgid "e.hero.powerNotEnough"
+msgstr "該武將體力不足"
+
+msgid "e.city.notValidTransitResources"
+msgstr "請正確輸入運輸資源的數量"
+
+msgid "e.manor.targetManorNotExist"
+msgstr "目標田莊不存在"
+
+msgid "e.city.freeTransitItemOverdue"
+msgstr "免費運輸道具有效時間已過,請重新操作"
+
+msgid "e.city.noPower"
+msgstr "您沒有許可權進行此操作"
+
+msgid "e.user.ministerCannotBeSatrap"
+msgstr "丞相不能擔任太守"
+
+msgid "e.city.satrapNationIdIsWrong"
+msgstr "該玩家不屬於本勢力"
+
+msgid "e.city.userHasAlreadyBeenAppointedBefore"
+msgstr "早已是此城市的太守了"
+
+msgid "e.city.cannotBeSatrapOfMoreThan3Cities"
+msgstr "不能擔當超過三個城市的太守"
+
+msgid "game.city.satrap"
+msgstr "太守"
+
+msgid "e.city.thereIsNoSatrap"
+msgstr "尚未任命太守"
+
+msgid "game.liuBeiArmy"
+msgstr "馬超精英衛隊"
+
+msgid "game.caoCaoArmy"
+msgstr "曹操精英衛隊"
+
+msgid "e.manor.cropAlreadyFull"
+msgstr "軍糧庫已滿"
+
+msgid "e.manor.cropNotEnough"
+msgstr "糧食不足"
+
+msgid "e.manor.notOwnCity"
+msgstr "田莊不屬於該城市"
+
+msgid "e.city.notOwnArmy"
+msgstr "部隊不屬於該玩家"
+
+msgid "e.army.cropNotEnough"
+msgstr "糧食不足"
+
+msgid "e.army.notOwnCity"
+msgstr "部隊不屬於該城市"
+
+msgid "e.city.cropReachLimit"
+msgstr "城市的軍糧庫達到上限"
+
+msgid "e.city.wasOccupyCanNotBePractice"
+msgstr "城市已經被佔領，無法進行修煉"
+
+msgid "e.city.beyondHourLimit"
+msgstr "單次訓練時間超過上限"
+
+msgid "game.practice.timeAndExp[NAME][HOUR][EXP]"
+msgstr "\t【[NAME]】，修煉[HOUR]小時，獲得[EXP]點經驗。<br>"
+
+msgid "game.practice.dropItem[NAME][NUM]"
+msgstr "\t【[NAME]】 x [NUM]"
+
+msgid "game.practice.dropItemTitle"
+msgstr "<br><br>獲得獎勵：<br>"
+
+msgid "e.city.notExistPracticeQueue"
+msgstr "武將修煉佇列不存在"
+
+msgid "e.hero.unableTreasure"
+msgstr "武將不滿足尋寶條件"
+
+msgid "e.item.errorEffect"
+msgstr "效果類型定義錯誤"
+
+msgid "e.item.undefinedEffect"
+msgstr "未定義道具效果"
+
+msgid "e.config.fileError"
+msgstr "設定檔錯誤"
+
+msgid "e.hero.exist"
+msgstr "武將已存在"
+
+msgid "e.hero.pleaseRecharge"
+msgstr "該武將已到使用期，請續費或轉爲永久"
+
+msgid "e.hero.heroMakeItemDataErr"
+msgstr "將魂道具效果異常"
+
+msgid "e.hero.reachHeroNumLimitAndTechLimit"
+msgstr "武將數量達到上限"
+
+msgid "e.hero.reachHeroNumLimitButWareHouseIsNotFull"
+msgstr "武將數量達到上限，請增加武將倉庫位置"
+
+msgid "e.hero.reachHeroNumLimit"
+msgstr "武將數量達到上限，請提升科技“招賢納士”以提升上限。"
+
+msgid "e.hero.undefinedRefreshType"
+msgstr "刷新類型錯誤"
+
+msgid "e.hero.refreshNumReachLimit"
+msgstr "超出每日刷新次數限制"
+
+msgid "e.hero.errorSettings"
+msgstr "武將刷新參數配置錯誤"
+
+msgid "e.hero.inCDTime"
+msgstr "CD中..."
+
+msgid "e.hero.allotArgsError"
+msgstr "錯誤的參數（武將刷新點數分配）"
+
+msgid "e.hero.notValidPotentialValue"
+msgstr "請正確填寫潛力點數量"
+
+msgid "e.hero.notEnoughPotential"
+msgstr "武將潛力點不足"
+
+msgid "e.hero.cannotRenameEmperor"
+msgstr "無法對角色武將命名"
+
+msgid "e.hero.cannotRenameHistory"
+msgstr "不能為史實武將更名"
+
+msgid "e.hero.nameLengthInvalid"
+msgstr "武將姓名長度不符合要求"
+
+msgid "e.hero.cannotUseHistoryName"
+msgstr "不能更名為史實武將姓名"
+
+msgid "e.hero.nameIncludeFilterWord"
+msgstr "名字中包含系統過濾詞彙"
+
+msgid "e.hero.cannotFireEmperor"
+msgstr "不能解雇角色武將"
+
+msgid "e.hero.cannotFireUnnormalStatus"
+msgstr "武將無法在重傷，修煉，以及帶領部隊時被解雇"
+
+msgid "e.hero.cannotFireBefore3Hours"
+msgstr "招募3小時內不能解雇"
+
+msgid "e.hero.notGrouped"
+msgstr "玩家當前沒有已編組武將"
+
+msgid "e.army.notExistInCity"
+msgstr "本城中沒有玩家部隊"
+
+msgid "e.hero.UpgradeNewHeroIsClose"
+msgstr "脫胎換骨功能已關閉"
+
+msgid "e.hero.notExistUpgradeHistoryList"
+msgstr "該武將不在新版武將升級佇列中"
+
+msgid "e.hero.cannotUpgradeUnnormalStatus"
+msgstr "武將只有在未編組狀態才能進行脫胎換骨"
+
+msgid "e.hero.moneyIsWrong"
+msgstr "金額輸入錯誤"
+
+msgid "e.hero.dontHaveCDTime"
+msgstr "CD時間已經結束,無需花費元寶"
+
+msgid "e.hero.priceIsChange"
+msgstr "所需元寶數已改變，只需消費[GOLD]元寶即可清除CD時間"
+
+msgid "e.hero.paramNotValid"
+msgstr "請求參數錯誤"
+
+msgid "e.hero.cannotLock"
+msgstr "專屬技能或陣型不能被鎖定或解鎖"
+
+msgid "e.hero.hadLock"
+msgstr "該技能或陣型已鎖定"
+
+msgid "e.hero.unLock"
+msgstr "該技能或陣型未鎖定"
+
+msgid "e.hero.heroIsNull"
+msgstr "該武將不存在"
+
+msgid "e.hero.heroOnFightCantDropSkillOrArray"
+msgstr "戰鬥中的武將不能遺忘技能或陣型"
+
+msgid "e.hero.hack"
+msgstr "hack..."
+
+msgid "e.hero.skillIsNull"
+msgstr "該技能不存在"
+
+msgid "e.hero.canNotDropSkill"
+msgstr "已鎖定和不可覆蓋的技能不可遺忘"
+
+msgid "e.hero.arrayNull"
+msgstr "該陣型不存在"
+
+msgid "e.hero.canNotDropArray"
+msgstr "已鎖定的陣型不可遺忘"
+
+msgid "e.hero.singleSkillIsNull"
+msgstr "該武技不存在"
+
+msgid "e.hero.canNotDropSingleSkill"
+msgstr "已鎖定和不可覆蓋的武技不可遺忘"
+
+msgid "e.hero.normalHeroCantReincarnate"
+msgstr "只有史實武將和君主武將可以進行轉生操作"
+
+msgid "e.hero.potentialNotUsed"
+msgstr "潛力點沒有全部分配"
+
+msgid "e.hero.overReincarnateNumLimit"
+msgstr "超過伺服器轉生次數上限"
+
+msgid "e.hero.overReincarnateNumSelfLimit"
+msgstr "武將轉生達到上限，可通過使用“再造丹”提升武將轉生次數上限"
+
+msgid "e.hero.wrongReinarcateData"
+msgstr "無該轉生次數數據"
+
+msgid "e.hero.levelNotEnough"
+msgstr "等級不夠"
+
+msgid "e.hero.wrongStatus"
+msgstr "已編組和倉庫中的武將不可進行轉生操作"
+
+msgid "e.hero.undefinedResetType"
+msgstr "未定義的洗點類型"
+
+msgid "e.hero.potentialOverZero"
+msgstr "潛力點大于0，不可進行洗點"
+
+msgid "e.hero.cannotResetWhenInGroup"
+msgstr "處于編組狀態的武將不可進行洗點"
+
+msgid "e.hero.resetInCDTime"
+msgstr "洗髓符CD中"
+
+msgid "e.hero.resetItemNotEnought"
+msgstr "洗髓符數量不足"
+
+msgid "e.hero.undefinedResetConsumeType"
+msgstr "未定義的洗點消費類型"
+
+msgid "e.hero.resetInfoIsWrong"
+msgstr "根據洗點等級取洗點信息ID"
+
+msgid "e.hero.trainingTypeUndefined"
+msgstr "訓練方式未定義"
+
+msgid "e.hero.alreadyInTraining"
+msgstr "武將已經在訓練中"
+
+msgid "e.hero.statusIsWrong"
+msgstr "武將狀態異常"
+
+msgid "e.hero.queueNumReachMax"
+msgstr "同時執行的訓練數量上限"
+
+msgid "e.hero.trainingModelUndefined"
+msgstr "訓練模式未定義"
+
+msgid "e.hero.trainingQueueNotExist"
+msgstr "訓練隊列不存在"
+
+msgid "e.hero.modelShouldHigher"
+msgstr "僅可將當前模式替換成更高的模式"
+
+msgid "e.hero.expNotEnough"
+msgstr "經驗值不足"
+
+msgid "e.hero.levelIsMax"
+msgstr "等級達到上限"
+
+msgid "e.hero.itemInfoError"
+msgstr "道具信息異常"
+
+msgid "e.hero.skillBookNotEnough"
+msgstr "沒有相應的技能訓練書"
+
+msgid "e.hero.heroExpItemNotInCD"
+msgstr "突飛令不在CD中，無需花費元寶"
+
+msgid "e.hero.heroResetPointItemNotInCD"
+msgstr "洗髓符不在CD中，無需花費元寶"
+
+msgid "e.hero.wareHouseNumIsWrong"
+msgstr "武將倉庫數量錯誤"
+
+msgid "e.hero.wareHouseReachTheLimit"
+msgstr "擁有倉庫數量已經達到上限"
+
+msgid "e.hero.cannotPutEmperorHeroInWareHouse"
+msgstr "主將不能進入倉庫"
+
+msgid "e.hero.heroIdisNull"
+msgstr "參數錯誤"
+
+msgid "e.hero.wareHouseIsFull"
+msgstr "武將倉庫已滿"
+
+msgid "e.hero.heroListIsFull"
+msgstr "武將列表已滿"
+
+msgid "e.hero.undefinedExchangeType"
+msgstr "未定義的替換類型"
+
+msgid "e.item.undefinedItem"
+msgstr "未定義道具"
+
+msgid "e.hero.alreadyForever"
+msgstr "已經是永久武將"
+
+msgid "e.hero.alreadyRecharge"
+msgstr "已續費"
+
+msgid "e.hero.heroModelIsOverdue"
+msgstr "武將模型已過期"
+
+msgid "e.hero.cannotWakeUp"
+msgstr "該武將不可覺醒"
+
+msgid "e.hero.reinarcateNumWrong"
+msgstr "一轉以上武將才可以覺醒"
+
+msgid "e.hero.wakeUpInCD"
+msgstr "CD中"
+
+msgid "e.hero.wakeUpSwitchIsOff"
+msgstr "武將覺醒功能未開放"
+
+msgid "e.hero.wakeUpNotInCD"
+msgstr "武將CD時間已經結束"
+
+msgid "e.hero.stuntIsNull"
+msgstr "該武技不存在"
+
+msgid "e.hero.stuntlevelIsMax"
+msgstr "此單挑技能等級已達上限，需要轉生後再進行升級"
+
+msgid "e.hero.csBookNotEnough"
+msgstr "升級所需道具數量不足"
+
+msgid "e.hero.stuntDexNotEnough"
+msgstr "此技能熟練度不足"
+
+msgid "e.army.cantAttackSimulateWarCity"
+msgstr "此城市目前不能被攻打，[TIME]以後可以攻打"
+
+msgid "e.item.effectExpire"
+msgstr "該道具不在使用期"
+
+msgid "e.item.useOk"
+msgstr "使用成功"
+
+msgid "e.item.dataError"
+msgstr "數據配置錯誤"
+
+msgid "e.item.itemNotExchange"
+msgstr "該道具不可進行兌換"
+
+msgid "e.item.undefinedRefreshType"
+msgstr "刷新類型錯誤"
+
+msgid "e.item.inCDTime"
+msgstr "CD中..."
+
+msgid "e.item.undefinedRefreshPriceConfig"
+msgstr "道具刷新價格配置錯誤"
+
+msgid "e.item.notExist"
+msgstr "該道具不存在"
+
+msgid "e.item.moneyIsWrong"
+msgstr "金額輸入錯誤"
+
+msgid "e.item.dontHaveCDTime"
+msgstr "CD時間已到，無需使用道具"
+
+msgid "e.item.priceIsChange"
+msgstr "所需元寶數已改變，只需消費[GOLD]元寶即可清除CD時間"
+
+msgid "e.dailyQuest.dailyQuestConfigUnvalid"
+msgstr "日常活動配置錯誤"
+
+msgid "e.game.others.gold"
+msgstr "元寶"
+
+msgid "e.dailyQuest.notexist"
+msgstr "活動不存在"
+
+msgid "e.dailyQuest.readUserRankUnvalid"
+msgstr "日常活動讀取玩家排行失敗"
+
+msgid "e.dailyQuest.hadReward"
+msgstr "玩家已經領取過獎勵"
+
+msgid "e.dailyQuest.userCannotReward"
+msgstr "排行已刷新,玩家已經不滿足領取條件"
+
+msgid "e.monarchorder.notOpen"
+msgstr "君主令功能未開放"
+
+msgid "e.monarchorder.notExist"
+msgstr "尚未發布君主戰略指令"
+
+msgid "e.monarchorder.paramNotValid"
+msgstr "參數不符合規範"
+
+msgid "e.monarchorder.closedSignUp"
+msgstr "報名已結束，請等待下次戰略指令"
+
+msgid "e.monarchorder.overAllowedLevel"
+msgstr "兵種等級不正確"
+
+msgid "e.monarchorder.signUpAlready"
+msgstr "對不起，每個用戶只能報名一名武將"
+
+msgid "e.monarchorder.heroIsWorking"
+msgstr "對不起該武將正在執行其他任務"
+
+msgid "e.monarchorder.closedSignUpCancel"
+msgstr "戰鬥即將開始，正在統計參戰部隊，無法取消報名"
+
+msgid "e.hero.warStatus"
+msgstr "武將正在戰鬥中"
+
+msgid "game.strategy.monarchOrderDesc[NATION]"
+msgstr "諸位，攻下這座城池，向全天下展示[NATION]軍的力量！"
+
+msgid "e.item.heroUnmatch"
+msgstr "不能給他人武將使用道具"
+
+msgid "e.item.heroNotDead"
+msgstr "武將沒有重傷，不能使用此道具"
+
+msgid "e.pool.undefinedEffect"
+msgstr "道具對應的獎池效果不存在"
+
+msgid "e.pool.reachOpenLimit"
+msgstr "超出了開啓上限"
+
+msgid "e.pool.undefinedConfig"
+msgstr "道具對應的獎池配置不存在"
+
+msgid "e.pool.undefinedSize"
+msgstr "未定義獎池尺寸"
+
+msgid "e.pool.configError"
+msgstr "配置錯誤！無法將獎項平均分配到小獎池中"
+
+msgid "e.pool.configEmpty"
+msgstr "獎勵配置為空"
+
+msgid "e.pool.createError"
+msgstr "創建獎勵失敗"
+
+msgid "e.item.heroOnFightCantStudySingleSkill"
+msgstr "戰鬥中的武將不能學習單挑技能"
+
+msgid "e.hero.singleSkillsAllClose"
+msgstr "單挑技能都學滿且全都是鎖定或者專屬技能 不能學習技能"
+
+msgid "e.hero.singleSkillIsExist"
+msgstr "武將已掌握該單挑特技"
+
+msgid "e.hero.singleSkillisLockConnotStudy"
+msgstr "同類低級單挑技能被鎖定 不讓學習"
+
+msgid "e.item.learnSingleSkillSuccess"
+msgstr "單挑特技學習成功"
+
+msgid "e.item.connotDelTheLockSingleSkill"
+msgstr "不能忘掉已經鎖定的單挑技能"
+
+msgid "e.item.learnSingleSkillButForget[SKILLNAME]"
+msgstr "學習成功，但是忘記了單挑特技 [SKILLNAME]"
+
+msgid "e.item.learnSingleSkillFailed"
+msgstr "單挑技能學習失敗"
+
+msgid "e.item.heroOnFightCantStudyArray"
+msgstr "戰鬥中的武將不能學習陣型"
+
+msgid "e.hero.arrayExist"
+msgstr "武將陣型已存在"
+
+msgid "e.hero.arraysAllClose"
+msgstr "陣型都學滿且全部鎖定不能學習技能"
+
+msgid "e.item.learnArraySuccess"
+msgstr "陣法學習成功"
+
+msgid "e.item.learnArrayButForget[ARRAYNAME]"
+msgstr "學習成功，但是忘記了陣法 [ARRAYNAME]"
+
+msgid "e.item.learnArrayFailed"
+msgstr "陣法學習失敗"
+
+msgid "e.item.canNotBatUse"
+msgstr "該道具不可批量使用"
+
+msgid "e.hero.levelOverFifty"
+msgstr "武將等級大于等于50級"
+
+msgid "e.hero.reachMaxLevel"
+msgstr "武將等級達到上限"
+
+msgid "e.item.cantUseForNormalHero"
+msgstr "該道具只能對君主武將或史實武將使用"
+
+msgid "e.hero.heroReincarnateNumReachTheLimit"
+msgstr "該武將已經達到本伺服器可達轉生次數的上限"
+
+msgid "e.item.useLimitOverflow"
+msgstr "使用數量超出限制"
+
+msgid "e.hero.overMaxLevel"
+msgstr "武將已滿級無法修煉"
+
+msgid "e.hero.practice"
+msgstr "武將修煉中"
+
+msgid "e.hero.cannotResetPotentialWhenUnnormalStatus"
+msgstr "武將處于編組和重傷狀態時不能使用潛力點重置道具"
+
+msgid "e.hero.cannotResetPotentialWhenPotentialNotUsed"
+msgstr "武將潛力點全部分配後才能使用潛力點重置道具"
+
+msgid "e.hero.cannotResetPotentialWhenHasResetId"
+msgstr "使用了洗點功能，但是沒有選擇維持或者替換。則無法使用潛力點重置道具"
+
+msgid "e.hero.cannotResetPotentialWhenWrongHeroType"
+msgstr "只有史實武將和主將可以使用潛力點重置道具"
+
+msgid "e.hero.emperorHeroDataError"
+msgstr "主將數據異常"
+
+msgid "e.hero.historyHeroLogDataError"
+msgstr "史實武將日志數據異常"
+
+msgid "e.queue.notExist"
+msgstr "該佇列不存在"
+
+msgid "e.houseQueue.notExist"
+msgstr "該建築佇列不存在"
+
+msgid "e.recruitQueue.notExist"
+msgstr "該招募佇列不存在"
+
+msgid "e.item.soldierTypeIsNotSupported"
+msgstr "無法對該類型兵種使用"
+
+msgid "game.item.resourceBagEffect[WOOD][STONE][IRON][CROP]"
+msgstr "增加了[WOOD]木材、[STONE]石料、[IRON]鐵砂、[CROP]糧食"
+
+msgid "e.item.manorUnmatch"
+msgstr "不能給他人田莊使用道具"
+
+msgid "e.item.targetIsWrong"
+msgstr "只能對訓練中的武將使用"
+
+msgid "e.hero.heroExpItemInCd"
+msgstr "突飛令CD中"
+
+msgid "game.item.heroExpAdd[EXP]"
+msgstr "武將經驗值增加[EXP]"
+
+msgid "e.item.alreadyHaveTheHero"
+msgstr "已經擁有該武將"
+
+msgid "e.item.historyHeroDataErr"
+msgstr "不存在的史實武將"
+
+msgid "e.item.connotUse"
+msgstr "不滿足使用條件"
+
+msgid "e.item.heroOnFightCantStudySkill"
+msgstr "戰鬥中的武將不能學習技能"
+
+msgid "e.hero.skillsAllClose"
+msgstr "技能都學滿且全都是鎖定或者專屬技能 不能再學習技能"
+
+msgid "e.hero.connotStudy"
+msgstr "同類低級技能被鎖定 不讓學習"
+
+msgid "e.item.learnSkillSuccess"
+msgstr "特技學習成功"
+
+msgid "e.item.connotDelTheLockSkill"
+msgstr "不能忘掉已經鎖定的技能"
+
+msgid "e.item.learnSkillButForget[SKILLNAME]"
+msgstr "學習成功，但是忘記了特技 [SKILLNAME]"
+
+msgid "e.item.learnSkillFailed"
+msgstr "特技學習失敗"
+
+msgid "e.gift.unReach"
+msgstr "還未滿足禮包開啟條件，無法開啟禮包"
+
+msgid "e.item.todayUseLimitOverflow"
+msgstr "該類物品本日可使用次數，已達上限"
+
+msgid "e.hero.cannotUseOnDeadStatus"
+msgstr "武將重傷狀態不能恢復武將體力"
+
+msgid "e.item.notValidTargetId"
+msgstr "目標物件ID錯誤"
+
+msgid "e.item.undefinedTarget"
+msgstr "未定義使用物件"
+
+msgid "e.item.effectExists"
+msgstr "該效果已經存在"
+
+msgid "e.nation.ministerHasBeenImpeaching"
+msgstr "丞相已經開始被彈劾了"
+
+msgid "e.nation.haveVoted[NAME]"
+msgstr "您已經在本輪選舉中將選票投給[NAME]了"
+
+msgid "e.nation.haveVotedForImpeach"
+msgstr "您已經在本輪彈劾中投過票了"
+
+msgid "e.nation.relationHasBeenEstablished"
+msgstr "已經建立該勢力關係"
+
+msgid "e.nation.relationApplyHasBeenCommitedBefore"
+msgstr "您已經提交過相同申請"
+
+msgid "e.corps.youHaveBeenApplyedBefore"
+msgstr "您已經提交過入團申請，請等待審批"
+
+msgid "e.rank.ranktableIsWrong"
+msgstr "排行資料表錯誤"
+
+msgid "e.house.notExist"
+msgstr "該建築不存在"
+
+msgid "e.house.userUnmatch"
+msgstr "您無權操作此建築"
+
+msgid "e.soldier.notExist"
+msgstr "該士兵不存在"
+
+msgid "e.soldier.userUnmatch"
+msgstr "您無權操作該部隊"
+
+msgid "e.manor.userUnmatch"
+msgstr "您無權操作該田莊"
+
+msgid "e.dao.undefinedMainTable"
+msgstr "未定義資料主表"
+
+msgid "e.school.youHaveBeenApplyedBefore"
+msgstr "您已經提交過加入學堂申請，請等待審批"
+
+msgid "e.DailyQA.notExist"
+msgstr "使用者資料不存在"
+
+msgid "e.peachGarden.youHaveBeenApplyedBefore"
+msgstr "您已經提交過加入桃園申請，請等待審批..."
+
+msgid "e.peachGarden.youHaveBeenExpeledBefore"
+msgstr "您已經驅逐過該用戶"
+
+msgid "e.dberror"
+msgstr "資料庫內部錯誤"
+
+msgid "e.request.invalid"
+msgstr "請求資料錯誤"
+
+msgid "e.nation.cannotVoteUntilOneMonthAfterQuisle"
+msgstr "您剛叛國，不可參與選舉或彈劾"
+
+msgid "e.arena.resLockedUntil[TIME]"
+msgstr "資源爭奪戰將在[TIME]後開啓"
+
+msgid "game.defaultHeroName"
+msgstr "無名"
+
+msgid "e.mining.lockedUntil[TIME]"
+msgstr "將于[TIME]後開啓"
+
+msgid "e.mining.personalReachUpLimit"
+msgstr "TIPS: 佔領數到上限了"
+
+msgid "e.equipment.activitiesEquipmentNotUpGrade"
+msgstr "活動裝備不可進行升級"
+
+msgid "e.nation.wrongParam"
+msgstr "捐獻的銀兩數不能為0"
+
+msgid "e.nation.notImplement"
+msgstr "勢力新聞尚未開啟"
+
+msgid "e.server.busy"
+msgstr "伺服器忙，請稍後再試"
+
+msgid "e.system.notLogin"
+msgstr "您尚未登錄"
+
+msgid "e.mail.noReceiverSelected"
+msgstr "請填入收件人"
+
+msgid "e.mail.noContent"
+msgstr "請填寫郵件內容"
+
+msgid "e.arena.vizirUnStarted"
+msgstr "挑戰元勳活動尚未開啟"
+
+msgid "e.arena.vizirHasEnded"
+msgstr "挑戰元勳活動已經結束"
+
+msgid "e.shop.goodsBuyHotPleaseWait"
+msgstr "商品熱銷中，請稍後購買！"
+

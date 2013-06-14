@@ -1,0 +1,1278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: common\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-17 13:10+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: 丛杰 <tansuanna@hotmail.com>\n"
+"Language-Team: 千军破 <jie.cong@kunlun-inc.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _o;_v\n"
+"X-Poedit-Basepath: S:\\sg2-server\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "e.bookmark.reachMaxNum[NUM_LIMIT]"
+msgstr "Hotspot list full"
+
+msgid "e.bookmark.cityNotExist"
+msgstr "This city does not exist"
+
+msgid "e.bookmark.alreadyExist"
+msgstr "This city has been bookmarked."
+
+msgid "e.quest.cannotRewardNow"
+msgstr "Unable to collect now"
+
+msgid "e.quest.cannotRewardMulti"
+msgstr "You can't collect multiple times"
+
+msgid "e.quest.rewardTimesTooMuch"
+msgstr "Collect limit exceeded"
+
+msgid "e.quest.rewardTimesTooMuchInThisPeriod"
+msgstr "Too many rewards collected during this period"
+
+msgid "e.quest.notExist"
+msgstr "Invalid or nonexistent"
+
+msgid "e.quest.cannotReward"
+msgstr "Unable to collect event reward"
+
+msgid "e.quest.notSatisfyTerms"
+msgstr "Not qualified for reward"
+
+msgid "e.quest.termsConfigUnvalid"
+msgstr "Error fulfilling conditions"
+
+msgid "e.quest.rewardsConfigUnvalid"
+msgstr "Reward config error"
+
+msgid "game.prestigeLevel[PRESTIGE_LEVEL]"
+msgstr "Lv. [PRESTIGE_LEVEL]"
+
+msgid "e.nation.noSuchOfficialExist"
+msgstr "Office does not exist"
+
+msgid "e.nation.noPower"
+msgstr "Inadequate Rank"
+
+msgid "e.user.notExist"
+msgstr "The player does not exist"
+
+msgid "e.nation.noSuchUser"
+msgstr "The player does not in this Kingdom"
+
+msgid "e.nation.ministerCannotHaveOtherOfficial"
+msgstr "Premier can not be other Office"
+
+msgid "e.nation.hasOtherOfficial"
+msgstr "Already have another Office"
+
+msgid "e.nation.ministerCannotBeAppoint"
+msgstr "Can not appoint Office to Premier"
+
+msgid "e.nation.nobodyOnThePost"
+msgstr "Office is vacant"
+
+msgid "e.nation.ministerCannotBeDepose"
+msgstr "Can not dismiss Premier"
+
+msgid "e.nation.waitForTheNextVoting[MONTH][DAY][HOUR]"
+msgstr "The next election will start at [MONTH]/[DAY]/[HOUR] "
+
+msgid "e.nation.rankNotReach"
+msgstr "Your Ranking is inadequate"
+
+msgid "e.nation.ministerHaveRecommended"
+msgstr "You have already Run for Premier"
+
+msgid "e.nation.noMinisterExist"
+msgstr "The player you impeached does not exist"
+
+msgid "e.nation.ministerStatusNotAllowThisOperation"
+msgstr "This operation is not allowed right now"
+
+msgid "e.nation.cannotImpeachIn3DaysBefore"
+msgstr "You can't impeach 3 days before"
+
+msgid "e.nation.cannotImpeachYourself"
+msgstr "Not allowed to impeach yourself"
+
+msgid "e.user.nobilityNotMatch"
+msgstr "Inadequate Title"
+
+msgid "e.nation.rankNotMatch"
+msgstr "Your Ranking is inadequate"
+
+msgid "e.nation.candidateNotExist"
+msgstr "Candidate does not exist"
+
+msgid "e.nation.needMoreDevelop"
+msgstr "Inadequate development"
+
+msgid "game.enterStatus[NATIONA][NATIONB][STATUS]"
+msgstr "[NATIONA] and [NATIONB] becomes [STATUS]"
+
+msgid "e.nation.cannotCreateRelationWithSelf"
+msgstr "Can not start diplomacy with yourself"
+
+msgid "e.nation.notExist"
+msgstr "This Kingdom does not exist"
+
+msgid "e.nation.nationRelationTypeNotExist"
+msgstr "No diplomatic relations exist"
+
+msgid "e.nation.nationRelationTypeNoChange"
+msgstr "No change needed"
+
+msgid "e.nation.nationRelationInCD"
+msgstr "Wait for pending changes in diplomacy to take effect before making further adjustment"
+
+msgid "e.nation.techTypeNotExist"
+msgstr "Tech Type error"
+
+msgid "e.nation.nationTechTypeNotMeetConditions"
+msgstr "Landmark level already maxed or donation conditions not met"
+
+msgid "e.nation.techCoinReachMaxToday"
+msgstr "Your Silver donation on this technology today  reaches the upper limit"
+
+msgid "e.user.unenoughCoin"
+msgstr "Not enough Silver"
+
+msgid "e.nation.taskTypeNotExist"
+msgstr "Stimulus Task type error"
+
+msgid "e.nation.taskNeedCityName"
+msgstr "No city selected"
+
+msgid "e.city.unvalid"
+msgstr "Invalid city"
+
+msgid "e.nation.noPermissionToPublishTask"
+msgstr "Your Rank is inadequate to initiate this Stimulus Task"
+
+msgid "e.nation.taskIsBeingEffected"
+msgstr "Task already in effect"
+
+msgid "e.nation.timeNotReached"
+msgstr "Task not available yet"
+
+msgid "e.nation.operationTypeIsWrong"
+msgstr "Operation error, check operation type"
+
+msgid "e.nation.applyDataNotExist"
+msgstr "Data Error"
+
+msgid "e.nation.youHaveNoPower"
+msgstr "Inadequate Rank"
+
+msgid "Next voting: [MONTHA][DAYA][HOURA] - [MONTHB][DAYB][HOURB]"
+msgstr "The next election will last from [MONTHA]/[DAYA]/[HOURA] to [MONTHB]/[DAYB]/[HOURB]"
+
+msgid "e.nation.droitIsUnvalid"
+msgstr "Rank Invalid"
+
+msgid "e.nation.droitNotMatch"
+msgstr "Inadequate Rank"
+
+msgid "e.nation.noNeedToChange"
+msgstr "No change needed"
+
+msgid "e.nation.cannotSetDroitOfSceMa"
+msgstr "Can not change Vice Premier's Rank"
+
+msgid "e.nation.zeroDroitIsTooMuch"
+msgstr "Rank I"
+
+msgid "e.nation.strategyNumReachMax[LIMIT]"
+msgstr "Kingdom strategy count already reached limit of [LIMIT]"
+
+msgid "e.corps.youHaveNotJoinedACorps"
+msgstr "You have not joined a Legion"
+
+msgid "e.corps.wrongCorpsid"
+msgstr "Legion does not exist"
+
+msgid "e.corps.nameLengthIsWrong"
+msgstr "Legion name length must be between 4 and 16 characters"
+
+msgid "e.corps.declarationLengthIsWrong"
+msgstr "Legion description exceeds max length"
+
+msgid "e.corps.youMustJoinANationFirst"
+msgstr "You need to join a Kingdom first"
+
+msgid "e.crops.youMustQuitFromCorpsFirst"
+msgstr "You are already member of a Legion"
+
+msgid "e.corps.needMoreDevelopment"
+msgstr "Inadequate Development"
+
+msgid "e.corps.youHaveCreatedTooManyCorpsToday"
+msgstr "You have created too many Legions, please try again tomorrow."
+
+msgid "e.corps.corpsNameIsDuplicate"
+msgstr "Legion name already exists"
+
+msgid "e.corps.youHaveJoindACorps"
+msgstr "You are already member of a Legion. Please quit your current Legion before you join a new one."
+
+msgid "e.corps.yourNationIdIsDeferentFromCorpsId"
+msgstr "Legion belongs to an opposing Kingdom"
+
+msgid "e.corps.memberReachedMaxNum"
+msgstr "Legion has reached max size"
+
+msgid "e.corps.noPower"
+msgstr "Inadequate Rank"
+
+msgid "e.corps.youMustQuitFromCorpsFirst"
+msgstr "You already belong to a Legion"
+
+msgid "e.corps.cannotFindTheApplyInfo"
+msgstr "Diplomatic action not found"
+
+msgid "e.corps.wrongNation"
+msgstr "You are not in this Legion's Kingdom"
+
+msgid "e.corps.noSuchSubMaster"
+msgstr "Deputy Legion Commander does not exist"
+
+msgid "e.corps.cannotAppointYourself"
+msgstr "Cannot appoint yourself"
+
+msgid "e.corps.theCorpsBelongsToIsWrong"
+msgstr "Player is not a member of this Legion"
+
+msgid "e.corps.hasBeenTheSubmaster"
+msgstr "Player has already been appointed as Deputy Legion Commander"
+
+msgid "e.corps.noSubMasterPost"
+msgstr "There are no vacant Deputy Legion Commander posts"
+
+msgid "e.corps.corpsIdIsWrong"
+msgstr "Player is not a member of this Legion"
+
+msgid "e.corps.cannotAbdicateYourself"
+msgstr "Cannot abdicate yourself"
+
+msgid "game.corps.member"
+msgstr "Legion Member"
+
+msgid "game.corps.commander"
+msgstr "Legion Commander"
+
+msgid "game.corps.deputyCommander"
+msgstr "Deputy Legion Commander"
+
+msgid "game.corps.nullOfOfficial"
+msgstr "None Appointed"
+
+msgid "corpsIdIsWrong"
+msgstr "Legion not found"
+
+msgid "e.corps.youAreOfficial"
+msgstr "You are a Legion official, you can't quit"
+
+msgid "e.corps.cannotInviteSelf"
+msgstr "Cannot invite yourself"
+
+msgid "e.corps.hasBeingTheMemberOfThisCorps"
+msgstr "Player already a member of this Legion"
+
+msgid "e.corps.cannotInviteAMaster"
+msgstr "Cannot invite Legion Commanders"
+
+msgid "e.corps.cannotInivteOneTwiceInOneDay"
+msgstr "Cannot send invitation twice in one day"
+
+msgid "e.mail.notExist"
+msgstr "Mail does not exist"
+
+msgid "e.mail.thisMailIsNotBelongToYou"
+msgstr "Mail does not belong to you"
+
+msgid "e.mail.notACorpsInvitation"
+msgstr "This is not an invitation mail"
+
+msgid "e.mail.corpsInvitationUnvalid"
+msgstr "Sorry, this invitation has expired"
+
+msgid "e.corps.hasBeingIn[NAME]Corps"
+msgstr "You are a member of [NAME]"
+
+msgid "e.corps.MembersOf[NAME]CorpsReachedMaxNum"
+msgstr "[NAME] is full, unable to join"
+
+msgid "e.corps.masterCannotAcceptOtherInvition"
+msgstr "Legion Commanders can't accept Legion invitations"
+
+msgid "e.corps.corpsCodeTypeError"
+msgstr "Legion Code type error"
+
+msgid "e.corps.corpsScaleOrManNeedHigher"
+msgstr "Insufficient unique players, please admit more players"
+
+msgid "e.corps.corpsGoldCodeHasBeenReceived"
+msgstr "Golden Legion Code already collected"
+
+msgid "e.corps.corpsCodeOnlyGetOnceOneDay"
+msgstr "You can only collect one code a day, today's code has already been collected"
+
+msgid "e.corps.corpsCodeCountLimitOverflow"
+msgstr "Legion Code count exceeds limit"
+
+msgid "e.corps.goldCodeHaveReceivedComplete"
+msgstr "Gold Legion Code collect error"
+
+msgid "e.corps.corpsCodeReceivedError"
+msgstr "Legion Code collect error"
+
+msgid "e.friend.friendIsNotFind"
+msgstr "Player not found"
+
+msgid "e.friend.typeIsWrong"
+msgstr "Friend type error"
+
+msgid "e.friend.friendIsMyself"
+msgstr "Cannot add yourself to friend list"
+
+msgid "e.friend.blackListIsMyself"
+msgstr "Cannot add yourself to blacklist"
+
+msgid "e.friend.friendAlreadyExist"
+msgstr "Friend already exists"
+
+msgid "e.friend.blackListAlreadyExist"
+msgstr "Player already blacklisted"
+
+msgid "e.friend.friendBeyondLimit"
+msgstr "Friend list full"
+
+msgid "e.rank.rankTypeIsWrong"
+msgstr "Ranking type error"
+
+msgid "e.rank.NationIsNotFind"
+msgstr "Kingdom not found"
+
+msgid "e.rank.rankIsNotExist"
+msgstr "Ranking doesn't exist"
+
+msgid "e.rank.corpsIsNotFind"
+msgstr "Legion not found"
+
+msgid "e.rank.corpsInOtherNation"
+msgstr "Legion belongs to an opposing Kingdom"
+
+msgid "e.rank.userIsNotFind"
+msgstr "Player not found"
+
+msgid "e.money.consumeGoldNumError"
+msgstr "Purchase cost error"
+
+msgid "game.unknowError"
+msgstr "Unknown error"
+
+msgid "e.money.giftNotEnough"
+msgstr "Insufficient coupons"
+
+msgid "e.money.goldNotEnough"
+msgstr "Insufficient gold"
+
+msgid "e.mail.needMoreDevelop"
+msgstr "Development of 10 or above needed to send Mail"
+
+msgid "e.mail.emptyReceiverIsNotAllowed"
+msgstr "Please enter a recipient name"
+
+msgid "e.mail.receiversNotFound[NAME]"
+msgstr "Recipient [NAME] not found"
+
+msgid "e.mail.noPower"
+msgstr "Rank inadequate to perform this action"
+
+msgid "e.mail.senderCannotFetch"
+msgstr "Recipient unable to collect attachment"
+
+msgid "e.mail.attachmentsHaveBeenFetched"
+msgstr "Attachment already collected"
+
+msgid "e.mail.noAttachmentExist"
+msgstr "No attachment exists"
+
+msgid "e.mail.noMailSelected"
+msgstr "No mail selected"
+
+msgid "e.mail.thisMailIsNotYours"
+msgstr "Mail does not belong to you"
+
+msgid "e.house.richMaxLevel"
+msgstr "Building has reached max level"
+
+msgid "e.manor.resourceNotEnough"
+msgstr "Insufficient resources"
+
+msgid "e.house.queueNumReachMax"
+msgstr "Building queue full"
+
+msgid "e.house.statusAbnormal"
+msgstr "Building currently under construction"
+
+msgid "e.soldier.recruitHouseRequire[NAME][LEVEL]"
+msgstr "[NAME]Lv[LEVEL]"
+
+msgid "e.soldier.recruitTechRequire[NAME][LEVEL]"
+msgstr "[NAME]Lv[LEVEL]"
+
+msgid "e.house.houseNumReachMax"
+msgstr "You cannot construct anymore of this building in the current Manor"
+
+msgid "e.house.requireUnmatch"
+msgstr "Building requirements have not been met"
+
+msgid "e.city.warStatus"
+msgstr "City is in battle"
+
+msgid "e.manor.unopenedSalePlots"
+msgstr "Plot locked"
+
+msgid "e.house.positionLocked"
+msgstr "Plot already has a building"
+
+msgid "e.house.canNotbuild"
+msgstr "Unable to construct building"
+
+msgid "e.house.reachMaxLevel"
+msgstr "Building has reached max level"
+
+msgid "e.manor.resourceNotEnough.luBan"
+msgstr "田庄资源不够,不能使用鲁班传人"
+
+msgid "e.house.canNotDegrade"
+msgstr "Unable to demolish this building"
+
+msgid "e.house.recruitNumLimit[LIMIT]"
+msgstr "Recruitment"
+
+msgid "e.house.canNotRecruitSoldierType"
+msgstr "Building cannot recruit this soldier type"
+
+msgid "e.house.upgradeQueueNotExist"
+msgstr "No Upgrade Queue exists"
+
+msgid "e.house.emptyHouseQueueList"
+msgstr "Manor currently has no Building Queue"
+
+msgid "e.house.emptySoldierQueueList"
+msgstr "Manor currently has no Recruitment Queue"
+
+msgid "e.recruitQueue.intervalReachLowerLimit[SECOND]"
+msgstr "Fastest recruitment time reached ([SECOND] per soldier)"
+
+msgid "e.equipment.notExist"
+msgstr "Equipment does not exist"
+
+msgid "e.hero.notExist"
+msgstr "Hero does not exist"
+
+msgid "e.equipment.heroLevelNotEnough"
+msgstr "Hero level inadequate"
+
+msgid "e.equipment.soldierLimitChangedAndUnenough"
+msgstr "Gear increases max Troop Size, please reduce the number of units before you remove this gear"
+
+msgid "e.equipment.reachMaxStrength"
+msgstr "Enhancement maxed"
+
+msgid "e.equipment.strengthenItemNotEnough"
+msgstr "Insufficient enhancement items"
+
+msgid "e.equipment.upgradeRateItemNotEnough"
+msgstr "Insufficient items to increase the enhance success rate."
+
+msgid "e.equipment.strengthenFailed[DEGRADE]"
+msgstr "Enhance failed, enhance level decreased by [DEGRADE]"
+
+msgid "e.equipment.strengthenFailed"
+msgstr "Enhance failed"
+
+msgid "e.task.notExist"
+msgstr "Mission does not exist"
+
+msgid "e.task.unfinish"
+msgstr "Mission incomplete"
+
+msgid "e.manor.manorOfCityNotExist"
+msgstr "You don't have a Manor in this city"
+
+msgid "e.manor.alreadyExist"
+msgstr "You already have a Manor in this city"
+
+msgid "e.manor.beCleaningTheCity"
+msgstr "Battlefield is being cleared, please wait a moment"
+
+msgid "e.manor.cannotCreateManorInTollgate"
+msgstr "There are no Manors in a pass"
+
+msgid "e.manor.cityManorNumLimitRichMax"
+msgstr "There is no more space for Manors in this city, please choose a city with vacancies to create a Manor"
+
+msgid "e.manor.userTechManorMaxLimitRichMax"
+msgstr "You already have the maximum number of Manors, you must abandon one of your Manors to create a new one"
+
+msgid "e.manor.userManorLimitRichMax"
+msgstr "您所能拥有的田庄数量达到上限，请提高良田阡陌的等级以增加可拥有田庄数量上限"
+
+msgid "e.manor.createManorDroitInvalid"
+msgstr "Rank inadequate to create Manor in this city"
+
+msgid "game.manor.defaultName[CITYNAME]"
+msgstr "Manors in [CITYNAME]"
+
+msgid "e.manor.notExist"
+msgstr "Manor does not exist"
+
+msgid "e.manor.plotsAlreadyOpened"
+msgstr "Plot is already unlocked, unable to unlock again"
+
+msgid "e.manor.noPlotPrice"
+msgstr "Plot price error, temporarily unable to unlock"
+
+msgid "e.manor.resourceNotEnough.wood"
+msgstr "Insufficient Wood"
+
+msgid "e.manor.resourceNotEnough.stone"
+msgstr "Insufficient Stone"
+
+msgid "e.manor.resourceNotEnough.iron"
+msgstr "Insufficient Iron"
+
+msgid "e.manor.resourceNotEnough.crop"
+msgstr "Insufficient Food"
+
+msgid "e.manor.nameLengthNotValid"
+msgstr "Manor name length invalid"
+
+msgid "e.manor.nameIncludeFilterWord"
+msgstr "Name contains banned words"
+
+msgid "e.manor.cannotDropMainManor"
+msgstr "You can't abandon your Manor in the capital"
+
+msgid "e.manor.cannotDropAfterCreate24hours"
+msgstr "Manors can not be abandoned within 24 hours of creation"
+
+msgid "e.city.nationUnmatch"
+msgstr "This city does not belong to your Kingdom"
+
+msgid "e.manor.rebuildManorDroitInvalid"
+msgstr "Your Rank or Title isn't high enough, you can't rebuild a Manor in this city"
+
+msgid "e.manor.richCityMaxManorLimit"
+msgstr "There is no more space for Manors in this city, unable to rebuild here!"
+
+msgid "e.manor.richUserMaxManorLimit"
+msgstr "You already have the maximum number of Manors, unable to rebuild"
+
+msgid "e.manor.noneOccupyManor"
+msgstr "This manor is unoccupied"
+
+msgid "e.manor.levelOfNewCityIsHigher"
+msgstr "You can't rebuild a low level city Manor in a higher level city!"
+
+msgid "e.manor.lackOfCoinForRebuild"
+msgstr "Insufficient Silver, unable to rebuild"
+
+msgid "e.manor.lackOfPermissionForRebuild"
+msgstr "You have 0 rebuildable Manors, unable to rebuild"
+
+msgid "e.hero.deadStatus"
+msgstr "Hero is injured"
+
+msgid "e.army.statusAbnormal"
+msgstr "Troop is on a mission"
+
+msgid "game.undefinedUserName"
+msgstr "NPC Troop"
+
+msgid "e.army.notExist"
+msgstr "Troop does not exist"
+
+msgid "e.army.notInCity"
+msgstr "Troop not in city"
+
+msgid "e.army.targetArmyNotExist"
+msgstr "Target does not exist"
+
+msgid "e.army.cannotSupply72hoursBefore"
+msgstr "Cannot supply an account made within the last 72 hours"
+
+msgid "e.army.targetArmyNotInCity"
+msgstr "Target not in city"
+
+msgid "e.army.developLessThenSupplyTargetUser"
+msgstr "Development less than target user"
+
+msgid "e.army.movePermissionDenied"
+msgstr "Inadequate Rank, unable to move Troop"
+
+msgid "e.battlefield.cannotMoveTo"
+msgstr "Cannot move to target location"
+
+msgid "e.army.strategyNotValid"
+msgstr "Strategy parameter error"
+
+msgid "e.hero.statusAbnormal"
+msgstr "Hero status abnormal"
+
+msgid "e.hero.arrayNotHold"
+msgstr "Hero hasn't learned this formation"
+
+msgid "e.army.notValidSoldierNum"
+msgstr "Invalid number"
+
+msgid "e.hero.soldierLimitOverflow"
+msgstr "Max Troop Size exceeded"
+
+msgid "e.army.notEnoughSoldier"
+msgstr "Troop does not have enough soldiers"
+
+msgid "e.army.capacityNotEnough"
+msgstr "Insufficient carrying capacity"
+
+msgid "e.army.supplyResourceNotValid"
+msgstr "Enter a valid amount of resources to supply"
+
+msgid "e.army.supplyOthersMustCrop"
+msgstr "Only Food can be supplied to other player's troops"
+
+msgid "e.army.differentPlayersCannotSupplyTroops"
+msgstr "Units cannot be supplied to other players"
+
+msgid "e.army.differentSoldierCannotSupplyTroops"
+msgstr "Two different unit types cannot be simultaneously swapped"
+
+msgid "e.army.supplyTargetOverflowCapacity"
+msgstr "Supplied resources exceed receing Troop's carrying capacity"
+
+msgid "e.hero.soldierBeExchangedLimitOverflow"
+msgstr "被交换方兵的数量超过交换方带兵上限"
+
+msgid "e.hero.soldierExchangeLimitOverflow"
+msgstr "交换方兵的数量超过被交换方带兵上限"
+
+msgid "e.army.targetNotValid"
+msgstr "Unable to reach target"
+
+msgid "e.army.targetIsCoexistRelation"
+msgstr "You have a Peace Treaty with that Kingdom, unable to send Troops"
+
+msgid "e.army.targetIsCapitalButNotLastCity"
+msgstr "Target city is enemy capital, but other enemy cities still remain"
+
+msgid "e.army.newComerCannotDepartToCityOfOtherNations"
+msgstr "New users cannot attack other Kingdoms for 4 hours after creation"
+
+msgid "e.army.zeroDroitCannotDepartToCityOfOtherNations"
+msgstr "Players of Rank I cannot attack other Kingdoms"
+
+msgid "e.army.userUnmatch"
+msgstr "You have no control over this Troop"
+
+msgid "e.army.departNumReachMax[CITYNAME][LIMIT]"
+msgstr "The number of units in [CITYNAME] has already exceeded the limit. (Current limit: [LIMIT])"
+
+msgid "e.army.unenoughPowerToDispatch"
+msgstr "Insufficient Stamina, unable to deploy"
+
+msgid "e.army.unenoughCropToDispatch"
+msgstr "Insufficient Food, unable to deploy"
+
+msgid "e.army.dispatchExactTimeNotValid"
+msgstr "Invalid input"
+
+msgid "e.army.noDroitToRepatriate"
+msgstr "Inadequate Rank, unable to repatriate Troop"
+
+msgid "game.attackAlert.numLess1000"
+msgstr "Under 1000 "
+
+msgid "game.attackAlert.numLess10000[N]"
+msgstr "Over [N] thousand troops "
+
+msgid "game.attackAlert.numTenThousand[N]"
+msgstr "Over [N]0,000 troops "
+
+msgid "game.attackAlert.numTenThousand"
+msgstr "Hordes of troops "
+
+msgid "e.city.notExist"
+msgstr "City does not exist"
+
+msgid "game.corps.nullOfName"
+msgstr "None"
+
+msgid "game.user.nullOfOfficial"
+msgstr "None"
+
+msgid "e.system.closeRegister"
+msgstr "Server closed to new registrations"
+
+msgid "e.user.activeCodeInvalid"
+msgstr "Activation code invalid, please input again"
+
+msgid "e.user.nameNotInput"
+msgstr "Character name required"
+
+msgid "e.user.nameLengthInvalid"
+msgstr "Character name exceeds length limit"
+
+msgid "e.user.nameIncludeFilterWord"
+msgstr "Name contains banned words"
+
+msgid "e.user.nameAlreadyExist"
+msgstr "Name already exists"
+
+msgid "e.user.alreadyExist"
+msgstr "You've already created a character"
+
+msgid "e.user.roleNameIsRetention"
+msgstr "Name temporarily reserved"
+
+msgid "e.user.cannotUseHistoryName"
+msgstr "You can't use an Epic Hero name!"
+
+msgid "e.user.thisStateIsClosed"
+msgstr "This Kingdom is closed"
+
+msgid "e.nation.capitalError"
+msgstr "Unable to select this Kingdom"
+
+msgid "e.user.ministerCannotQuisle"
+msgstr "Premier can not betray Kingdom"
+
+msgid "e.user.reachMaxQuisleTimes"
+msgstr "You have already used all your Betrayals"
+
+msgid "e.user.cannotQuisleWithAnyArmy"
+msgstr "You cannot betray while you have troops"
+
+msgid "e.user.NationIsNotFind"
+msgstr "Kingdom does not exist"
+
+msgid "e.user.thisNationIsDead"
+msgstr "Kingdom has been destroyed"
+
+msgid "e.user.cannotSelectThisNation"
+msgstr "You can't select this Kingdom"
+
+msgid "e.user.techLevelReachMax"
+msgstr "Research level maxed"
+
+msgid "e.tech.needOtherTechLevel"
+msgstr "Level 10 research required (any military tech)"
+
+msgid "e.tech.alreadyExist"
+msgstr "Already researched"
+
+msgid "e.user.techIdIsWrong"
+msgstr "Research type invalid"
+
+msgid "e.user.techRequireUnmatch"
+msgstr "Requirements not met"
+
+msgid "e.user.notAllowRename"
+msgstr "Unable to rename"
+
+msgid "e.user.alreadyGetSalary"
+msgstr "Salary already collected today"
+
+msgid "e.war.unenoughMoveStep"
+msgstr "Unable to move to target position"
+
+msgid "game.warReport.nationLoss[NATIONNAME][LOSS]"
+msgstr "[104#[NATIONNAME]'s Forces#] casualties: [LOSS]"
+
+msgid "game.warReport.heroExp[NAME][EXP]"
+msgstr "[104#[NAME]#] +EXP [EXP]"
+
+msgid "game.warReport.heroRank1[NATION][USER_ID][USER][HERO_ID][HERO][KILL]"
+msgstr "[NATION] [4#[<a href='event:player-[USER_ID]'>[USER]</a>]#] deployed the brave [104#[<a href='event:hero-[HERO_ID]'>[HERO]</a>]#] and defeated [KILL] enemies"
+
+msgid "game.warReport.heroRank2[NATION][USER_ID][USER][HERO_ID][HERO][KILL]"
+msgstr "[NATION] [4#[<a href='event:player-[USER_ID]'>[USER]</a>]#] deployed the unmatched [104#[<a href='event:hero-[HERO_ID]'>[HERO]</a>]#] and slaughtered [KILL] enemies"
+
+msgid "game.warReport.heroRank3[NATION][USER_ID][USER][HERO_ID][HERO][KILL]"
+msgstr "[NATION] [4#[<a href='event:player-[USER_ID]'>[USER]</a>]#] deployed the legendary [104#[<a href='event:hero-[HERO_ID]'>[HERO]</a>]#] and vanquished [KILL] enemies"
+
+msgid "game.warReport.title.less1000[CITY]"
+msgstr "[3#A Skirmish has begun in [CITY]#]"
+
+msgid "game.warReport.title.less10000[CITY]"
+msgstr "[3#A clash has occurred in [CITY]#]"
+
+msgid "game.warReport.title.less100000[CITY]"
+msgstr "[3#Battle is raging in [CITY]#]"
+
+msgid "game.warReport.title.less500000[CITY]"
+msgstr "[3#A campaign is being waged in [CITY]#]"
+
+msgid "game.warReport.title.default[CITY]"
+msgstr "[3#War has erupted in [CITY]#]"
+
+msgid "game.warReport.warId[WAR_ID]"
+msgstr "War ID: [WAR_ID]"
+
+msgid "Y-m-d H:i:s"
+msgstr "m-d-Y H:i:s"
+
+msgid "game.warReport.commonBody[START_TIME][END_TIME][CITY][NATIONLOSS]"
+msgstr "[3#Time：#]From [START_TIME] to [END_TIME]<br>[3#At：#][CITY]<br>[NATIONLOSS]<br>"
+
+msgid "game.warReport.rewards.coin[COIN]"
+msgstr "[3#Silver#] [COIN]"
+
+msgid "game.warReport.noKill"
+msgstr "[0#Enemies Remaining#]"
+
+msgid "game.warReport.noLoss"
+msgstr "[0#Uninjured#]"
+
+msgid "game.warReport.noHeroExp"
+msgstr "[0#No EXP Rec.#]"
+
+msgid "game.warReport.noRewards"
+msgstr "[0#No Rewards Rec.#]"
+
+msgid "game.warReport.userBody[KILL][LOSS][HEROEXP][REWARDS]"
+msgstr "[3#Results：#]<br>[4#Units destroyed：#]<br>[KILL]<br>[0#Units lost：#]<br>[LOSS]<br>[4#Hero：#]<br>[HEROEXP]<br>[4#Reward：#]<br>[REWARDS]<br>"
+
+msgid "e.hero.armyNotExist"
+msgstr "Troop does not exist"
+
+msgid "e.hero.notEnoughPower"
+msgstr "Insufficient stamina"
+
+msgid "e.hero.notEnoughCrop"
+msgstr "Troop carrying insufficient Food"
+
+msgid "e.exchange.errorTimesTooMuch"
+msgstr "Too many invalid exchange codes today, try again tomorrow."
+
+msgid "e.exchange.error"
+msgstr "Exchange code invalid"
+
+msgid "e.exchange.isUsed"
+msgstr "Exchange code already used"
+
+msgid "e.exchange.isExpired"
+msgstr "Exchange code expired"
+
+msgid "e.exchange.searchError"
+msgstr "Exchange code search error"
+
+msgid "e.exchange.rewardTimesTooMuch"
+msgstr "Too many rewards collected for today, come back again tomorrow."
+
+msgid "e.exchange.isExchanged"
+msgstr "You've already exchanged for this reward, you can't exchange again."
+
+msgid "e.sgsoap.regionServerErr"
+msgstr "Regional server connection error"
+
+msgid "e.DailyQA.numError"
+msgstr "Purchase quantity error"
+
+msgid "e.arena.notEnoughSoldier"
+msgstr "Insufficient Units"
+
+msgid "e.arena.noUser"
+msgstr "Player not found in Arena"
+
+msgid "e.arena.noExchangeAward"
+msgstr "No reward"
+
+msgid "e.arena.needHigherLevel"
+msgstr "Inadequate Level"
+
+msgid "e.arena.needMoreExploit"
+msgstr "功勋不足"
+
+msgid "e.user.undefinedBuffTarget"
+msgstr "Invalid target"
+
+msgid "e.buff.undefinedBuffTarget"
+msgstr "Target does not exist"
+
+msgid "e.shop.goodsNotExist"
+msgstr "Item does not exist"
+
+msgid "e.goods.unableUseGiftGold"
+msgstr "You cannot use coupons to buy this item"
+
+msgid "e.shop.receiverNotExist"
+msgstr "Recipient does not exist"
+
+msgid "game.shop.giftInfo[NAME][NUM]"
+msgstr "[NAME] x [NUM] "
+
+msgid "game.shop.giftMailReceiverTitle[NAME]"
+msgstr "You received an item from [[NAME]]"
+
+msgid "game.shop.giftMailReceiverBody[NAME][GIFTS]"
+msgstr "You received the following items from [[NAME]]: [GIFTS]"
+
+msgid "game.shop.giftMailSenderTitle[NAME]"
+msgstr "You sent an item to [[NAME]]"
+
+msgid "game.shop.giftMailSenderBody[NAME][GIFTS]"
+msgstr "You sent the following items to [[NAME]]: [GIFTS]"
+
+msgid "game.manor.nullOfdroit"
+msgstr "无"
+
+msgid "game.city.satrapIsNull"
+msgstr "No Governor has been appointed to this city"
+
+msgid "game.user.defaultName"
+msgstr "None"
+
+msgid "e.city.canNotEnterOthersBattlefield"
+msgstr "You can't view another Kingdom's battlefield"
+
+msgid "e.city.notSatrapOrNoDroitToPublishTask"
+msgstr "Only Governors or players with appropriate ranking can intiate tasks"
+
+msgid "e.city.taskExist"
+msgstr "Stimulus Task in progress"
+
+msgid "e.city.publishNoticePermissionDenied"
+msgstr "You aren't Governor, you don't have the privilege of posting announcements"
+
+msgid "e.city.droitInputInvalid"
+msgstr "Please input a valid Rank level"
+
+msgid "e.city.noDroitToSetDroit"
+msgstr "You don't have the required Rank to change this city's Rank requirements"
+
+msgid "e.city.villageCannotSetDroit"
+msgstr "You can't change the required Rank for Counties"
+
+msgid "e.city.oneDroitIsTooFew"
+msgstr "This Kingdom has too many cities set above level II Rank requirements"
+
+msgid "e.city.buyResourceNumError"
+msgstr "Please input a quantity to buy"
+
+msgid "e.city.buyResoureReachLimit"
+msgstr "You have purchased the maximum amount of resources today"
+
+msgid "e.city.buyCoinReachLimit"
+msgstr "You have purchased the maximum amount of Silver today"
+
+msgid "e.city.exchangeResourceInvalid"
+msgstr "Enter a quantity to exchange"
+
+msgid "e.city.exchangeResoureUnbalance"
+msgstr "Resources to exchange are not equal"
+
+msgid "e.army.notInSelfManor"
+msgstr "You have no troops in this city"
+
+msgid "e.city.workCoinNotValid"
+msgstr "Enter an amount of Silver"
+
+msgid "e.hero.powerNotEnough"
+msgstr "Insufficient Stamina"
+
+msgid "e.city.notValidTransitResources"
+msgstr "Enter the amount of Resources to transport"
+
+msgid "e.manor.targetManorNotExist"
+msgstr "Target Manor does not exist"
+
+msgid "e.city.noPower"
+msgstr "Inadequate Rank, you can't perform this action"
+
+msgid "e.user.ministerCannotBeSatrap"
+msgstr "The Premier can't serve as Governor"
+
+msgid "e.city.satrapNationIdIsWrong"
+msgstr "This player doesn't belong to your Kingdom"
+
+msgid "e.city.userHasAlreadyBeenAppointedBefore"
+msgstr "This player has already been appointed as Governor"
+
+msgid "e.city.cannotBeSatrapOfMoreThan3Cities"
+msgstr "Cannot be Governor of more than 3 cities"
+
+msgid "game.city.satrap"
+msgstr "Governor "
+
+msgid "e.city.thereIsNoSatrap"
+msgstr "No Governor appointed"
+
+msgid "e.manor.cropAlreadyFull"
+msgstr "City Food Reserves full"
+
+msgid "e.manor.cropNotEnough"
+msgstr "Insufficient Food"
+
+msgid "e.manor.notOwnCity"
+msgstr "Manor is not in this city"
+
+msgid "e.city.notOwnArmy"
+msgstr "Troop does not belong to you"
+
+msgid "e.army.cropNotEnough"
+msgstr "Insufficient Food"
+
+msgid "e.army.notOwnCity"
+msgstr "Troop does not belong to this city"
+
+msgid "e.city.cropReachLimit"
+msgstr "This city's Food Reserves are full"
+
+msgid "e.city.wasOccupyCanNotBePractice"
+msgstr "This city has been occupied, you can't Train here"
+
+msgid "e.city.beyondHourLimit"
+msgstr "Training session exceeds max duration"
+
+msgid "e.hero.overMaxLevel"
+msgstr "Hero at max level, unable to Train"
+
+msgid "e.hero.practice"
+msgstr "Hero in Training"
+
+msgid "game.practice.timeAndExp[NAME][HOUR][EXP]"
+msgstr "\t[[NAME]] spent [HOUR] hours in Training, +EXP [EXP].<br>"
+
+msgid "game.practice.dropItem[NAME][NUM]"
+msgstr "\t[[NAME]] x [NUM]"
+
+msgid "game.practice.dropItemTitle"
+msgstr "<br><br>Reward：<br>"
+
+msgid "e.city.notExistPracticeQueue"
+msgstr "No Training Queue exists"
+
+msgid "e.hero.unableTreasure"
+msgstr "Hero doesn't meet requirements for Treasure Hunt"
+
+msgid "e.item.errorEffect"
+msgstr "Effect error"
+
+msgid "e.config.fileError"
+msgstr "File error"
+
+msgid "e.hero.reachHeroNumLimit"
+msgstr "武将数量达到上限，请提升科技“招贤纳士”以提升上限。"
+
+msgid "e.hero.refreshNumReachLimit"
+msgstr "Daily refresh limit exceeded"
+
+msgid "e.hero.undefinedRefreshType"
+msgstr "Refresh type error"
+
+msgid "e.hero.errorSettings"
+msgstr "Refresh parameter error"
+
+msgid "e.hero.allotArgsError"
+msgstr "Invalid parameter"
+
+msgid "e.hero.notValidPotentialValue"
+msgstr "Please choose stat points correctly"
+
+msgid "e.hero.notEnoughPotential"
+msgstr "Insufficient unassigned stat points"
+
+msgid "e.hero.cannotRenameEmperor"
+msgstr "Unable to rename character"
+
+msgid "e.hero.cannotRenameHistory"
+msgstr "Unable to change Epic Hero names"
+
+msgid "e.hero.nameLengthInvalid"
+msgstr "Hero name length invalid"
+
+msgid "e.hero.cannotUseHistoryName"
+msgstr "Unable to change Epic Hero names"
+
+msgid "e.hero.nameIncludeFilterWord"
+msgstr "Name contains banned words"
+
+msgid "e.hero.cannotFireEmperor"
+msgstr "Unable to dismiss character hero"
+
+msgid "e.hero.cannotFireUnnormalStatus"
+msgstr "Hero cannot be dismissed while recovering from injury, Training, or commanding deployed troops"
+
+msgid "e.hero.cannotFireBefore3Hours"
+msgstr "Hero cannot be dismissed within 3 hours of recruitment"
+
+msgid "e.hero.notGrouped"
+msgstr "No troops have been rallied"
+
+msgid "e.army.notExistInCity"
+msgstr "You have no troops in this city"
+
+msgid "e.item.unenoughNum"
+msgstr "Quantity insufficient"
+
+msgid "e.item.useOk"
+msgstr "Item use successful"
+
+msgid "e.item.undefinedEffect"
+msgstr "Item has undefined effect"
+
+msgid "e.item.heroUnmatch"
+msgstr "Items cannot be used on other players' heroes"
+
+msgid "e.item.heroNotDead"
+msgstr "You have no injured heroes, unable to use item"
+
+msgid "e.pool.undefinedEffect"
+msgstr "道具对应的奖池效果不存在"
+
+msgid "e.pool.undefinedConfig"
+msgstr "道具对应的奖池配置不存在"
+
+msgid "e.pool.undefinedSize"
+msgstr "未定义奖池尺寸"
+
+msgid "e.pool.configError"
+msgstr "配置错误！无法将奖项平均分配到小奖池中"
+
+msgid "e.pool.configEmpty"
+msgstr "No reward settings "
+
+msgid "e.pool.createError"
+msgstr "Failed to create Reward"
+
+msgid "e.hero.arrayExist"
+msgstr "Hero formation already exists"
+
+msgid "e.item.learnArraySuccess"
+msgstr "Formation learned successfully"
+
+msgid "e.item.learnArrayButForget[ARRAYNAME]"
+msgstr "Formation learned, but your hero forgot [ARRAYNAME]"
+
+msgid "e.item.learnArrayFailed"
+msgstr "Failed to learn Formation"
+
+msgid "e.hero.reachMaxLevel"
+msgstr "Hero reached max level"
+
+msgid "e.queue.notExist"
+msgstr "Queue does not exist"
+
+msgid "e.houseQueue.notExist"
+msgstr "Building Queue does not exist"
+
+msgid "e.recruitQueue.notExist"
+msgstr "Recruitment Queue does not exist"
+
+msgid "e.item.manorUnmatch"
+msgstr "Unable to use items on other players' Manors"
+
+msgid "e.hero.skillExist"
+msgstr "Hero specialty already exists"
+
+msgid "e.item.learnSkillSuccess"
+msgstr "Specialty learned successfully"
+
+msgid "e.item.learnSkillButForget[SKILLNAME]"
+msgstr "Specialty learned successfully, but your hero forgot [SKILLNAME]"
+
+msgid "e.item.learnSkillFailed"
+msgstr "Failed to learn Specialty"
+
+msgid "game.item.resourceBagEffect[WOOD][STONE][IRON][CROP]"
+msgstr "Collected [WOOD] Wood, [STONE] Stone, [IRON] Iron, [CROP] Food"
+
+msgid "e.hero.cannotUseOnDeadStatus"
+msgstr "Stamina does not replenish while a hero is injured"
+
+msgid "e.item.notValidTargetId"
+msgstr "Invalid target ID"
+
+msgid "e.item.undefinedTarget"
+msgstr "Undefined target"
+
+msgid "e.nation.ministerHasBeenImpeaching"
+msgstr "Premier Impeachment proceedings are under way"
+
+msgid "e.nation.haveVoted[NAME]"
+msgstr "You've already voted for [NAME] during this election"
+
+msgid "e.nation.haveVotedForImpeach"
+msgstr "You've already voted during this impeachment"
+
+msgid "e.nation.relationHasBeenEstablished"
+msgstr "This diplomatic relationship has already been established"
+
+msgid "e.nation.relationApplyHasBeenCommitedBefore"
+msgstr "This request has already been submitted"
+
+msgid "e.corps.youHaveBeenApplyedBefore"
+msgstr "You've already applied for this Legion, decision pending"
+
+msgid "e.rank.ranktableIsWrong"
+msgstr "Ranking error"
+
+msgid "e.house.notExist"
+msgstr "Building does not exist"
+
+msgid "e.house.userUnmatch"
+msgstr "You have no control over this building"
+
+msgid "e.soldier.notExist"
+msgstr "Unit does not exist"
+
+msgid "e.soldier.userUnmatch"
+msgstr "You have no control over this Troop"
+
+msgid "e.manor.userUnmatch"
+msgstr "You have no control over this Manor"
+
+msgid "e.dao.undefinedMainTable"
+msgstr "Undefined table"
+
+msgid "e.DailyQA.notExist"
+msgstr "User does not exist"
+
+msgid "e.dberror"
+msgstr "Database error"
+
+msgid "e.request.invalid"
+msgstr "Data request error"
+
+msgid "game.defaultHeroName"
+msgstr "Unnamed"
+
+msgid "e.ctrl.paramNotValid"
+msgstr "Game parameter error"
+
+msgid "e.nation.wrongParam"
+msgstr "You can't donate 0 Silver"
+
+msgid "e.nation.notImplement"
+msgstr "Kingdom news unavailable at this time"
+
+msgid "e.system.notLogin"
+msgstr "Please login"
+
+msgid "e.mail.noReceiverSelected"
+msgstr "You must choose a recipient"
+
+msgid "e.mail.noContent"
+msgstr "You can't send a message with no body"
+
