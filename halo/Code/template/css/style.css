@@ -1,7 +1,0 @@
-.indexBody {
-    border: 1px solid #CCCCCC; 
-    background:url(images/<{$smarty.const.GAME_LANG_ID}>/<{if $smarty.const.OEM_ID==112}>oem_<{/if}>bgg.jpg) no-repeat 0 0;
-    padding:90px 5px 10px; 
-    -webkit-background-size: 100% 80px;
-     -o-background-size: 100% 80px;
-}
